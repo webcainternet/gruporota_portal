@@ -77,14 +77,21 @@
 
 
 
+#topnav {
+  margin-top: -20px;
+}
+
 #topnav li a {
-  padding: 0px 25px 20px; /*10px 25px 28px;*/
+  padding: 20px 25px 20px; /*10px 25px 28px;*/
   font-size: 16px !important;
   letter-spacing: 0px !important;
 }
 
 #topnav li.current-menu-item > a, #topnav li.sfHover > a, #topnav li a:hover {
-	color:#444444 !important; /*0b9444*/
+	 /* color:#444444 !important;0b9444 
+	background-color: red; */
+	color: #FFF !important;
+  	background-color: #444;
 }
 
 #topnav li a:before {
