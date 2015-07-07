@@ -1,9 +1,17 @@
 		<footer class="motopress-wrapper footer">
+
 			<div class="container">
 				<div class="row">
+
+				<?php /*
+
 					<div class="<?php echo cherry_get_layout_class( 'full_width_content' ); ?>" data-motopress-wrapper-file="wrapper/wrapper-footer.php" data-motopress-wrapper-type="footer" data-motopress-id="<?php echo uniqid() ?>">
 						<?php get_template_part('wrapper/wrapper-footer'); ?>
 					</div>
+
+				*/ ?>
+					<div style="height: 450px;">Conteudo rodape</div>
+
 				</div>
 			</div>
 		</footer>
