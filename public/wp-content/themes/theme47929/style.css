@@ -91,7 +91,7 @@
 	 /* color:#444444 !important;0b9444 
 	background-color: red; */
 	color: #FFF !important;
-  	background-color: #444;
+  	background-color: #444 !important;
 }
 
 #topnav li a:before {
