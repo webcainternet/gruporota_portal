@@ -38,7 +38,7 @@
 					<div style="height: 450px; width: 1170px; margin-left: 30px;">
 
 						<div style="margin: auto; width: 100px; margin-bottom: 60px;">
-							<img src="http://gruporota2.homolog.lojavirtual.digital/wp-content/themes/theme47929/images/logo.png">
+							<img src="http://gruporota2.homolog.lojavirtual.digital/wp-content/themes/theme47929/images/logo_pb.png">
 						</div>
 						
 						<div class="footer-spacing">
