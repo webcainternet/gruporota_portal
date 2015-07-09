@@ -103,11 +103,11 @@
 						</div>
 
 						<div style="margin: auto; width: 100%;">
-							<div id="copyright" style="float: left; width: 45%; padding-top: 25px; min-width: 300px;">
-								Desenvolvido por <a href="http://webca.com.br" target="_blank">WebCA Internet</a> - Grupo Rota do Brasil © <?php echo date('Y'); ?><!-- [[%FOOTER_LINK]] -->
+							<div id="copyright" style="float: left; font: normal 14px/18px Open Sans !important; width: 45%; padding-top: 25px; min-width: 300px;">
+								Desenvolvido por <a style="color: #CCC" href="http://webca.com.br" target="_blank">WebCA Internet</a> - Grupo Rota do Brasil © <?php echo date('Y'); ?><!-- [[%FOOTER_LINK]] -->
 							</div>
 
-							<div id="copyright" style="float: right; width: 45%; padding-top: 25px; min-width: 300px; text-align: right;">
+							<div id="copyright" style="float: right; font: normal 14px/18px Open Sans !important; width: 45%; padding-top: 25px; min-width: 300px; text-align: right;">
 								Políticas de Privacidade | Fale Conosco
 							</div>
 						</div>
