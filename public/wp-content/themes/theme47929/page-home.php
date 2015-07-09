@@ -43,7 +43,7 @@ get_header(); ?>
 <div class="motopress-wrapper content-holder clearfix">
 	<div>
 		<div class="areaitem">
-			<div class="areatitulo" style="background-color: #8a3e58;">Construções</div>
+			<div class="areatitulo" style="background-color: #9b59b6;">Engenharia e construção</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_construtora.jpg');">&nbsp;</div>
 			<div class="areatexto">
 				<div class="areatextocontent">Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos</div>
@@ -51,7 +51,7 @@ get_header(); ?>
 		</div>
 
 		<div class="areaitem">
-			<div class="areatitulo" style="background-color: #00933e;">Contábil</div>
+			<div class="areatitulo" style="background-color: #2ecc71;">Serviços empresariais</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_contabil.jpg');">&nbsp;</div>
 			<div class="areatexto">
 				<div class="areatextocontent">Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos</div>
@@ -59,7 +59,7 @@ get_header(); ?>
 		</div>
 
 		<div class="areaitem">
-			<div class="areatitulo" style="background-color: #1d2d89;">Industrial</div>
+			<div class="areatitulo" style="background-color: #7f8c8d;">Segurança Patrimonial</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_engenharia.jpg');">&nbsp;</div>
 			<div class="areatexto">
 				<div class="areatextocontent">Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos</div>
@@ -67,7 +67,7 @@ get_header(); ?>
 		</div>
 
 		<div class="areaitem"  style="background-color: #F0F0F0;">
-			<div class="areatitulo" style="background-color: #2ecc71;">Ambiental</div>
+			<div class="areatitulo" style="background-color: #2980b9;">Imobiliário</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_ambiente.jpg');">&nbsp;</div>
 			<div class="areatexto">
 				<div class="areatextocontent">Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos</div>
@@ -75,7 +75,7 @@ get_header(); ?>
 		</div>
 
 		<div class="areaitem"  style="background-color: #F0F0F0;">
-			<div class="areatitulo" style="background-color: #aa942e;">Negócios Internacionais</div>
+			<div class="areatitulo" style="background-color: #2c3e50;">Saneamento</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_negocio.jpg');">&nbsp;</div>
 			<div class="areatexto">
 				<div class="areatextocontent">Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos</div>
@@ -83,7 +83,7 @@ get_header(); ?>
 		</div>
 
 		<div class="areaitem"  style="background-color: #F0F0F0;">
-			<div class="areatitulo" style="background-color: #6f7074;">Segurança</div>
+			<div class="areatitulo" style="background-color: #27ae60;">Transporte e Logística</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_seguranca.jpg'); background-size: 100%;">&nbsp;</div>
 			<div class="areatexto">
 				<div class="areatextocontent">Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos</div>
@@ -91,7 +91,7 @@ get_header(); ?>
 		</div>
 
 		<div class="areaitem">
-			<div class="areatitulo" style="background-color: #1d2d89;">GRB Business Center</div>
+			<div class="areatitulo" style="background-color: #1d2d89;">Negocios Internacionais</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_predios.jpg'); background-size: 100%;">&nbsp;</div>
 			<div class="areatexto">
 				<div class="areatextocontent">Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos</div>
@@ -99,7 +99,7 @@ get_header(); ?>
 		</div>
 
 		<div class="areaitem">
-			<div class="areatitulo" style="background-color: #e67e22;">Titulo Area</div>
+			<div class="areatitulo" style="background-color: #e67e22;">Responsabilidade Social</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_familia.jpg'); background-size: auto 100%;">&nbsp;</div>
 			<div class="areatexto">
 				<div class="areatextocontent">Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos</div>
@@ -107,7 +107,7 @@ get_header(); ?>
 		</div>
 
 		<div class="areaitem">
-			<div class="areatitulo" style="background-color: #e74c3c;">Titulo Area</div>
+			<div class="areatitulo" style="background-color: #e74c3c;">Ambiental</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_crianca.jpg'); background-size: auto 100%;">&nbsp;</div>
 			<div class="areatexto">
 				<div class="areatextocontent">Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos</div>
