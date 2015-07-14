@@ -21,6 +21,9 @@
 		line-height: 30px;
 		font: normal 15px/20px Open Sans !important;
 	}
+	.footer {
+		border-top:0px
+	}
 </style>
 
 		<footer class="motopress-wrapper footer">
