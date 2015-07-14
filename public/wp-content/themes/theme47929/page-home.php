@@ -105,7 +105,7 @@ get_header(); ?>
 
 		<div class="areaitem" style="background-color: #F0F0F0;">
 			<div class="areatitulo" style="background-color: #27ae60;">Transporte e Logística</div>
-			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_seguranca.jpg'); background-size: 100%;">&nbsp;</div>
+			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/.jpg'); background-size: 100%;">&nbsp;</div>
 			<div class="areatexto">
 				<div class="areatextocontent">Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos</div>
 			</div>
