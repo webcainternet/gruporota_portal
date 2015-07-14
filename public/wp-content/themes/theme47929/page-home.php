@@ -66,7 +66,7 @@ get_header(); ?>
 <div class="motopress-wrapper content-holder clearfix" style="padding-bottom: 0px;">
 	<div>
 		<div class="areaitem">
-			<div class="areatitulo" style="background-color: #2c3e50; /* #9b59b6;*/ ">Engenharia e construção</div>
+			<div class="areatitulo" style="background-color: #2c3e50; /* #9b59b6;*/ margin-left: 5px;">Engenharia e construção</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_construtora.jpg');">&nbsp;</div>
 			<div class="areatexto">
 				<div class="areatextocontent">Eficiencia e Integração de ferramentas para entregar soluções dos compromissos firmados</div>
@@ -74,7 +74,7 @@ get_header(); ?>
 		</div>
 
 		<div class="areaitem">
-			<div class="areatitulo" style="background-color: #2c3e50; /* #2ecc71;*/ ">Serviços empresariais</div>
+			<div class="areatitulo" style="background-color: #2c3e50; /* #2ecc71;*/ margin-left: 5px;">Serviços empresariais</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_contabil.jpg');">&nbsp;</div>
 			<div class="areatexto">
 				<div class="areatextocontent">Gerenciamento Contabil, Jurídico, Empresarial e Serviços Tecnicos Profissionais</div>
@@ -82,7 +82,7 @@ get_header(); ?>
 		</div>
 
 		<div class="areaitem">
-			<div class="areatitulo" style="background-color: #2c3e50; /* #7f8c8d;*/ ">Segurança Patrimonial</div>
+			<div class="areatitulo" style="background-color: #2c3e50; /* #7f8c8d;*/ margin-left: 5px;">Segurança Patrimonial</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_seguranca.jpg');">&nbsp;</div>
 			<div class="areatexto">
 				<div class="areatextocontent">Agir de forma estratégica, dinâmica e com tecnologia para proteger seu patrimonio</div>
@@ -90,7 +90,7 @@ get_header(); ?>
 		</div>
 
 		<div class="areaitem" style="background-color: #F0F0F0;">
-			<div class="areatitulo" style="background-color: #2c3e50; /* #2980b9;*/ ">Imobiliário</div>
+			<div class="areatitulo" style="background-color: #2c3e50; /* #2980b9;*/ margin-left: 5px;">Imobiliário</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_engenharia.jpg');">&nbsp;</div>
 			<div class="areatexto">
 				<div class="areatextocontent">Desenvolvimento e Planejamento para projetar 'Sonhos'</div>
@@ -98,7 +98,7 @@ get_header(); ?>
 		</div>
 
 		<div class="areaitem" style="background-color: #F0F0F0;">
-			<div class="areatitulo" style="background-color: #2c3e50; /* #2c3e50;*/ ">Saneamento</div>
+			<div class="areatitulo" style="background-color: #2c3e50; /* #2c3e50;*/ margin-left: 5px;">Saneamento</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/.jpg');">&nbsp;</div>
 			<div class="areatexto">
 				<div class="areatextocontent">Planejar e Executar o Desenvolvimento e Qualidade de Vida de Comunidades e Municípios</div>
@@ -106,7 +106,7 @@ get_header(); ?>
 		</div>
 
 		<div class="areaitem" style="background-color: #F0F0F0;">
-			<div class="areatitulo" style="background-color: #2c3e50; /* #27ae60;*/ ">Transporte e Logística</div>
+			<div class="areatitulo" style="background-color: #2c3e50; /* #27ae60;*/ margin-left: 5px;">Transporte e Logística</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/.jpg'); background-size: 100%;">&nbsp;</div>
 			<div class="areatexto">
 				<div class="areatextocontent">Transportar Desenvolvimento e Riquezas de forma Eficiente e Arrojada</div>
@@ -114,7 +114,7 @@ get_header(); ?>
 		</div>
 
 		<div class="areaitem">
-			<div class="areatitulo" style="background-color: #2c3e50; /* #1d2d89;*/ ">Negocios Internacionais</div>
+			<div class="areatitulo" style="background-color: #2c3e50; /* #1d2d89;*/ margin-left: 5px;">Negocios Internacionais</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_negocios.jpg'); background-size: 100%;">&nbsp;</div>
 			<div class="areatexto">
 				<div class="areatextocontent">Integrar Demandas e Ofertas entre os continentes: Americano, Europeu, Asiático e Africano</div>
@@ -122,7 +122,7 @@ get_header(); ?>
 		</div>
 
 		<div class="areaitem">
-			<div class="areatitulo" style="background-color: #2c3e50; /* #e67e22;*/ ">Responsabilidade Social</div>
+			<div class="areatitulo" style="background-color: #2c3e50; /* #e67e22;*/ margin-left: 5px;">Responsabilidade Social</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_familia.jpg'); background-size: auto 100%;">&nbsp;</div>
 			<div class="areatexto">
 				<div class="areatextocontent">Promover a inserção de Pessoas às necessidades básicas nas comunidades em que atuamos</div>
@@ -130,7 +130,7 @@ get_header(); ?>
 		</div>
 
 		<div class="areaitem">
-			<div class="areatitulo" style="background-color: #2c3e50; /* #e74c3c;*/ ">Ambiental</div>
+			<div class="areatitulo" style="background-color: #2c3e50; /* #e74c3c;*/ margin-left: 5px;">Ambiental</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/.jpg'); background-size: auto 100%;">&nbsp;</div>
 			<div class="areatexto">
 				<div class="areatextocontent">Trazer soluções para harmonizar a convivência do homem com o ambiente</div>
