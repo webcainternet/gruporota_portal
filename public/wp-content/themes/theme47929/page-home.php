@@ -113,7 +113,7 @@ get_header(); ?>
 
 		<div class="areaitem">
 			<div class="areatitulo" style="background-color: #1d2d89;">Negocios Internacionais</div>
-			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_predios.jpg'); background-size: 100%;">&nbsp;</div>
+			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/.jpg'); background-size: 100%;">&nbsp;</div>
 			<div class="areatexto">
 				<div class="areatextocontent">Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos</div>
 			</div>
