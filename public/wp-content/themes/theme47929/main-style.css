@@ -180,7 +180,7 @@ address {
 	-webkit-border-radius:50%;
 	-moz-border-radius:50%;
 	border-radius:50%;
-	background-color:#e4601b;
+	background-color:#444444;
 }
 #back-top-wrapper a:hover span { background-color:#1c1c1c; }
 .btn, .btn:focus, #sidebar .search-form .btn, #sidebar .search-form .btn:focus {
@@ -238,21 +238,21 @@ a.thumbnail:hover {
 	color:#b8b8b8;
 	text-decoration:none;
 }
-.breadcrumb a:hover, .breadcrumb .active { color:#e4601b; }
+.breadcrumb a:hover, .breadcrumb .active { color:#444444; }
 .breadcrumb__t li.divider { margin:0 4px; }
 .breadcrumb__t li.divider:after { color:#b8b8b8; }
 .post__holder { margin-bottom:60px; }
 .post-title { margin-bottom:25px; }
 .post-title a { color:#1c1c1c; }
-.post-title a:hover { color:#e4601b; }
+.post-title a:hover { color:#444444; }
 .post_meta {
 	margin:0;
 	border-color:#f2f2f2;
 }
 .post_meta div.post_meta_unite { border-color:#f2f2f2; }
-.post_meta i { color:#e4601b; }
+.post_meta i { color:#444444; }
 .post_meta a, .post_meta a i { color:#1c1c1c; }
-.post_meta a:hover, .post_meta a:hover i { color:#e4601b; }
+.post_meta a:hover, .post_meta a:hover i { color:#444444; }
 .post-author { border-color:#f2f2f2; }
 .portfolio .thumbnail__portfolio { margin-bottom:15px; }
 .caption__portfolio h3 {
@@ -261,7 +261,7 @@ a.thumbnail:hover {
 	line-height:22px;
 }
 .caption__portfolio h3 a { color:#1c1c1c; }
-.caption__portfolio h3 a:hover { color:#e4601b; }
+.caption__portfolio h3 a:hover { color:#444444; }
 .zoom-icon { background:none repeat scroll 0 0 rgba(0,0,0,0.2); }
 .filterable-portfolio .image-wrap { background:none; }
 .filter-wrapper {
@@ -284,12 +284,12 @@ a.thumbnail:hover {
 	color:#1c1c1c;
 }
 .nav-pills li.active a, .nav-pills li.active a:focus, .nav-pills li a:hover, .nav-pills li.active a:hover {
-	color:#e4601b;
+	color:#444444;
 	background:none;
 }
 .portfolio-meta, .portfolio-meta-list { border-color:#f2f2f2; }
-.portfolio-meta i, .portfolio-meta-list i { color:#e4601b; }
-.flex-control-paging li a { background:#e4601b; }
+.portfolio-meta i, .portfolio-meta-list i { color:#444444; }
+.flex-control-paging li a { background:#444444; }
 .flex-control-paging li a.flex-active, .flex-control-paging li a:hover { background:#1c1c1c; }
 .pager {
 	margin:0;
@@ -298,7 +298,7 @@ a.thumbnail:hover {
 }
 .pager li a, .pager li a:focus {
 	color:#fff;
-	background:#e4601b;
+	background:#444444;
 	border:none;
 }
 .pager li.active a, .pager li a:hover {
@@ -310,7 +310,7 @@ a.thumbnail:hover {
 	background:#f2f2f2;
 }
 .comment-list .comment .reply a {
-	color:#e4601b;
+	color:#444444;
 	background:none;
 	border:none;
 }
@@ -330,7 +330,7 @@ a.thumbnail:hover {
 	margin-bottom:3px;
 	font-size:10px;
 	line-height:14px;
-	color:#e4601b;
+	color:#444444;
 	text-transform:uppercase;
 }
 #sidebar .post-list_h {
@@ -340,7 +340,7 @@ a.thumbnail:hover {
 	margin-bottom:3px;
 }
 #sidebar .post-list_h a { color:#1c1c1c; }
-#sidebar .post-list_h a:hover { color:#e4601b; }
+#sidebar .post-list_h a:hover { color:#444444; }
 #sidebar ul { margin:0; }
 #sidebar ul li {
 	list-style-type:none;
@@ -353,7 +353,7 @@ a.thumbnail:hover {
 #sidebar ul li a {
 	vertical-align:top;
 	line-height:20px;
-	color:#e4601b;
+	color:#444444;
 }
 #sidebar ul li a:hover { color:#1c1c1c; }
 #sidebar .unstyled li {
@@ -366,7 +366,7 @@ a.thumbnail:hover {
 	background:none;
 }
 #sidebar .unstyled li .excerpt { margin-bottom:9px; }
-#sidebar .unstyled .comments-custom_li .comments-custom_txt a { color:#e4601b; }
+#sidebar .unstyled .comments-custom_li .comments-custom_txt a { color:#444444; }
 #sidebar .unstyled .comments-custom_li .comments-custom_txt a:hover {
 	color:#1c1c1c;
 	text-decoration:none;
@@ -379,7 +379,7 @@ a.thumbnail:hover {
 }
 #sidebar .search-form_it { height:20px; }
 #sidebar .btn, #sidebar .btn:focus {
-	color:#e4601b;
+	color:#444444;
 	padding:0;
 	height:20px;
 	line-height:20px;
@@ -387,7 +387,7 @@ a.thumbnail:hover {
 }
 #sidebar .btn:hover { color:#1c1c1c; }
 #calendar_wrap caption { color:#1c1c1c; }
-#calendar_wrap thead th { color:#e4601b; }
+#calendar_wrap thead th { color:#444444; }
 .social-nets-wrapper .social { overflow:hidden; }
 .social-nets-wrapper .social li {
 	float:left;
@@ -478,7 +478,7 @@ a.thumbnail:hover {
 	background:url(images/testi_quote_close.png) 0 0 no-repeat;
 }
 .testimonials .testi-item .testi-item_blockquote a { color:#1c1c1c; }
-.testimonials .testi-item .testi-item_blockquote a:hover { color:#e4601b; }
+.testimonials .testi-item .testi-item_blockquote a:hover { color:#444444; }
 .testimonials .testi-item .testi-meta {
 	padding:0;
 	float:right;
@@ -489,7 +489,7 @@ a.thumbnail:hover {
 }
 .recent-posts li h5 { font:bold 13px/18px "Trebuchet MS", Arial, Helvetica, sans-serif; }
 .recent-posts li h5 a { color:#1c1c1c; }
-.recent-posts li h5 a:hover { color:#e4601b; }
+.recent-posts li h5 a:hover { color:#444444; }
 .recent-posts.two-col, .recent-posts.three-col, .recent-posts.four-col, .recent-posts.six-col { margin-left:-2% !important; }
 .recent-posts.two-col li, .recent-posts.three-col li, .recent-posts.four-col li, .recent-posts.six-col li {
 	display:inline-block;
@@ -521,7 +521,7 @@ a.thumbnail:hover {
 .list.arrow-list  ul li a {
 	vertical-align:top;
 	line-height:20px;
-	color:#e4601b;
+	color:#444444;
 }
 .list.arrow-list  ul li a:hover { color:#1c1c1c; }
 .list.arrow-list  ul li:before {
@@ -564,24 +564,24 @@ a.thumbnail:hover {
 	text-transform:uppercase;
 }
 .footer .footer-text a { color:#bebebe; }
-.footer .footer-text a:hover { color:#e4601b; }
+.footer .footer-text a:hover { color:#444444; }
 input[type="submit"], input[type="reset"], input[type="submit"]:focus, input[type="reset"]:focus {
 	color:#fff !important;
 	height:30px !important;
 	line-height:30px !important;
 	font-size:14px;
 	padding:0 12px;
-	background:#e4601b;
+	background:#444444;
 }
 input[type="submit"]:hover, input[type="reset"]:hover { background:#1c1c1c; }
 .testimonial {
 	background:none;
 	border:1px solid #f2f2f2;
 }
-.faq-list .faq-list_h { color:#e4601b; }
+.faq-list .faq-list_h { color:#444444; }
 .faq-list .faq-list_h h4 { letter-spacing:0; }
-.faq-list .marker { color:#e4601b; }
-.error404-holder_num { color:#e4601b; }
+.faq-list .marker { color:#444444; }
+.error404-holder_num { color:#444444; }
 .google-map { margin-bottom:40px; }
 .wpcf7-form p.field input { height:32px; }
 .wpcf7-not-valid-tip { text-transform:none !important; }
