@@ -77,7 +77,7 @@ get_header(); ?>
 			<div class="areatitulo" style="background-color: #2ecc71;">Serviços empresariais</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_contabil.jpg');">&nbsp;</div>
 			<div class="areatexto">
-				<div class="areatextocontent">Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos</div>
+				<div class="areatextocontent">Gerenciamento Contabil, Jurídico, Empresarial e Serviços Tecnicos Profissionais</div>
 			</div>
 		</div>
 
@@ -101,7 +101,7 @@ get_header(); ?>
 			<div class="areatitulo" style="background-color: #2c3e50;">Saneamento</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/.jpg');">&nbsp;</div>
 			<div class="areatexto">
-				<div class="areatextocontent">Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos</div>
+				<div class="areatextocontent">Planejar e Executar o Desenvolvimento e Qualidade de Vida de Comunidades e Municípios</div>
 			</div>
 		</div>
 
