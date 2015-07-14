@@ -153,7 +153,7 @@ get_header(); ?>
 	<div style="background-color: #F6F6F6;">
 						<div style="float: left; width: 66.666%; background-color: #222; padding-top: 10px;">
 							<div style="float: right; width: 870px;">
-								<div style="font-size: 16px !important; letter-spacing: 0px !important; text-transform: uppercase; padding: 20px 25px 20px; color: #222 !important; background-color: #DDD !important; width: 260px; margin-left: 15px; border-top-left-radius: 5px; border-top-right-radius: 5px;">
+								<div style="font-size: 16px !important; letter-spacing: 0px !important; text-transform: uppercase; padding: 20px 25px 20px; color: #222 !important; background-color: #DDD !important; width: 260px; margin-left: 45px; border-top-left-radius: 5px; border-top-right-radius: 5px;">
 									Grupo Rota do Brasil no Mundo
 								</div>
 							</div>
@@ -168,7 +168,7 @@ get_header(); ?>
 
 						<div style="float: left; width: 66.666%; background-color: #f0f0f0;">
 							<div style="float: right; width: 870px;">
-								<div style="padding: 15px; color: #222;">Somos um Grupo Empresarial Brasileiro com foco no crescimento planejado, presente em países estratégicos e sempre buscando prospecção de novos negócios e parcerias.</div>
+								<div style="padding: 15px; margin-left: 30px; color: #222;">Somos um Grupo Empresarial Brasileiro com foco no crescimento planejado, presente em países estratégicos e sempre buscando prospecção de novos negócios e parcerias.</div>
 								<img src="/wp-content/themes/theme47929/images/home_mapa.png" style="max-height: 385px;">
 							</div>
 						</div>

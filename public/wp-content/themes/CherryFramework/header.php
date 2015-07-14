@@ -3,7 +3,7 @@
 <!--[if IE 7 ]><html class="ie ie7" <?php language_attributes();?>> <![endif]-->
 <!--[if IE 8 ]><html class="ie ie8" <?php language_attributes();?>> <![endif]-->
 <!--[if IE 9 ]><html class="ie ie9" <?php language_attributes();?>> <![endif]-->
-<!--[if (gt IE 9)|!(IE)]><!--><html <?php language_attributes();?>> <!--<![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html <?php language_attributes();?> style="background-color: #46607A;"> <!--<![endif]-->
 <head>
 	<title><?php if ( is_category() ) {
 		echo theme_locals("category_for")." &quot;"; single_cat_title(); echo '&quot; | '; bloginfo( 'name' );
@@ -94,7 +94,7 @@
 	</script>
 </head>
 
-<body <?php body_class(); ?>>
+<body <?php body_class(); ?> style="max-width: 1440px; margin: auto;">
 	<div id="motopress-main" class="main-holder">
 
 		<!--Begin #motopress-main-->
