@@ -144,7 +144,7 @@ get_header(); ?>
 		Grupo Rota no Mundo
 	</div>
 </div>
-<div class="motopress-wrapper content-holder clearfix">
+<div class="motopress-wrapper content-holder clearfix" style="padding-bottom: 0px;">
 	<div style="background-color: #F6F6F6;">
 		<div class="container">
 			<div class="row">
@@ -175,7 +175,7 @@ get_header(); ?>
 
 
 <!-- NOTICIA -->
-<div style="border-bottom: solid 2px #F0F0F0; width: 1170px; margin: auto;">
+<div style="border-bottom: solid 2px #F0F0F0; width: 1170px; margin: auto;background-color: #F6F6F6;">
 	<div style="font-size: 16px !important; letter-spacing: 0px !important; text-transform: uppercase; padding: 20px 25px 20px; color: #FFF !important; background-color: #2c3e50 !important; width: 185px; margin-left: 15px; border-top-left-radius: 5px; border-top-right-radius: 5px;">
 		Noticias
 	</div>
