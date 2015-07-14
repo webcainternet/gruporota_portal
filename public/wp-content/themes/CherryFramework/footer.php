@@ -22,7 +22,8 @@
 		font: normal 15px/20px Open Sans !important;
 	}
 	.footer {
-		border-top:0px
+		border-top:0px !important;
+		  margin-top: -1px !important;
 	}
 </style>
 
