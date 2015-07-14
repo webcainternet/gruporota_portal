@@ -53,7 +53,7 @@ get_header(); ?>
 		position: absolute;
 		font: normal 15px/20px Open Sans !important;
 		background-color: red;
-		margin-top: -36px;
+		margin-top: -28px;
 		z-index: 10;
 		padding: 8px 15px 8px 15px;
 		text-transform: uppercase;
