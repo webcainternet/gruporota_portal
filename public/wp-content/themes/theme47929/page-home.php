@@ -30,7 +30,7 @@ get_header(); ?>
 	}
 	.areatextocontent { 
 		padding: 15px;
-		font: normal 12px/20px Open Sans !important;
+		font: normal 14px/20px Open Sans !important;
   		color: #777;
 	}
 	.areatextocontentnoticia { 
@@ -85,7 +85,7 @@ get_header(); ?>
 			<div class="areatitulo" style="background-color: #7f8c8d;">Segurança Patrimonial</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_seguranca.jpg');">&nbsp;</div>
 			<div class="areatexto">
-				<div class="areatextocontent">Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos</div>
+				<div class="areatextocontent">Agir de forma estratégica, dinâmica e com tecnologia para proteger seu patrimonio</div>
 			</div>
 		</div>
 
@@ -109,7 +109,7 @@ get_header(); ?>
 			<div class="areatitulo" style="background-color: #27ae60;">Transporte e Logística</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/.jpg'); background-size: 100%;">&nbsp;</div>
 			<div class="areatexto">
-				<div class="areatextocontent">Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos</div>
+				<div class="areatextocontent">Transportar Desenvolvimento e Riquezas de forma Eficiente e Arrojada</div>
 			</div>
 		</div>
 
@@ -125,7 +125,7 @@ get_header(); ?>
 			<div class="areatitulo" style="background-color: #e67e22;">Responsabilidade Social</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_familia.jpg'); background-size: auto 100%;">&nbsp;</div>
 			<div class="areatexto">
-				<div class="areatextocontent">Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos</div>
+				<div class="areatextocontent">Promover a inserção de Pessoas às necessidades básicas nas comunidades em que atuamos</div>
 			</div>
 		</div>
 
@@ -133,7 +133,7 @@ get_header(); ?>
 			<div class="areatitulo" style="background-color: #e74c3c;">Ambiental</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/.jpg'); background-size: auto 100%;">&nbsp;</div>
 			<div class="areatexto">
-				<div class="areatextocontent">Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos</div>
+				<div class="areatextocontent">Trazer soluções para harmonizar a convivência do homem com o ambiente</div>
 			</div>
 		</div>
 
