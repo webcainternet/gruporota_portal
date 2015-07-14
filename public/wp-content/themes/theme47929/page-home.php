@@ -115,7 +115,7 @@ get_header(); ?>
 
 		<div class="areaitem">
 			<div class="areatitulo" style="background-color: #1d2d89;">Negocios Internacionais</div>
-			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/.jpg'); background-size: 100%;">&nbsp;</div>
+			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_negocios.jpg'); background-size: 100%;">&nbsp;</div>
 			<div class="areatexto">
 				<div class="areatextocontent">Integrar Demandas e Ofertas entre os continentes: Americano, Europeu, Asiático e Africano</div>
 			</div>
