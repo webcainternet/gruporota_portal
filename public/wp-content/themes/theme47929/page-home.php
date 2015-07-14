@@ -175,12 +175,14 @@ get_header(); ?>
 
 
 <!-- NOTICIA -->
-<div style="border-bottom: solid 2px #F0F0F0; width: 1170px; margin: auto;background-color: #F6F6F6;">
-	<div style="font-size: 16px !important; letter-spacing: 0px !important; text-transform: uppercase; padding: 20px 25px 20px; color: #FFF !important; background-color: #2c3e50 !important; width: 185px; margin-left: 15px; border-top-left-radius: 5px; border-top-right-radius: 5px;">
-		Noticias
+<div class="motopress-wrapper content-holder clearfix" style="padding: 0px;background-color: #F6F6F6;">
+	<div style="border-bottom: solid 2px #46607A; width: 1170px; margin: auto;">
+		<div style="font-size: 16px !important; letter-spacing: 0px !important; text-transform: uppercase; padding: 20px 25px 20px; color: #FFF !important; background-color: #2c3e50 !important; width: 185px; margin-left: 15px; border-top-left-radius: 5px; border-top-right-radius: 5px;">
+			Noticias
+		</div>
 	</div>
 </div>
-<div class="motopress-wrapper content-holder clearfix" style="padding-bottom: 70px;">
+<div class="motopress-wrapper content-holder clearfix" style="padding-bottom: 15px;">
 	<div>
 		<div class="container">
 			<div class="row">
