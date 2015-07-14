@@ -1,7 +1,7 @@
 <style type="text/css">
 	.footer-spacing { 
 		float: left; width: 24.999%;
-		 height: 330px;
+		 height: 300px;
 	}
 	.footer-title {
 		color: #FFFFFF;
@@ -14,7 +14,7 @@
 		list-style-type: none;
 		padding: 0px;
     	margin: 0px;
-    	color: #CCC;
+    	color: #999;
 	}
 
 	.footerli {
@@ -35,13 +35,17 @@
 					</div>
 
 				*/ ?>
-					<div style="height: 450px; width: 1170px; margin-left: 30px;">
+					<div style="height: 300px; width: 1170px; margin-left: 30px;">
 
-						<div style="margin: auto; width: 100px; margin-bottom: 60px;">
-							<img src="http://gruporota2.homolog.lojavirtual.digital/wp-content/themes/theme47929/images/logo_pb.png">
+						<div class="footer-spacing" style="width: 19%;">
+							<div style="margin: auto; width: 100px; margin-bottom: 60px;">
+								<img src="http://gruporota2.homolog.lojavirtual.digital/wp-content/themes/theme47929/images/logo_pb.png" style="opacity: 0.5; filter: alpha(opacity=50);">
+							</div>
 						</div>
+
 						
-						<div class="footer-spacing">
+						
+						<div class="footer-spacing" style="width: 21%;">
 							<div class="footer-title">O que fazemos?</div>
 							<ul class="footerul">
 								<li class="footerli">Engenharia e construção</li>
@@ -56,7 +60,7 @@
 							</ul>
 						</div>
 
-						<div class="footer-spacing">
+						<div class="footer-spacing" style="width: 17%;">
 							<div class="footer-title">Quem Somos</div>
 							<ul class="footerul">
 								<li class="footerli">O Grupo Rota</li>
@@ -70,14 +74,15 @@
 							</ul>
 						</div>
 
-						<div class="footer-spacing">
-							<div class="footer-title">Área restrita</div>
+						<div class="footer-spacing" style="width: 10%;">
+							<?php /* <div class="footer-title">Área restrita</div>
 							<ul class="footerul">
 								<li class="footerli">Portal SharePoint</li>
 								<li class="footerli">Webmail</li>
 							</ul>
+							*/ ?>
 						
-							<div class="footer-title" style="margin-top: 30px;">Redes Sociais</div>
+							<div class="footer-title">Redes Sociais</div>
 							<ul class="footerul">
 								<li class="footerli">Facebook</li>
 								<li class="footerli">Instagram</li>
@@ -87,30 +92,13 @@
 							</ul>
 						</div>
 
-						<div class="footer-spacing">
-							<div class="footer-title">Serviços empresariais</div>
+						<div class="footer-spacing" style="width: 27%;">
 							<ul class="footerul">
-								<li class="footerli">Deixei estes links</li>
-								<li class="footerli">Para possiveis acessos</li>
-								<li class="footerli">A areas internas como</li>
-								<li class="footerli">Agenda contábil</li>
-								<li class="footerli">Segunda via de boletos</li>
-								<li class="footerli">Entre outros</li>
-								<li class="footerli">Negocios Internacionais</li>
-								<li class="footerli">Responsabilidade Social</li>
-								<li class="footerli">Ambiental</li>
+								<li class="footerli"><div id="copyright" style="font: normal 11px/18px Open Sans !important;min-width: 300px; text-align: right;">Grupo Rota do Brasil © <?php echo date('Y'); ?><!-- [[%FOOTER_LINK]] --></div></li>
+								<li class="footerli"><div id="copyright" style="font: normal 11px/18px Open Sans !important;min-width: 300px; text-align: right;">Políticas de Privacidade | Fale Conosco</div></li>
 							</ul>
 						</div>
-
-						<div style="margin: auto; width: 100%;">
-							<div id="copyright" style="float: left; font: normal 11px/18px Open Sans !important; width: 45%; padding-top: 25px; min-width: 300px;">
-								Desenvolvido por <a style="color: #CCC" href="http://webca.com.br" target="_blank">WebCA Internet</a> - Grupo Rota do Brasil © <?php echo date('Y'); ?><!-- [[%FOOTER_LINK]] -->
-							</div>
-
-							<div id="copyright" style="float: right; font: normal 11px/18px Open Sans !important; width: 45%; padding-top: 25px; min-width: 300px; text-align: right;">
-								Políticas de Privacidade | Fale Conosco
-							</div>
-						</div>
+							
 
 					</div>
 
