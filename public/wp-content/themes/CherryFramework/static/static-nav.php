@@ -11,9 +11,12 @@
 		color: #444444 !important;
 	}
 	.linkgold:hover {
-		color: #b19d33 !important;
 		text-decoration: underline;
 		background-color: none !important;
+	}
+
+	.sf-menu > li > a:hover, .sf-menu > li.sfHover> a, .sf-menu > li.current-menu-item > a, .sf-menu > li.current_page_item > a {
+	  background: none;
 	}
 </style>
 
