@@ -5,6 +5,15 @@
 
 get_header(); ?>
 
+<style type="text/css">
+.header {
+  height: 190px;
+}
+.title-header {
+	display: none;
+}
+</style>
+
 <div class="motopress-wrapper content-holder clearfix">
 	<div class="container">
 		<div class="row">
