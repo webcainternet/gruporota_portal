@@ -11,7 +11,7 @@
 		color: #444444 !important;
 	}
 	.linkgold:hover {
-		text-decoration: underline;
+		text-decoration: underline !important;
 		background-color: none !important;
 		font: bold 10px/20px Open Sans !important;
 	}

@@ -92,6 +92,15 @@
 			scaleFix();
 		})
 	</script>
+
+	<style type="text/css">
+	.title-section {
+	   padding-top: 0px;
+	}
+	#content {
+	  padding-top: 0px;
+	}
+	</style>
 </head>
 
 <body <?php body_class(); ?> style="max-width: 1440px; margin: auto;">
