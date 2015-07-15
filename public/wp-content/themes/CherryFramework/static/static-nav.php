@@ -13,6 +13,7 @@
 	.linkgold:hover {
 		text-decoration: underline;
 		background-color: none !important;
+		font: bold 10px/20px Open Sans !important;
 	}
 
 	.sf-menu > li > a:hover, .sf-menu > li.sfHover> a, .sf-menu > li.current-menu-item > a, .sf-menu > li.current_page_item > a {
