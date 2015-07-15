@@ -8,10 +8,11 @@
 		display: inline !important;
 		padding: 0px !important;
 		border: 0px !important;
-		color: #444444 !important;
+		/* color: #444444 !important; */
+		color: #b19d33 !important;
 	}
 	.linkgold:hover {
-		background: #FFD700 !important;
+		/* background: #FFD700 !important; */
 	}
 </style>
 
@@ -59,8 +60,8 @@
 
 
 <ul class="sf-menu" >
-<li class="menu-item menu-item-type-post_type menu-item-object-page" style="background: none; color: #444444;
+<li class="menu-item menu-item-type-post_type menu-item-object-page" style="background: none; color: #b19d33;
 	font: normal 12px/20px Open Sans !important;
 	text-transform: uppercase;
-	margin-top: 10px;"><a href="#" class="linkgold">Imprensa</a> | <a href="#" class="linkgold">Investidores</a> | <a href="#" class="linkgold">Fornecedores</a> | <a href="#" class="linkgold">Fale conosco</a></li>
+	margin-top: 10px;"><a href="#" class="linkgold" style="color: #b19d33 !important;">Imprensa</a> | <a href="#" class="linkgold" style="color: #b19d33 !important;">Investidores</a> | <a href="#" class="linkgold" style="color: #b19d33 !important;">Fornecedores</a> | <a href="#" class="linkgold" style="color: #b19d33 !important;">Fale conosco</a></li>
 </ul>
