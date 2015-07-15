@@ -3,7 +3,7 @@
 
 <style type="text/css">
 	.linkgold {
-		font: normal 12px/20px Open Sans !important;
+		font: normal 10px/20px Open Sans !important;
 		text-transform: uppercase;
 		display: inline !important;
 		padding: 0px !important;
