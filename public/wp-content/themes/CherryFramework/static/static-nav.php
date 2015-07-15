@@ -23,7 +23,9 @@
 
 <!-- CUSTOM LANGUAGE MENU -->
 <div class="menulanguage">
-<a href="#" class="linkgold">Português</a> | <a href="#" class="linkgold">Inglês</a> | <a href="#" class="linkgold">Espanhol</a>
+<a href="#" class="linkgold"><div style="display: inline-block; width: 60px;">Português</div></a> | 
+<a href="#" class="linkgold"><div style="display: inline-block; width: 35px;">Inglês</div></a> | 
+<a href="#" class="linkgold"><div style="display: inline-block; width: 55px;">Espanhol</div></a>
 </div>
 
 
