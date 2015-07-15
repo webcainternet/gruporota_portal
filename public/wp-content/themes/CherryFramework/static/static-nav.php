@@ -1,9 +1,23 @@
 <?php /* Static Name: Navigation */ ?>
 
 
+<style type="text/css">
+	.linkgold {
+		font: normal 12px/20px Open Sans !important;
+		text-transform: uppercase;
+		display: inline !important;
+		padding: 0px !important;
+		border: 0px !important;
+		color: #444444 !important;
+	}
+	.linkgold:hover {
+		background: #FFD700 !important;
+	}
+</style>
+
 <!-- CUSTOM LANGUAGE MENU -->
 <div class="menulanguage">
-Português | Inglês | Espanhol
+<a href="#" class="linkgold">Português</a> | <a href="#" class="linkgold">Inglês</a> | <a href="#" class="linkgold">Espanhol</a>
 </div>
 
 
@@ -43,9 +57,10 @@ Português | Inglês | Espanhol
 
 </nav><!-- END MAIN NAVIGATION -->
 
+
 <ul class="sf-menu" >
-<li class="menu-item menu-item-type-post_type menu-item-object-page" style="background: none; color: #FFF !important; /*23282d */
-	font: bold 12px/20px Open Sans !important;
+<li class="menu-item menu-item-type-post_type menu-item-object-page" style="background: none; color: #444444;
+	font: normal 12px/20px Open Sans !important;
 	text-transform: uppercase;
-	margin-top: 10px;">Imprensa / Investidores / Fornecedores / Fale conosco</li>
+	margin-top: 10px;"><a href="#" class="linkgold">Imprensa</a> | <a href="#" class="linkgold">Investidores</a> | <a href="#" class="linkgold">Fornecedores</a> | <a href="#" class="linkgold">Fale conosco</a></li>
 </ul>
