@@ -69,8 +69,8 @@
 	font: normal 14px/20px Open Sans !important;
 	text-transform: uppercase;
 	margin-top: 10px;">
-	<a href="#" class="linkgold">Imprensa</a> | 
-	<a href="#" class="linkgold">Investidores</a> | 
-	<a href="#" class="linkgold">Fornecedores</a> | 
-	<a href="#" class="linkgold">Fale conosco</a></li>
+	<a href="#" class="linkgold"><div style="display: inline-block; width: 55px;">Imprensa</div></a> | 
+	<a href="#" class="linkgold"><div style="display: inline-block; width: 70px;">Investidores</div></a> | 
+	<a href="#" class="linkgold"><div style="display: inline-block; width: 80px;">Fornecedores</div></a> | 
+	<a href="#" class="linkgold"><div style="display: inline-block; width: 80px;">Fale conosco</div></a></li>
 </ul>
