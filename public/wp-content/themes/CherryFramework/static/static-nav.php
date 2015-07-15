@@ -13,6 +13,9 @@
 	}
 	.linkgold:hover {
 		/* background: #FFD700 !important; */
+		background: none !important;
+		font-weight: bold;
+		font: bold 12px/20px Open Sans !important;
 	}
 </style>
 
