@@ -44,8 +44,8 @@ Português | Inglês | Espanhol
 </nav><!-- END MAIN NAVIGATION -->
 
 <ul class="sf-menu" >
-<li class="menu-item menu-item-type-post_type menu-item-object-page" style="background: none; color: #EEE !important; /*23282d */
-	font: normal 10px/20px Open Sans !important;
+<li class="menu-item menu-item-type-post_type menu-item-object-page" style="background: none; color: #ad9a33 !important; /*23282d */
+	font: normal 12px/20px Open Sans !important;
 	text-transform: uppercase;
-	margin-top: 10px;">Imprensa / Investidores / Fornecedores </li>
+	margin-top: 10px;">Imprensa / Investidores / Fornecedores / Fale conosco</li>
 </ul>
