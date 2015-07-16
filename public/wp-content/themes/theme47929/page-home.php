@@ -69,7 +69,7 @@ get_header(); ?>
 	}
 
 	.linkarea2:hover {
-		font: bold 14px/20px Open Sans !important;
+		font: bold 15px/20px Open Sans !important;
 	}
 </style>
 
