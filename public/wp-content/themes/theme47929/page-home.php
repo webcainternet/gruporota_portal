@@ -31,8 +31,8 @@ get_header(); ?>
 	.areatextocontent { 
 		padding: 15px;
 		font: normal 14px/20px Open Sans !important;
-  		color: #777;
   		margin-top: 19px;
+  		color: #2c3e50;
 	}
 	.areatextocontentnoticia { 
 		padding: 15px;
