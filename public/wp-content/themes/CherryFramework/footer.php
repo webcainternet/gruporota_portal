@@ -99,7 +99,7 @@
 						<div class="footer-spacing" style="width: 27%;">
 							<ul class="footerul">
 								<li class="footerli"><div id="copyright" style="font: normal 11px/18px Open Sans !important;min-width: 300px; text-align: right;">Grupo Rota do Brasil © <?php echo date('Y'); ?><!-- [[%FOOTER_LINK]] --></div></li>
-								<li class="footerli"><div id="copyright" style="font: normal 11px/18px Open Sans !important;min-width: 300px; text-align: right;">Políticas de Privacidade | Fale Conosco</div></li>
+								<li class="footerli"><div id="copyright" style="font: normal 11px/18px Open Sans !important;min-width: 300px; text-align: right;">Políticas de Privacidade | <a href="/trabalhe-conosco/">Trabalhe Conosco</a></div></li>
 							</ul>
 						</div>
 							
