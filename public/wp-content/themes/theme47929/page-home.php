@@ -66,7 +66,7 @@ get_header(); ?>
 
 <div class="motopress-wrapper content-holder clearfix" style="padding-bottom: 0px;">
 	<div>
-		<div class="areaitem" style="background-color: #D4E9FF;">
+		<div class="areaitem" style="background-color: #f0f0f0;">
 			<div class="areatitulo" style="background-color: #2c3e50; /* #9b59b6;*/">Engenharia e construção</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_construtora.jpg');">&nbsp;</div>
 			<div class="areatexto">
@@ -74,7 +74,7 @@ get_header(); ?>
 			</div>
 		</div>
 
-		<div class="areaitem" style="background-color: #D4E9FF;">
+		<div class="areaitem" style="background-color: #f0f0f0;">
 			<div class="areatitulo" style="background-color: #2c3e50; /* #2ecc71;*/">Serviços empresariais</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_contabil.jpg');">&nbsp;</div>
 			<div class="areatexto">
@@ -82,7 +82,7 @@ get_header(); ?>
 			</div>
 		</div>
 
-		<div class="areaitem" style="background-color: #D4E9FF;">
+		<div class="areaitem" style="background-color: #f0f0f0;">
 			<div class="areatitulo" style="background-color: #2c3e50; /* #7f8c8d;*/">Segurança Patrimonial</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_seguranca.jpg'); background-size: 100% auto;">&nbsp;</div>
 			<div class="areatexto">
@@ -90,7 +90,7 @@ get_header(); ?>
 			</div>
 		</div>
 
-		<div class="areaitem" style="background-color: #F0F0F0;">
+		<div class="areaitem" style="background-color: #D4E9FF;">
 			<div class="areatitulo" style="background-color: #2c3e50; /* #2980b9;*/">Imobiliário</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_engenharia.jpg');">&nbsp;</div>
 			<div class="areatexto">
@@ -98,7 +98,7 @@ get_header(); ?>
 			</div>
 		</div>
 
-		<div class="areaitem" style="background-color: #F0F0F0;">
+		<div class="areaitem" style="background-color: #D4E9FF;">
 			<div class="areatitulo" style="background-color: #2c3e50; /* #2c3e50;*/">Saneamento</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_saneamento.jpg');">&nbsp;</div>
 			<div class="areatexto">
@@ -106,7 +106,7 @@ get_header(); ?>
 			</div>
 		</div>
 
-		<div class="areaitem" style="background-color: #F0F0F0;">
+		<div class="areaitem" style="background-color: #D4E9FF;">
 			<div class="areatitulo" style="background-color: #2c3e50; /* #27ae60;*/">Transporte e Logística</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_logistica.jpg'); background-size: auto 100%;">&nbsp;</div>
 			<div class="areatexto">
@@ -114,7 +114,7 @@ get_header(); ?>
 			</div>
 		</div>
 
-		<div class="areaitem" style="background-color: #D4E9FF;">
+		<div class="areaitem" style="background-color: #f0f0f0;">
 			<div class="areatitulo" style="background-color: #2c3e50; /* #1d2d89;*/">Negocios Internacionais</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_negocios.jpg'); background-size: 100%;">&nbsp;</div>
 			<div class="areatexto">
@@ -122,7 +122,7 @@ get_header(); ?>
 			</div>
 		</div>
 
-		<div class="areaitem" style="background-color: #D4E9FF;">
+		<div class="areaitem" style="background-color: #f0f0f0;">
 			<div class="areatitulo" style="background-color: #2c3e50; /* #e67e22;*/">Responsabilidade Social</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_social.jpg'); background-size: 100% auto;">&nbsp;</div>
 			<div class="areatexto">
@@ -130,7 +130,7 @@ get_header(); ?>
 			</div>
 		</div>
 
-		<div class="areaitem" style="background-color: #D4E9FF;">
+		<div class="areaitem" style="background-color: #f0f0f0;">
 			<div class="areatitulo" style="background-color: #2c3e50; /* #e74c3c;*/">Ambiental</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_ambiental.jpg'); background-size: auto 100%;">&nbsp;</div>
 			<div class="areatexto">
