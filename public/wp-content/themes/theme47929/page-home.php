@@ -62,17 +62,22 @@ get_header(); ?>
 		border-top-left-radius: 5px;
 		border-top-right-radius: 5px;
 	}
+
+	.linkarea:hover {
+		text-decoration: underline;
+	}
 </style>
 
 <div class="motopress-wrapper content-holder clearfix" style="padding-bottom: 0px;">
 	<div>
-		<div class="areaitem" style="background-color: #f0f0f0;">
-			<div class="areatitulo" style="background-color: #2c3e50; /* #9b59b6;*/">Engenharia e construção</div>
+		<a class="linkarea" href="#"><div class="areaitem" style="background-color: #f0f0f0;">
+			<div class="areatitulo linkarea" style="background-color: #2c3e50; /* #9b59b6;*/">Engenharia e construção</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_construtora.jpg');">&nbsp;</div>
 			<div class="areatexto">
-				<div class="areatextocontent">Eficiencia e Integração de ferramentas para entregar soluções dos compromissos firmados</div>
+				<div class="areatextocontent linkarea">Eficiencia e Integração de ferramentas para entregar soluções dos compromissos firmados</div>
 			</div>
 		</div>
+		</a>
 
 		<div class="areaitem" style="background-color: #f0f0f0;">
 			<div class="areatitulo" style="background-color: #2c3e50; /* #2ecc71;*/">Serviços empresariais</div>
