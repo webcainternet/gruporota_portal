@@ -109,7 +109,23 @@
 		<!--Begin #motopress-main-->
 		<header class="motopress-wrapper header">
 			<div class="container">
-				<div class="row">
+				<div class="row" style="position: fixed;z-index: 999999999 !important;">
+					<div class="<?php echo cherry_get_layout_class( 'full_width_content' ); ?>" data-motopress-wrapper-file="wrapper/wrapper-header.php" data-motopress-wrapper-type="header" data-motopress-id="<?php echo uniqid() ?>">
+						<div class="row" style="  height: 115px; background-color:rgba(255, 255, 255, 0.95);">
+							<div class="span6 hidden-phone" data-motopress-type="static" data-motopress-static-file="static/static-search.php">
+								<?php get_template_part("static/static-search"); ?>
+							</div>
+							<div class="span3" data-motopress-type="static" data-motopress-static-file="static/static-logo.php">
+								<?php get_template_part("static/static-logo"); ?>
+							</div>
+							<div class="span9" data-motopress-type="static" data-motopress-static-file="static/static-nav.php">
+								<?php get_template_part("static/static-nav"); ?>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="row" style="z-index: 1 !important;">
 					<div class="<?php echo cherry_get_layout_class( 'full_width_content' ); ?>" data-motopress-wrapper-file="wrapper/wrapper-header.php" data-motopress-wrapper-type="header" data-motopress-id="<?php echo uniqid() ?>">
 						<?php get_template_part('wrapper/wrapper-header'); ?>
 					</div>

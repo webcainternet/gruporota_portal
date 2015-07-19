@@ -34,7 +34,7 @@ address {
 }
 .page-template-page-home-php .header { padding-bottom:10px; }
 .header {
-	padding:60px 0;
+	padding:0px 0;
 	background:none;
 	border:none;
 }
@@ -134,7 +134,7 @@ address {
 #topnav li.current-menu-item > a:before, #topnav li.sfHover > a:before, #topnav li a:hover:before { width:100%; }
 #topnav li.current-menu-item > a .sf-sub-indicator, #topnav li.sfHover > a .sf-sub-indicator, #topnav li a:hover .sf-sub-indicator { background:url(images/arrows-ffffff.png) -10px -100px no-repeat; }
 .slider { margin-top:15px; }
-.slider .camera_wrap { margin-bottom:115px !important; }
+.slider .camera_wrap { margin-bottom:115px !important; margin-top: 100px; }
 .slider .camera_wrap .camera_pag {
 	margin:35px auto 0;
 	padding-top:35px;

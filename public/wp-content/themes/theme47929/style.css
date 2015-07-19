@@ -17,15 +17,18 @@
 .header {
 	background-size: 100% auto !important;
 	background-position: 0px !important;
-	z-index: 1;
+	z-index: 999999999 !important;
 }
 
 .header > .container {  
 	height:84px;
-	background-color:rgba(255, 255, 255, 0.95);
-	margin-top: -15px;
+	/* background-color:rgba(255, 255, 255, 0.95);
+	margin-top: -15px; */
 	margin-bottom: 415px;
 	border-radius: 5px;
+}
+.header > .container > .row {
+	/* background-color:rgba(255, 255, 255, 0.95); */
 }
 
 
@@ -35,20 +38,20 @@
 
 
 .logo {
-	margin: 7px;
+	margin: 12px 0 0 -10px;
 }
 
 
 
 .menulanguage {
-	padding: 12px;
-	text-align: right;
-	color: #EEE !important; /*23282d */
-	font: normal 10px/20px Open Sans !important;
-	text-transform: uppercase;
-	margin-top: -45px;
-  	margin-bottom: 45px;
-  	margin-right: -10px;
+  padding: 15px;
+  text-align: right;
+  color: #EEE !important;
+  font: normal 10px/20px Open Sans !important;
+  text-transform: uppercase;
+  margin-top: 0px;
+  margin-bottom: 25px;
+  margin-right: 0px;
 }
 
 

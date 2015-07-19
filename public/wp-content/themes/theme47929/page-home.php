@@ -55,13 +55,14 @@ get_header(); ?>
 		position: absolute;
 		font: normal 15px/20px Open Sans !important;
 		background-color: red;
-		margin-top: -28px;
 		z-index: 10;
 		padding: 8px 15px 8px 15px;
 		text-transform: uppercase;
 		color: #FFFFFF;
+		/*
+		margin-top: -28px;
 		border-top-left-radius: 5px;
-		border-top-right-radius: 5px;
+		border-top-right-radius: 5px; */
 	}
 
 	.linkarea:hover {
