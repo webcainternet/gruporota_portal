@@ -100,6 +100,9 @@
 	#content {
 	  padding-top: 0px;
 	}
+	.wpcf7-not-valid-tip {
+	  left: 1 !important;
+	}
 	</style>
 </head>
 
