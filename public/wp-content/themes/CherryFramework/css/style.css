@@ -2423,11 +2423,11 @@ label[for^=pwbox] { display:inline-block; }
 .wpcf7-form .submit-wrap input { margin-right:10px; }
 span.wpcf7-form-control-wrap { display:block; }
 .wpcf7-not-valid-tip {
-	position:absolute;
+	/* position:absolute; */
 	top:0 !important;
 	right:0 !important;
 	bottom:0 !important;
-	left:1 !important;
+	left:0 !important;
 	padding:4px 6px !important;
 	width:auto !important;
 	height:auto !important;
