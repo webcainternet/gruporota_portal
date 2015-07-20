@@ -110,7 +110,7 @@
 		<header class="motopress-wrapper header">
 			<div class="container">
 				<div class="row" style="position: fixed;z-index: 999999999 !important;">
-					<div class="<?php echo cherry_get_layout_class( 'full_width_content' ); ?>" data-motopress-wrapper-file="wrapper/wrapper-header.php" data-motopress-wrapper-type="header" data-motopress-id="<?php echo uniqid() ?>" style="  height: 115px; background-color:rgba(255, 255, 255, 0.95);">
+					<div class="<?php echo cherry_get_layout_class( 'full_width_content' ); ?>" data-motopress-wrapper-file="wrapper/wrapper-header.php" data-motopress-wrapper-type="header" data-motopress-id="<?php echo uniqid() ?>" style="  height: 115px; background-color:rgba(255, 255, 255, 0.85);">
 						<div class="row" >
 							<div class="span6 hidden-phone" data-motopress-type="static" data-motopress-static-file="static/static-search.php">
 								<?php get_template_part("static/static-search"); ?>
