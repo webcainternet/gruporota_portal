@@ -101,6 +101,13 @@
 	  padding-top: 0px;
 	}
 	</style>
+
+	<style type="text/css">
+		.skiptranslate {
+			display: none;
+		}
+		#goog-gt-tt { display:none !important; }
+	</style>
 </head>
 
 <body <?php body_class(); ?> style="max-width: 1440px; margin: auto;">
