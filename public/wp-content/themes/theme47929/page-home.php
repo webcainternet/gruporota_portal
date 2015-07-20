@@ -76,7 +76,7 @@ get_header(); ?>
 
 <div class="motopress-wrapper content-holder clearfix" style="padding-bottom: 0px;">
 	<div>
-		<a class="linkarea" href="#"><div class="areaitem" style="background-color: #f0f0f0;">
+		<a class="linkarea" href="/engenharia-e-contrucao"><div class="areaitem" style="background-color: #f0f0f0;">
 			<div class="areatitulo linkarea" style="background-color: #2c3e50; /* #9b59b6;*/">Engenharia e construção</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_construtora.jpg');">&nbsp;</div>
 			<div class="areatexto">
@@ -85,70 +85,70 @@ get_header(); ?>
 		</div>
 		</a>
 
-		<a class="linkarea2" href="#"><div class="areaitem" style="background-color: #f0f0f0;">
-			<div class="areatitulo linkarea2" style="background-color: #2c3e50; /* #2ecc71;*/">Serviços empresariais</div>
+		<a class="linkarea" href="/servicos-empresariais"><div class="areaitem" style="background-color: #f0f0f0;">
+			<div class="areatitulo linkarea" style="background-color: #2c3e50; /* #2ecc71;*/">Serviços empresariais</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_contabil.jpg');">&nbsp;</div>
 			<div class="areatexto">
-				<div class="areatextocontent linkarea2">Gerenciamento Contabil, Jurídico, Empresarial e Serviços Tecnicos Profissionais</div>
+				<div class="areatextocontent linkarea">Gerenciamento Contabil, Jurídico, Empresarial e Serviços Tecnicos Profissionais</div>
 			</div>
 		</div>
 		</a>
 
-		<div class="areaitem" style="background-color: #f0f0f0;">
-			<div class="areatitulo" style="background-color: #2c3e50; /* #7f8c8d;*/">Segurança Patrimonial</div>
+		<a class="linkarea" href="/seguranca-patrimonial"><div class="areaitem" style="background-color: #f0f0f0;">
+			<div class="areatitulo linkarea" style="background-color: #2c3e50; /* #7f8c8d;*/">Segurança Patrimonial</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_seguranca.jpg'); background-size: 100% auto;">&nbsp;</div>
 			<div class="areatexto">
-				<div class="areatextocontent">Agir de forma estratégica, dinâmica e com tecnologia para proteger seu patrimonio</div>
+				<div class="areatextocontent linkarea">Agir de forma estratégica, dinâmica e com tecnologia para proteger seu patrimonio</div>
 			</div>
-		</div>
+		</div></a>
 
-		<div class="areaitem" style="background-color: #D4E9FF;">
-			<div class="areatitulo" style="background-color: #2c3e50; /* #2980b9;*/">Imobiliário</div>
+		<a class="linkarea" href="/imobiliario"><div class="areaitem" style="background-color: #D4E9FF;">
+			<div class="areatitulo linkarea" style="background-color: #2c3e50; /* #2980b9;*/">Imobiliário</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_engenharia.jpg');">&nbsp;</div>
 			<div class="areatexto">
-				<div class="areatextocontent">Desenvolvimento e Planejamento para projetar 'Sonhos'</div>
+				<div class="areatextocontent linkarea">Desenvolvimento e Planejamento para projetar 'Sonhos'</div>
 			</div>
-		</div>
+		</div></a>
 
-		<div class="areaitem" style="background-color: #D4E9FF;">
-			<div class="areatitulo" style="background-color: #2c3e50; /* #2c3e50;*/">Saneamento</div>
+		<a class="linkarea" href="/saneamento"><div class="areaitem" style="background-color: #D4E9FF;">
+			<div class="areatitulo linkarea" style="background-color: #2c3e50; /* #2c3e50;*/">Saneamento</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_saneamento.jpg');">&nbsp;</div>
 			<div class="areatexto">
-				<div class="areatextocontent">Planejar e Executar o Desenvolvimento e Qualidade de Vida de Comunidades e Municípios</div>
+				<div class="areatextocontent linkarea">Planejar e Executar o Desenvolvimento e Qualidade de Vida de Comunidades e Municípios</div>
 			</div>
-		</div>
+		</div></a>
 
-		<div class="areaitem" style="background-color: #D4E9FF;">
-			<div class="areatitulo" style="background-color: #2c3e50; /* #27ae60;*/">Transporte e Logística</div>
+		<a class="linkarea" href="/transporte-e-logistica"><div class="areaitem" style="background-color: #D4E9FF;">
+			<div class="areatitulo linkarea" style="background-color: #2c3e50; /* #27ae60;*/">Transporte e Logística</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_logistica.jpg'); background-size: auto 100%;">&nbsp;</div>
 			<div class="areatexto">
-				<div class="areatextocontent">Transportar Desenvolvimento e Riquezas de forma Eficiente e Arrojada</div>
+				<div class="areatextocontent linkarea">Transportar Desenvolvimento e Riquezas de forma Eficiente e Arrojada</div>
 			</div>
-		</div>
+		</div></a>
 
-		<div class="areaitem" style="background-color: #f0f0f0;">
-			<div class="areatitulo" style="background-color: #2c3e50; /* #1d2d89;*/">Negocios Internacionais</div>
+		<a class="linkarea" href="/negocios-internacionais"><div class="areaitem" style="background-color: #f0f0f0;">
+			<div class="areatitulo linkarea" style="background-color: #2c3e50; /* #1d2d89;*/">Negocios Internacionais</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_negocios.jpg'); background-size: 100%;">&nbsp;</div>
 			<div class="areatexto">
-				<div class="areatextocontent">Integrar Demandas e Ofertas entre os continentes: Americano, Europeu, Asiático e Africano</div>
+				<div class="areatextocontent linkarea">Integrar Demandas e Ofertas entre os continentes: Americano, Europeu, Asiático e Africano</div>
 			</div>
-		</div>
+		</div></a>
 
-		<div class="areaitem" style="background-color: #f0f0f0;">
-			<div class="areatitulo" style="background-color: #2c3e50; /* #e67e22;*/">Responsabilidade Social</div>
+		<a class="linkarea" href="/responsabilidade-social"><div class="areaitem" style="background-color: #f0f0f0;">
+			<div class="areatitulo linkarea" style="background-color: #2c3e50; /* #e67e22;*/">Responsabilidade Social</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_social.jpg'); background-size: 100% auto;">&nbsp;</div>
 			<div class="areatexto">
-				<div class="areatextocontent">Promover a inserção de Pessoas às necessidades básicas nas comunidades em que atuamos</div>
+				<div class="areatextocontent linkarea">Promover a inserção de Pessoas às necessidades básicas nas comunidades em que atuamos</div>
 			</div>
-		</div>
+		</div></a>
 
-		<div class="areaitem" style="background-color: #f0f0f0;">
-			<div class="areatitulo" style="background-color: #2c3e50; /* #e74c3c;*/">Ambiental</div>
+		<a class="linkarea" href="/ambiental"><div class="areaitem" style="background-color: #f0f0f0;">
+			<div class="areatitulo linkarea" style="background-color: #2c3e50; /* #e74c3c;*/">Ambiental</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_ambiental.jpg'); background-size: auto 100%;">&nbsp;</div>
 			<div class="areatexto">
-				<div class="areatextocontent">Trazer soluções para harmonizar a convivência do homem com o ambiente</div>
+				<div class="areatextocontent linkarea">Trazer soluções para harmonizar a convivência do homem com o ambiente</div>
 			</div>
-		</div>
+		</div></a>
 
 	</div>
 </div>
