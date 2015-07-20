@@ -1,6 +1,6 @@
 <?php /* Static Name: Logo */ ?>
 <!-- BEGIN LOGO -->
-<div class="logo pull-left">
+<div class="logo pull-left" style="float: left !important;">
 	<?php if(of_get_option('logo_type') == 'text_logo'){?>
 			<?php if( is_front_page() || is_home() || is_404() ) { ?>
 					<h1 class="logo_h logo_h__txt"><a href="<?php echo home_url(); ?>/" title="<?php bloginfo('description'); ?>" class="logo_link"><?php bloginfo('name'); ?></a></h1>
@@ -23,3 +23,9 @@
 	<?php } ?>
 </div>
 <!-- END LOGO -->
+
+<!-- BEGIN 10y -->
+<div class="logo pull-left" style="float: left !important;">
+	<img src="/wp-content/themes/theme47929/images/10anos.png" alt="10 anos" title="10 anos" style="  width: 112px; margin-top: 43px;">
+</div>
+<!-- END 10y -->
