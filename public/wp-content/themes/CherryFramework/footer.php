@@ -41,8 +41,8 @@
 				*/ ?>
 					<div style="height: 300px; width: 1170px; margin-left: 30px;">
 
-						<div class="footer-spacing" style="width: 19%;">
-							<div style="margin: auto; width: 100px; margin-bottom: 60px;">
+						<div class="footer-spacing" style="width: 24%;">
+							<div style="margin: auto; width: 175px; margin-bottom: 60px;">
 								<img src="http://gruporota2.homolog.lojavirtual.digital/wp-content/themes/theme47929/images/logo_pb.png" style="opacity: 0.5; filter: alpha(opacity=50);">
 							</div>
 						</div>
