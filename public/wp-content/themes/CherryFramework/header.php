@@ -100,6 +100,13 @@
 	#content {
 	  padding-top: 0px;
 	}
+	a {
+		color: #999;
+	}
+	a:hover {
+		color: #999;
+		text-decoration: underline;
+	}
 	</style>
 
 	<style type="text/css">

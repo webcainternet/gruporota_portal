@@ -28,10 +28,10 @@
 <?php /* <a href="#" class="linkgold"><div style="display: inline-block; width: 60px;">Português</div></a> | 
 <a href="#" class="linkgold"><div style="display: inline-block; width: 35px;">Inglês</div></a> | 
 <a href="#" class="linkgold"><div style="display: inline-block; width: 55px;">Espanhol</div></a> */ ?>
-<a href="#" class="linkgold"><div style="display: inline-block; width: 55px;">Imprensa</div></a> | 
-<a href="#" class="linkgold"><div style="display: inline-block; width: 70px;">Investidores</div></a> | 
-<a href="#" class="linkgold"><div style="display: inline-block; width: 80px;">Fornecedores</div></a> | 
-<a href="#" class="linkgold"><div style="display: inline-block; width: 80px;">Fale conosco</div></a>
+<a href="/imprensa" class="linkgold"><div style="display: inline-block; width: 55px;">Imprensa</div></a> | 
+<a href="/investidores" class="linkgold"><div style="display: inline-block; width: 70px;">Investidores</div></a> | 
+<a href="/fornecedores" class="linkgold"><div style="display: inline-block; width: 80px;">Fornecedores</div></a> | 
+<a href="/fale-conosco" class="linkgold"><div style="display: inline-block; width: 80px;">Fale conosco</div></a>
 </div> 
 
 

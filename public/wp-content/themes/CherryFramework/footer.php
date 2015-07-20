@@ -52,29 +52,29 @@
 						<div class="footer-spacing" style="width: 21%;">
 							<div class="footer-title">O que fazemos?</div>
 							<ul class="footerul">
-								<li class="footerli">Engenharia e construção</li>
-								<li class="footerli">Serviços empresariais</li>
-								<li class="footerli">Segurança Patrimonial</li>
-								<li class="footerli">Imobiliário</li>
-								<li class="footerli">Saneamento</li>
-								<li class="footerli">Transporte e Logística</li>
-								<li class="footerli">Negocios Internacionais</li>
-								<li class="footerli">Responsabilidade Social</li>
-								<li class="footerli">Ambiental</li>
+								<li class="footerli"><a href="/engenharia-e-construcao">Engenharia e construção</a></li>
+								<li class="footerli"><a href="/servicos-empresariais">Serviços empresariais</a></li>
+								<li class="footerli"><a href="/seguranca-patrimonial">Segurança Patrimonial</a></li>
+								<li class="footerli"><a href="/imobiliario">Imobiliário</a></li>
+								<li class="footerli"><a href="/saneamento">Saneamento</a></li>
+								<li class="footerli"><a href="/transporte-e-logistica">Transporte e Logística</a></li>
+								<li class="footerli"><a href="/negocios-internacionais">Negocios Internacionais</a></li>
+								<li class="footerli"><a href="/responsabilidade-social">Responsabilidade Social</a></li>
+								<li class="footerli"><a href="/ambiental">Ambiental</a></li>
 							</ul>
 						</div>
 
 						<div class="footer-spacing" style="width: 17%;">
 							<div class="footer-title">Quem Somos</div>
 							<ul class="footerul">
-								<li class="footerli">O Grupo Rota</li>
-								<li class="footerli">Histórico</li>
-								<li class="footerli">Qualidade</li>
-								<li class="footerli">Certificação</li>
+								<li class="footerli"><a href="/quem-somos">O Grupo Rota</a></li>
+								<li class="footerli"><a href="/nossa-historia/">Histórico</a></li>
+								<li class="footerli"><a href="/qualidade">Qualidade</a></li>
+								<li class="footerli"><a href="/certificacao">Certificação</a></li>
 								<li class="footerli">&nbsp;</li>
-								<li class="footerli">Imprensa</li>
-								<li class="footerli">Investidores</li>
-								<li class="footerli">Fornecedores</li>
+								<li class="footerli"><a href="/imprensa">Imprensa</a></li>
+								<li class="footerli"><a href="/investidores">Investidores</a></li>
+								<li class="footerli"><a href="/fornecedores">Fornecedores</a></li>
 							</ul>
 						</div>
 
@@ -88,11 +88,11 @@
 						
 							<div class="footer-title">Redes Sociais</div>
 							<ul class="footerul">
-								<li class="footerli">Facebook</li>
-								<li class="footerli">Instagram</li>
-								<li class="footerli">Linkedin</li>
-								<li class="footerli">Twitter</li>
-								<li class="footerli">Youtube</li>
+								<li class="footerli"><a href="#">Facebook</a></li>
+								<li class="footerli"><a href="#">Instagram</a></li>
+								<li class="footerli"><a href="#">Linkedin</a></li>
+								<li class="footerli"><a href="#">Twitter</a></li>
+								<li class="footerli"><a href="#">Youtube</a></li>
 							</ul>
 						</div>
 
