@@ -190,29 +190,29 @@ get_header(); ?>
 
 
 							<div style="float: left; width: 100%;">
-								<div class="areaitemnoticia"  style="background-color: #F0F0F0;">
-									<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_construtora.jpg');">&nbsp;</div>
+								<a class="linkarea" href="/news/rota-construcoes-adota-9-regras-de-ouro-para-seguranca/"><div class="areaitemnoticia"  style="background-color: #F0F0F0;">
+									<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/header_news_rota-construcoes-adota-9-regras-de-ouro-para-seguranca.jpg'); background-size: cover;">&nbsp;</div>
 									<div class="areatexto">
-										<div class="areatextocontenttitle">Titulo da noticia sbr</div>
-										<div class="areatextocontentnoticia">Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos</div>
+										<div class="areatextocontenttitle linkarea">Rota Construções adota 9 Regras de Ouro para segurança</div>
+										<div class="areatextocontentnoticia linkarea">O Grupo Rota do Brasil  buscando interagir com as exigencias internacionais de Segurança ...</div>
 									</div>
-								</div>
+								</div></a>
 
-								<div class="areaitemnoticia">
+								<a class="linkarea" href="#"><div class="areaitemnoticia">
 									<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_ambiente.jpg');">&nbsp;</div>
 									<div class="areatexto">
-										<div class="areatextocontenttitle">Titulo da noticia sbr</div>
-										<div class="areatextocontentnoticia">Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos</div>
+										<div class="areatextocontenttitle linkarea">Titulo da noticia sbr</div>
+										<div class="areatextocontentnoticia linkarea">Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos</div>
 									</div>
-								</div>
+								</div></a>
 
-								<div class="areaitemnoticia"  style="background-color: #F0F0F0;">
+								<a class="linkarea" href="#"><div class="areaitemnoticia"  style="background-color: #F0F0F0;">
 									<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_predios.jpg'); background-size: auto 100%;">&nbsp;</div>
 									<div class="areatexto">
-										<div class="areatextocontenttitle">Titulo da noticia sbr</div>
-										<div class="areatextocontentnoticia">Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos</div>
+										<div class="areatextocontenttitle linkarea">Titulo da noticia sbr</div>
+										<div class="areatextocontentnoticia linkarea">Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos</div>
 									</div>
-								</div>
+								</div></a>
 							</div>
 
 						</div>
