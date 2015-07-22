@@ -1,4 +1,4 @@
-wdwdd<?php get_header(); ?>
+<?php get_header(); ?>
 
 <style type="text/css">
 .header {
