@@ -1,7 +1,6 @@
 <style type="text/css">
 	.footer-spacing { 
 		float: left; width: 24.999%;
-		 height: 300px;
 	}
 	.footer-title {
 		color: #FFFFFF;
@@ -39,7 +38,7 @@
 					</div>
 
 				*/ ?>
-					<div style="height: 300px; width: 1170px; margin-left: 30px;">
+					<div style="width: 1170px; margin-left: 30px;">
 
 						<div class="footer-spacing" style="width: 24%;">
 							<div style="margin: auto; width: 175px; margin-bottom: 60px;">
