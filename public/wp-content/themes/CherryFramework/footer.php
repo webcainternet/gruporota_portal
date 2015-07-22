@@ -87,11 +87,11 @@
 						
 							<div class="footer-title">Redes Sociais</div>
 							<ul class="footerul">
-								<li class="footerli"><a href="#">Facebook</a></li>
-								<li class="footerli"><a href="#">Instagram</a></li>
-								<li class="footerli"><a href="#">Linkedin</a></li>
-								<li class="footerli"><a href="#">Twitter</a></li>
-								<li class="footerli"><a href="#">Youtube</a></li>
+								<li class="footerli"><a href="#"><img style="width: 25px; margin-top: -2px;" src="/wp-content/themes/theme47929/images/icons/custom/facebook.png">Facebook</a></li>
+								<li class="footerli"><a href="#"><img style="width: 25px; margin-top: -2px;" src="/wp-content/themes/theme47929/images/icons/custom/instagram.png">Instagram</a></li>
+								<li class="footerli"><a href="#"><img style="width: 25px; margin-top: -2px;" src="/wp-content/themes/theme47929/images/icons/custom/linkedin.png">Linkedin</a></li>
+								<li class="footerli"><a href="#"><img style="width: 25px; margin-top: -2px;" src="/wp-content/themes/theme47929/images/icons/custom/twitter.png">Twitter</a></li>
+								<li class="footerli"><a href="#"><img style="width: 25px; margin-top: -2px;" src="/wp-content/themes/theme47929/images/icons/custom/youtube.png">Youtube</a></li>
 							</ul>
 						</div>
 
