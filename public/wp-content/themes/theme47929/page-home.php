@@ -106,7 +106,7 @@ get_header(); ?>
 			<div class="areatitulo linkarea" style="background-color: #2c3e50; /* #2980b9;*/">Imobiliário</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_engenharia.jpg');">&nbsp;</div>
 			<div class="areatexto">
-				<div class="areatextocontent linkarea">Desenvolvimento e Planejamento para projetar 'Sonhos'</div>
+				<div class="areatextocontent linkarea">Desenvolvimento e Planejamento para Realizar Sonhos e Integrar Facilidades</div>
 			</div>
 		</div></a>
 
