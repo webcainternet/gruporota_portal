@@ -182,7 +182,25 @@ get_header(); ?>
 						<div style="float: left; width: 66.666%; background-color: #f0f0f0;">
 							<div style="float: right; width: 870px;">
 								<div style="padding: 15px; margin-left: 30px; color: #222;">Somos um Grupo Empresarial Brasileiro com foco no crescimento planejado, presente em países estratégicos e sempre buscando prospecção de novos negócios e parcerias.</div>
-								<img src="/wp-content/themes/theme47929/images/home_mapa.png" style="max-height: 385px;">
+								<div style="padding: 15px; margin-left: 30px; color: #222; background: url('/wp-content/themes/theme47929/images/home_mapa.png'); background-repeat: no-repeat; height: 360px; background-size: auto 465px; background-position: 75px -11px;">
+									<div style="position: absolute; margin-top: 300px;">
+										<div style="width: 100%; float: left;">
+											<div style="background-color: #27ae60; width: 10px; height: 10px; float: left; margin-top: 3px;">&nbsp;</div>
+											<div style="float: left; margin-left: 5px;">Em atuação</div>
+										</div>
+
+										<div style="width: 100%; float: left;">
+											<div style="background-color: #f1c40f; width: 10px; height: 10px; float: left; margin-top: 3px;">&nbsp;</div>
+											<div style="float: left; margin-left: 5px;">Em desenvolvimento</div>
+										</div>
+
+										<div style="width: 100%; float: left;">
+											<div style="background-color: #c0392b; width: 10px; height: 10px; float: left; margin-top: 3px;">&nbsp;</div>
+											<div style="float: left; margin-left: 5px;">Desenvolvimento Futuro</div>
+										</div>
+									</div>
+								</div>
+
 							</div>
 						</div>
 						
