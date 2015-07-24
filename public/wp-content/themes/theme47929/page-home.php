@@ -183,6 +183,7 @@ get_header(); ?>
 							<div style="float: right; width: 870px;">
 								<div style="padding: 15px; margin-left: 30px; color: #222;">Somos um Grupo Empresarial Brasileiro com foco no crescimento planejado, presente em países estratégicos e sempre buscando prospecção de novos negócios e parcerias.</div>
 								<div style="padding: 15px; margin-left: 30px; color: #222; background: url('/wp-content/themes/theme47929/images/home_mapa.png'); background-repeat: no-repeat; height: 360px; background-size: auto 465px; background-position: 75px -11px;">
+
 									<div style="position: absolute; margin-top: 300px;">
 										<div style="width: 100%; float: left;">
 											<div style="background-color: #27ae60; width: 10px; height: 10px; float: left; margin-top: 3px;">&nbsp;</div>
@@ -199,6 +200,162 @@ get_header(); ?>
 											<div style="float: left; margin-left: 5px;">Desenvolvimento Futuro</div>
 										</div>
 									</div>
+
+									<style type="text/css">
+									.pais-text {
+										display: none;
+										white-space: nowrap;
+										position: absolute; background-color: #2c3e50; left: 10px; top: -7px; color: #FFF; padding: 2px 5px;
+									}
+									.pais-pointer {
+										 position: absolute; background-color: #2c3e50; width: 5px; height: 5px; border-radius: 2px;
+									}
+									.pais-pointer:hover > .pais-text {
+										display: block;
+									}
+									</style>
+
+									<!-- Canada -->
+									<div class="pais-pointer" style="top: 250px; left: 328px;">
+										<div class="pais-text">Canadá</div>
+									&nbsp;</div>
+
+									<!-- Estados Unidos -->
+									<div class="pais-pointer" style="top: 282px; left: 308px;">
+									<div class="pais-text">Estados Unidos</div>
+									&nbsp;</div>
+
+									<!-- Mexico -->
+									<div class="pais-pointer" style="top: 316px; left: 261px;">
+									<div class="pais-text">México</div>
+									&nbsp;</div>
+
+									<!-- ? -->
+									<div class="pais-pointer" style="top: 333px; left: 291px;">
+									<div class="pais-text">Honduras</div>
+									&nbsp;</div>
+
+									<!-- ? -->
+									<div class="pais-pointer" style="top: 353px; left: 288px;">
+									<div class="pais-text">Costa Rica</div>
+									&nbsp;</div>
+
+									<!-- ? -->
+									<div class="pais-pointer" style="top: 348px; left: 302px;">
+									<div class="pais-text">Panamá</div>
+									&nbsp;</div>
+
+									<!-- ? -->
+									<div class="pais-pointer" style="top: 363px; left: 315px;">
+									<div class="pais-text">Colombia</div>
+									&nbsp;</div>
+
+									<!-- ? -->
+									<div class="pais-pointer" style="top: 358px; left: 332px;">
+									<div class="pais-text">Venezuela</div>
+									&nbsp;</div>
+
+									<!-- ? -->
+									<div class="pais-pointer" style="top: 398px; left: 312px;">
+									<div class="pais-text">Peru</div>
+									&nbsp;</div>
+
+									<!-- ? -->
+									<div class="pais-pointer" style="top: 402px; left: 368px;">
+									<div class="pais-text">Brasil</div>
+									&nbsp;</div>
+
+									<!-- ? -->
+									<div class="pais-pointer" style="top: 452px; left: 358px;">
+									<div class="pais-text">Uruguai</div>
+									&nbsp;</div>
+
+									<!-- ? -->
+									<div class="pais-pointer" style="top: 452px; left: 328px;">
+									<div class="pais-text">Chile</div>
+									&nbsp;</div>
+
+
+									<!-- Portugal -->
+									<div class="pais-pointer" style="top: 285px; left: 453px;">
+									<div class="pais-text">Portugal</div>
+									&nbsp;</div>
+
+									<!-- Espanha -->
+									<div class="pais-pointer" style="top: 279px; left: 463px;">
+									<div class="pais-text">Espanha</div>
+									&nbsp;</div>
+
+									<!-- ? -->
+									<div class="pais-pointer" style="top: 310px; left: 473px;">
+									<div class="pais-text">Argélia</div>
+									&nbsp;</div>
+
+									<!-- ? -->
+									<div class="pais-pointer" style="top: 356px; left: 457px;">
+									<div class="pais-text">Costa do Marfim</div>
+									&nbsp;</div>
+
+									<!-- ? -->
+									<div class="pais-pointer" style="top: 352px; left: 467px;">
+									<div class="pais-text">Ghana</div>
+									&nbsp;</div>
+
+									<!-- ? -->
+									<div class="pais-pointer" style="top: 350px; left: 487px;">
+									<div class="pais-text">Nigéria</div>
+									&nbsp;</div>
+
+									<!-- ? -->
+									<div class="pais-pointer" style="top: 395px; left: 507px;">
+									<div class="pais-text">Angola</div>
+									&nbsp;</div>
+
+									<!-- ? -->
+									<div class="pais-pointer" style="top: 435px; left: 517px;">
+									<div class="pais-text">África do Sul</div>
+									&nbsp;</div>
+
+									<!-- ? -->
+									<div class="pais-pointer" style="top: 415px; left: 545px;">
+									<div class="pais-text">Moçambique</div>
+									&nbsp;</div>
+
+									<!-- ? -->
+									<div class="pais-pointer" style="top: 315px; left: 555px;">
+									<div class="pais-text">Arabia Saudita</div>
+									&nbsp;</div>
+
+									<!-- ? -->
+									<div class="pais-pointer" style="top: 315px; left: 630px;">
+									<div class="pais-text">India</div>
+									&nbsp;</div>
+
+									<!-- ? -->
+									<div class="pais-pointer" style="top: 290px; left: 670px;">
+									<div class="pais-text">China</div>
+									&nbsp;</div>
+
+									<!-- ? -->
+									<div class="pais-pointer" style="top: 440px; left: 750px;">
+									<div class="pais-text">Australia</div>
+									&nbsp;</div>
+
+									<!-- ? -->
+									<div class="pais-pointer" style="top: 253px; left: 477px;">
+									<div class="pais-text">Bélgica</div>
+									&nbsp;</div>
+
+									<!-- ? -->
+									<div class="pais-pointer" style="top: 248px; left: 490px;">
+									<div class="pais-text">Alemanha</div>
+									&nbsp;</div>
+
+									<!-- ? -->
+									<div class="pais-pointer" style="top: 265px; left: 486px;">
+									<div class="pais-text">Luxemburgo</div>
+									&nbsp;</div>
+
 								</div>
 
 							</div>
