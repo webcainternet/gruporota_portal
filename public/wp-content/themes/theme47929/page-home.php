@@ -179,6 +179,7 @@ get_header(); ?>
 						</div>
 
 
+						
 						<div style="float: left; width: 66.666%; background-color: #f0f0f0;">
 							<div style="float: right; width: 870px;">
 								<div style="padding: 15px; margin-left: 30px; color: #222;">Somos um Grupo Empresarial Brasileiro com foco no crescimento planejado, presente em países estratégicos e sempre buscando prospecção de novos negócios e parcerias.</div>
@@ -215,144 +216,144 @@ get_header(); ?>
 									}
 									</style>
 
-									<!-- Canada -->
-									<div class="pais-pointer" style="top: 250px; left: 328px;">
+									<!-- Canadá -->
+									<div class="pais-pointer" style="margin-top: <?php echo 250-148; ?>px; margin-left: <?php echo 328-72; ?>px;">
 										<div class="pais-text">Canadá</div>
 									&nbsp;</div>
 
 									<!-- Estados Unidos -->
-									<div class="pais-pointer" style="top: 282px; left: 308px;">
+									<div class="pais-pointer" style="margin-top: <?php echo 282-148; ?>px; margin-left: <?php echo 308-72; ?>px;">
 									<div class="pais-text">Estados Unidos</div>
 									&nbsp;</div>
 
-									<!-- Mexico -->
-									<div class="pais-pointer" style="top: 316px; left: 261px;">
+									<!-- México -->
+									<div class="pais-pointer" style="margin-top: <?php echo 316-148; ?>px; margin-left: <?php echo 261-72; ?>px;">
 									<div class="pais-text">México</div>
 									&nbsp;</div>
 
-									<!-- ? -->
-									<div class="pais-pointer" style="top: 333px; left: 291px;">
+									<!-- Honduras -->
+									<div class="pais-pointer" style="margin-top: <?php echo 333-148; ?>px; margin-left: <?php echo 291-72; ?>px;">
 									<div class="pais-text">Honduras</div>
 									&nbsp;</div>
 
-									<!-- ? -->
-									<div class="pais-pointer" style="top: 353px; left: 288px;">
+									<!-- Costa Rica -->
+									<div class="pais-pointer" style="margin-top: <?php echo 353-148; ?>px; margin-left: <?php echo 288-72; ?>px;">
 									<div class="pais-text">Costa Rica</div>
 									&nbsp;</div>
 
-									<!-- ? -->
-									<div class="pais-pointer" style="top: 348px; left: 302px;">
+									<!-- Panamá -->
+									<div class="pais-pointer" style="margin-top: <?php echo 348-148; ?>px; margin-left: <?php echo 302-72; ?>px;">
 									<div class="pais-text">Panamá</div>
 									&nbsp;</div>
 
-									<!-- ? -->
-									<div class="pais-pointer" style="top: 363px; left: 315px;">
+									<!-- Colombia -->
+									<div class="pais-pointer" style="margin-top: <?php echo 363-148; ?>px; margin-left: <?php echo 315-72; ?>px;">
 									<div class="pais-text">Colombia</div>
 									&nbsp;</div>
 
-									<!-- ? -->
-									<div class="pais-pointer" style="top: 358px; left: 332px;">
+									<!-- Venezuela -->
+									<div class="pais-pointer" style="margin-top: <?php echo 358-148; ?>px; margin-left: <?php echo 332-72; ?>px;">
 									<div class="pais-text">Venezuela</div>
 									&nbsp;</div>
 
-									<!-- ? -->
-									<div class="pais-pointer" style="top: 398px; left: 312px;">
+									<!-- Peru -->
+									<div class="pais-pointer" style="margin-top: <?php echo 398-148; ?>px; margin-left: <?php echo 312-72; ?>px;">
 									<div class="pais-text">Peru</div>
 									&nbsp;</div>
 
-									<!-- ? -->
-									<div class="pais-pointer" style="top: 402px; left: 368px;">
+									<!-- Brasil -->
+									<div class="pais-pointer" style="margin-top: <?php echo 402-148; ?>px; margin-left: <?php echo 368-72; ?>px;">
 									<div class="pais-text">Brasil</div>
 									&nbsp;</div>
 
-									<!-- ? -->
-									<div class="pais-pointer" style="top: 452px; left: 358px;">
+									<!-- Uruguai -->
+									<div class="pais-pointer" style="margin-top: <?php echo 452-148; ?>px; margin-left: <?php echo 358-72; ?>px;">
 									<div class="pais-text">Uruguai</div>
 									&nbsp;</div>
 
-									<!-- ? -->
-									<div class="pais-pointer" style="top: 452px; left: 328px;">
+									<!-- Chile -->
+									<div class="pais-pointer" style="margin-top: <?php echo 452-148; ?>px; margin-left: <?php echo 328-72; ?>px;">
 									<div class="pais-text">Chile</div>
 									&nbsp;</div>
 
 
 									<!-- Portugal -->
-									<div class="pais-pointer" style="top: 285px; left: 453px;">
+									<div class="pais-pointer" style="margin-top: <?php echo 285-148; ?>px; margin-left: <?php echo 453-72; ?>px;">
 									<div class="pais-text">Portugal</div>
 									&nbsp;</div>
 
 									<!-- Espanha -->
-									<div class="pais-pointer" style="top: 279px; left: 463px;">
+									<div class="pais-pointer" style="margin-top: <?php echo 279-148; ?>px; margin-left: <?php echo 463-72; ?>px;">
 									<div class="pais-text">Espanha</div>
 									&nbsp;</div>
 
-									<!-- ? -->
-									<div class="pais-pointer" style="top: 310px; left: 473px;">
+									<!-- Argélia -->
+									<div class="pais-pointer" style="margin-top: <?php echo 310-148; ?>px; margin-left: <?php echo 473-72; ?>px;">
 									<div class="pais-text">Argélia</div>
 									&nbsp;</div>
 
-									<!-- ? -->
-									<div class="pais-pointer" style="top: 356px; left: 457px;">
+									<!-- Costa do Marfim -->
+									<div class="pais-pointer" style="margin-top: <?php echo 356-148; ?>px; margin-left: <?php echo 457-72; ?>px;">
 									<div class="pais-text">Costa do Marfim</div>
 									&nbsp;</div>
 
-									<!-- ? -->
-									<div class="pais-pointer" style="top: 352px; left: 467px;">
+									<!-- Ghana -->
+									<div class="pais-pointer" style="margin-top: <?php echo 352-148; ?>px; margin-left: <?php echo 467-72; ?>px;">
 									<div class="pais-text">Ghana</div>
 									&nbsp;</div>
 
-									<!-- ? -->
-									<div class="pais-pointer" style="top: 350px; left: 487px;">
+									<!-- Nigéria -->
+									<div class="pais-pointer" style="margin-top: <?php echo 350-148; ?>px; margin-left: <?php echo 487-72; ?>px;">
 									<div class="pais-text">Nigéria</div>
 									&nbsp;</div>
 
-									<!-- ? -->
-									<div class="pais-pointer" style="top: 395px; left: 507px;">
+									<!-- Angola -->
+									<div class="pais-pointer" style="margin-top: <?php echo 395-148; ?>px; margin-left: <?php echo 507-72; ?>px;">
 									<div class="pais-text">Angola</div>
 									&nbsp;</div>
 
-									<!-- ? -->
-									<div class="pais-pointer" style="top: 435px; left: 517px;">
+									<!-- África do Sul -->
+									<div class="pais-pointer" style="margin-top: <?php echo 435-148; ?>px; margin-left: <?php echo 517-72; ?>px;">
 									<div class="pais-text">África do Sul</div>
 									&nbsp;</div>
 
-									<!-- ? -->
-									<div class="pais-pointer" style="top: 415px; left: 545px;">
+									<!-- Moçambique -->
+									<div class="pais-pointer" style="margin-top: <?php echo 415-148; ?>px; margin-left: <?php echo 545-72; ?>px;">
 									<div class="pais-text">Moçambique</div>
 									&nbsp;</div>
 
-									<!-- ? -->
-									<div class="pais-pointer" style="top: 315px; left: 555px;">
+									<!-- Arabia Saudita -->
+									<div class="pais-pointer" style="margin-top: <?php echo 315-148; ?>px; margin-left: <?php echo 555-72; ?>px;">
 									<div class="pais-text">Arabia Saudita</div>
 									&nbsp;</div>
 
-									<!-- ? -->
-									<div class="pais-pointer" style="top: 315px; left: 630px;">
+									<!-- India -->
+									<div class="pais-pointer" style="margin-top: <?php echo 315-148; ?>px; margin-left: <?php echo 630-72; ?>px;">
 									<div class="pais-text">India</div>
 									&nbsp;</div>
 
-									<!-- ? -->
-									<div class="pais-pointer" style="top: 290px; left: 670px;">
+									<!-- China -->
+									<div class="pais-pointer" style="margin-top: <?php echo 290-148; ?>px; margin-left: <?php echo 670-72; ?>px;">
 									<div class="pais-text">China</div>
 									&nbsp;</div>
 
-									<!-- ? -->
-									<div class="pais-pointer" style="top: 440px; left: 750px;">
+									<!-- Australia -->
+									<div class="pais-pointer" style="margin-top: <?php echo 440-148; ?>px; margin-left: <?php echo 750-72; ?>px;">
 									<div class="pais-text">Australia</div>
 									&nbsp;</div>
 
-									<!-- ? -->
-									<div class="pais-pointer" style="top: 253px; left: 477px;">
+									<!-- Bélgica -->
+									<div class="pais-pointer" style="margin-top: <?php echo 253-148; ?>px; margin-left: <?php echo 477-72; ?>px;">
 									<div class="pais-text">Bélgica</div>
 									&nbsp;</div>
 
-									<!-- ? -->
-									<div class="pais-pointer" style="top: 248px; left: 490px;">
+									<!-- Alemanha -->
+									<div class="pais-pointer" style="margin-top: <?php echo 248-148; ?>px; margin-left: <?php echo 490-72; ?>px;">
 									<div class="pais-text">Alemanha</div>
 									&nbsp;</div>
 
-									<!-- ? -->
-									<div class="pais-pointer" style="top: 265px; left: 486px;">
+									<!-- Luxemburgo -->
+									<div class="pais-pointer" style="margin-top: <?php echo 265-148; ?>px; margin-left: <?php echo 486-72; ?>px;">
 									<div class="pais-text">Luxemburgo</div>
 									&nbsp;</div>
 
@@ -360,6 +361,8 @@ get_header(); ?>
 
 							</div>
 						</div>
+
+
 						
 						<div style="float: right; width: 33.333%;">
 
@@ -392,7 +395,7 @@ get_header(); ?>
 
 						</div>
 
-
+						
 
 
 
