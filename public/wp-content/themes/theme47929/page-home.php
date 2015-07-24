@@ -207,6 +207,7 @@ get_header(); ?>
 										display: none;
 										white-space: nowrap;
 										position: absolute; background-color: #2c3e50; left: 10px; top: -7px; color: #FFF; padding: 2px 5px;
+										z-index: 15;
 									}
 									.pais-pointer {
 										 position: absolute; background-color: #2c3e50; width: 5px; height: 5px; border-radius: 2px;
