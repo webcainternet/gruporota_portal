@@ -198,7 +198,7 @@ get_header(); ?>
 
 										<div style="width: 100%; float: left;">
 											<div style="background-color: #c0392b; width: 10px; height: 10px; float: left; margin-top: 3px;">&nbsp;</div>
-											<div style="float: left; margin-left: 5px;">Desenvolvimento Futuro</div>
+											<div style="float: left; margin-left: 5px;">Futuras Projeções</div>
 										</div>
 									</div>
 
