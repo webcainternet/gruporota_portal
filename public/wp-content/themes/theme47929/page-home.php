@@ -76,7 +76,7 @@ get_header(); ?>
 
 <div class="motopress-wrapper content-holder clearfix" style="padding-bottom: 0px;">
 	<div>
-		<a class="linkarea" href="/engenharia-e-contrucao"><div class="areaitem" style="background-color: #f0f0f0;">
+		<a class="linkarea" href="/engenharia-e-construcao"><div class="areaitem" style="background-color: #f0f0f0;">
 			<div class="areatitulo linkarea" style="background-color: #2c3e50; /* #9b59b6;*/">Engenharia e construção</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_construtora.jpg');">&nbsp;</div>
 			<div class="areatexto">
