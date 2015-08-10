@@ -26,6 +26,6 @@
 
 <!-- BEGIN 10y -->
 <div class="logo pull-left" style="float: left !important;">
-	<img src="/wp-content/themes/theme47929/images/10anos.png" alt="10 anos" title="10 anos" style="  width: 112px; margin-top: 43px;">
+	<img src="/wp-content/themes/theme47929/images/10anos3.png" alt="10 anos" title="10 anos" style="  width: 112px; margin-top: 43px;">
 </div>
 <!-- END 10y -->
