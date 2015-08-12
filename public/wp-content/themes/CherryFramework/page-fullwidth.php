@@ -7,7 +7,7 @@ get_header(); ?>
 
 <style type="text/css">
 .header {
-  height: 190px;
+  height: 370px;
 }
 .title-header {
 	display: none;
