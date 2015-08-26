@@ -101,7 +101,7 @@
 								<li class="footerli"><div id="copyright" style="font: normal 11px/18px Open Sans !important;min-width: 300px; text-align: right;"><a href="/politicas-de-privacidade">Políticas de Privacidade</a> | <a href="/trabalhe-conosco">Trabalhe Conosco</a></div></li>
 							</ul>
 
-							<div style="text-align: right;"><img src="/wp-content/themes/theme47929/images/footer_trofeu.png" style="width: 30px; margin-top: 5px;"></div>
+							<div style="text-align: right;"><img src="/wp-content/themes/theme47929/images/footer_trofeu.png" style="width: 40px; margin-top: 42px; margin-right: 82px;"></div>
 						</div>
 							
 
