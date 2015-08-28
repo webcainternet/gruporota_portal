@@ -107,6 +107,9 @@
 		color: #999;
 		text-decoration: underline;
 	}
+	.back-top-wrapper {
+		z-index: 999999 !important;
+	}
 	</style>
 
 	<style type="text/css">
