@@ -570,7 +570,8 @@ input[type="submit"], input[type="reset"], input[type="submit"]:focus, input[typ
 	height:30px !important;
 	line-height:30px !important;
 	font-size:14px;
-	padding:0 12px;
+	padding: 5px 15px 35px;
+    border: 0px;
 	background:#444444;
 }
 input[type="submit"]:hover, input[type="reset"]:hover { background:#1c1c1c; }
