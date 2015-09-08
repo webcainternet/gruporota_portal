@@ -92,7 +92,7 @@ list($dolarComercialCompra, $dolarComercialVenda, $dolarComercialVariacao, $dola
 	<tr>
 		<td colspan="2" class="titulos">
 <select style="width: 100%;" id="convpara" name="convpara">
-<option value="0">Escolha uma moeda</option> 
+<option value="0">Converter para</option> 
 <option value="1">Real</option>
 <option value="<?php echo str_replace(',', '.',$dolarComercialVenda); ?>">Dólar Americano</option>
 <option value="<?php echo str_replace(',', '.',$euroVenda); ?>">Euro</option>
