@@ -465,7 +465,7 @@ get_header(); ?>
 									<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/home-noticia2.jpg'); background-size: cover;">&nbsp;</div>
 									<div class="areatexto">
 										<div class="areatextocontenttitle linkarea">ROTA CONSTRUCTION USA LANÇARÁ EMPREENDIMENTO DE TOWNHOUSES EM ORLANDO/FLORIDA</div>
-										<div class="areatextocontentnoticia linkarea">A Rota Construction USA, Corp. está...</div>
+										<div class="areatextocontentnoticia linkarea">A Rota Construction USA...</div>
 									</div>
 								</div></a>
 
