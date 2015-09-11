@@ -452,7 +452,7 @@ get_header(); ?>
 						<div style="float: right; width: 33.333%;">
 
 
-							<div style="float: left; width: 100%;">
+							<div style="float: left; width: 100%; overflow: scroll; height: 455px;">
 								<a class="linkarea" href="/news/rota-construcoes-adota-9-regras-de-ouro-para-seguranca/"><div class="areaitemnoticia"  style="background-color: #F0F0F0;">
 									<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/header_news_rota-construcoes-adota-9-regras-de-ouro-para-seguranca.jpg'); background-size: cover;">&nbsp;</div>
 									<div class="areatexto">
@@ -462,7 +462,7 @@ get_header(); ?>
 								</div></a>
 
 								<a class="linkarea" href="#"><div class="areaitemnoticia">
-									<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_ambiente.jpg');">&nbsp;</div>
+									<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/home-noticia2.jpg'); background-size: cover;">&nbsp;</div>
 									<div class="areatexto">
 										<div class="areatextocontenttitle linkarea">ROTA CONSTRUCTION USA LANÇARÁ EMPREENDIMENTO DE TOWNHOUSES EM ORLANDO/FLORIDA</div>
 										<div class="areatextocontentnoticia linkarea">A Rota Construction USA, Corp. está em fase de estudo para lançamento de seu empreendimento de TownHouses com layouts voltados para as necessidades dos brasileiros. As casas terão de 2 a 4 quartos e contarão com projetos que provovam o conforto e bem estar de seus hóspedes. Invista na sua qualidade de vida. Saiba mais</div>
@@ -470,7 +470,7 @@ get_header(); ?>
 								</div></a>
 
 								<a class="linkarea" href="#"><div class="areaitemnoticia"  style="background-color: #F0F0F0;">
-									<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_predios.jpg'); background-size: auto 100%;">&nbsp;</div>
+									<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/home-noticia1.jpg'); background-size: cover;">&nbsp;</div>
 									<div class="areatexto">
 										<div class="areatextocontenttitle linkarea">ROTA CONTABIL AGILIZA A ABERTURA DE SUA EMPRESA</div>
 										<div class="areatextocontentnoticia linkarea">Com a implantação de novos processos e sistemas a Rota Contabil otimiza os processos de abertura de sua empresa</div>
