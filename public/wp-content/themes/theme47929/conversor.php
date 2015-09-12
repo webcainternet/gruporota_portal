@@ -46,18 +46,47 @@ input[type="button"], input[type="reset"], input[type="button"]:focus, input[typ
     border: 0px;
     background: #444444;
 }
+#valorOriginal {
+    font: normal 16px Open Sans;
+    padding: 10px 10px 3px;
+}
+#valorCalculado {
+    font: normal 22px Open Sans;
+    padding: 10px 10px 3px;
+    color: #AB9632;
+}
 	</style>
 
 	<script type="text/javascript">
 
-	function convertemoeda() {
-		var para = document.getElementById('convpara').value;
-		var de   = document.getElementById('convde').value;
-		var valor   = document.getElementById('convval').value;
-		total = valor*de/para;
-		total2 = total.toFixed(2)
+	function getSelectedText(elementId) {
+	    var elt = document.getElementById(elementId);
 
-		alert(total2);
+	    if (elt.selectedIndex == -1)
+	        return null;
+
+	    return elt.options[elt.selectedIndex].text;
+	}
+
+	function convertemoeda() {
+		var para2  = document.getElementById('convpara').value;
+		var de2    = document.getElementById('convde').value;
+		var valor2 = document.getElementById('convval').value;
+		var valorOriginal2 = document.getElementById('convval').value;
+
+		var para  = para2.replace(",", ".");
+		var de    = de2.replace(",", ".");
+		var valor = valor2.replace(",", ".");
+		var valorOriginal = valorOriginal2.replace(",", ".");
+
+		total = valor*de/para;
+		total2 = total.toFixed(2);
+
+		var moedade = getSelectedText('convde');
+		var moedapara = getSelectedText('convpara');
+
+		document.getElementById('valorOriginal').innerHTML = valorOriginal+' ('+moedade+')';
+		document.getElementById('valorCalculado').innerHTML = '= '+total2+' ('+moedapara+')';
 		
 	}
 
@@ -86,7 +115,7 @@ list($dolarComercialCompra, $dolarComercialVenda, $dolarComercialVariacao, $dola
 <option value="1">Real</option>
 <option value="<?php echo str_replace(',', '.',$dolarComercialVenda); ?>">Dólar Americano</option>
 <option value="<?php echo str_replace(',', '.',$euroVenda); ?>">Euro</option>
-<option value="<?php echo str_replace(',', '.',$pesoVenda); ?>">Peso</option>
+<option value="<?php echo str_replace(',', '.',$pesosVenda); ?>">Peso</option>
 </select></td>
 	</tr>
 	<tr>
@@ -96,7 +125,7 @@ list($dolarComercialCompra, $dolarComercialVenda, $dolarComercialVariacao, $dola
 <option value="1">Real</option>
 <option value="<?php echo str_replace(',', '.',$dolarComercialVenda); ?>">Dólar Americano</option>
 <option value="<?php echo str_replace(',', '.',$euroVenda); ?>">Euro</option>
-<option value="<?php echo str_replace(',', '.',$pesoVenda); ?>">Peso</option>
+<option value="<?php echo str_replace(',', '.',$pesosVenda); ?>">Peso</option>
 </select></td>
 	</tr>
 	<tr>
@@ -105,6 +134,13 @@ list($dolarComercialCompra, $dolarComercialVenda, $dolarComercialVariacao, $dola
 	<tr>
 		<td class="titulos"><input type="text" id="convval" name="convval" style="height: 40px;width: 100%;"></td>
 		<td class="titulos" style="text-align: left;"><input type="button" onclick="javacript: convertemoeda();" value="Converter"></td>
+	</tr>
+	<tr>
+		<td class="titulos" colspan="2" style="text-align: left;">
+			Resultado:<br>
+			<span id="valorOriginal"> </span><br>
+			<span id="valorCalculado"> </span>
+		</td>
 	</tr>
 </table>
 
