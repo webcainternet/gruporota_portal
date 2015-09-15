@@ -257,7 +257,7 @@ addLoadEvent(function(){ var p=new Array(15,30,15,0,-15,-30,-15,0);p=p.concat(p.
 
 function wp_login_viewport_meta() {
 	?>
-	<meta name="viewport" content="width=device-width" />
+	<meta name="viewport" content="width=1260">
 	<?php
 }
 
