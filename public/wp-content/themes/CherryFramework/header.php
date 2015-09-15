@@ -81,7 +81,7 @@
 			var viewportmeta = document.querySelector && document.querySelector('meta[name="viewport"]'),
 				ua = navigator.userAgent,
 				gestureStart = function () {
-					viewportmeta.content = "width=device-width, minimum-scale=0.25, maximum-scale=1.6, initial-scale=1.0";
+					viewportmeta.content = "width=1260";
 				},
 				scaleFix = function () {
 					if (viewportmeta && /iPhone|iPad/.test(ua) && !/Opera Mini/.test(ua)) {
