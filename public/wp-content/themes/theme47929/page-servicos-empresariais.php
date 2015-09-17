@@ -431,25 +431,56 @@ Linha digitável:<br>
 
 
 
+<div style="float: left; width: 775px;">
+	<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 100%; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #14a750;color: #14a750;margin-bottom: 15px;">Perguntas frequentes</div>
+	<div style="float: left; margin-left: 10px; width: 794px;"><section class="ac-container">
+	<div><input id="ac-1" name="accordion-1" type="checkbox" /><label for="ac-1">As pequenas empresas também estarão obrigadas à emissão de nota fiscal eletrônica?</label>
+	<article class="ac-small"><p>A obrigatoriedade de nota fiscal eletrônica ocorre pela atividade prestada pela empresa. Em muitos casos em que se enquadram dentro das exigências da legislação poderá ser concedida a dispensa de nota fiscal eletrônica.</p>
+	</article></div>
+	<div><input id="ac-2" name="accordion-1" type="checkbox" /><label for="ac-2">Como cancelar uma nota fiscal?</label>
+	<article class="ac-medium"><p>Notas fiscais manuais – para ocorrer o cancelamento todas as vias devem permanecer grampeadas no bloco. Para nota fiscal eletrônica – deve estar no prazo máximo estipulado que é de 7 dias, e o cancelamento é feito através do próprio programa emissor. Sendo que para o cancelamento de ambas ainda não pode ter ocorrido a saída da mercadoria.</p>
+	</article></div>
+	<div><input id="ac-3" name="accordion-1" type="checkbox" /><label for="ac-3">Por quanto tempo devo guardar as notas e livros fiscais?</label>
+	<article class="ac-large"><p>Notas fiscais deve ser guardadas no mínimo por 5 anos, já os livros de escrituração fiscal devem ser guardados por 10 anos.</p>
+	</article></div>
+	<div><input id="ac-4" name="accordion-1" type="checkbox" /><label for="ac-4">Quando devo enviar as notas fiscais para o escritório?</label>
+	<article class="ac-large"><p>Todas as notas fiscais de entradas e saídas devem ser encaminhadas ao escritório no primeiro dia útil de cada mês.</p>
+	</article></div></section>
+	</div>
+</div>
 
-<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 1140px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #14a750;color: #14a750;margin-bottom: 15px;">Perguntas frequentes</div>
-<div style="float: left; margin-left: 10px;"><section class="ac-container">
-<div><input id="ac-1" name="accordion-1" type="checkbox" /><label for="ac-1">As pequenas empresas também estarão obrigadas à emissão de nota fiscal eletrônica?</label>
-<article class="ac-small"><p>A obrigatoriedade de nota fiscal eletrônica ocorre pela atividade prestada pela empresa. Em muitos casos em que se enquadram dentro das exigências da legislação poderá ser concedida a dispensa de nota fiscal eletrônica.</p>
-</article></div>
-<div><input id="ac-2" name="accordion-1" type="checkbox" /><label for="ac-2">Como cancelar uma nota fiscal?</label>
-<article class="ac-medium"><p>Notas fiscais manuais – para ocorrer o cancelamento todas as vias devem permanecer grampeadas no bloco. Para nota fiscal eletrônica – deve estar no prazo máximo estipulado que é de 7 dias, e o cancelamento é feito através do próprio programa emissor. Sendo que para o cancelamento de ambas ainda não pode ter ocorrido a saída da mercadoria.</p>
-</article></div>
-<div><input id="ac-3" name="accordion-1" type="checkbox" /><label for="ac-3">Por quanto tempo devo guardar as notas e livros fiscais?</label>
-<article class="ac-large"><p>Notas fiscais deve ser guardadas no mínimo por 5 anos, já os livros de escrituração fiscal devem ser guardados por 10 anos.</p>
-</article></div>
-<div><input id="ac-4" name="accordion-1" type="checkbox" /><label for="ac-4">Quando devo enviar as notas fiscais para o escritório?</label>
-<article class="ac-large"><p>Todas as notas fiscais de entradas e saídas devem ser encaminhadas ao escritório no primeiro dia útil de cada mês.</p>
-</article></div></section></div>
+
+<div style="float: left; width: 310px; margin-left: 60px; margin-top: 30px;">
+<div style="float: left; width: 100%;">
+<div class="novoticket" style="float: left;  width: 100%;">
 
 
+<table>
+	<tr>
+		<td>[imagem]</td>
+		<td>Jurisprudência<br>Consulte</td>
+	</tr>
+
+	<tr>
+		<td>[imagem]</td>
+		<td>Tabelas Práticas<br>Pesquise com mais facilidade</td>
+	</tr>
+
+	<tr>
+		<td>[imagem]</td>
+		<td>Índices Econômicos<br>Veja os índices econômicos</td>
+	</tr>
+
+	<tr>
+		<td>[imagem]</td>
+		<td>Certidões Negativas<br>Retire aqui suas certidões</td>
+	</tr>
+</table>
 
 
+</div>
+</div>
+</div>
 
 
 
