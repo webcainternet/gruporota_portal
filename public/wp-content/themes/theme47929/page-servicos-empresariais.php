@@ -358,7 +358,9 @@ display: inline;
 <div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width:770px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #14a750;color: #14a750;margin-bottom: 15px;">Destaques</div>
 
 <div class="novoticket" style="float: left;  width: 100%;">
-[metaslider id=2601]
+<?php 
+    echo do_shortcode("[metaslider id=2601]"); 
+?>
 </div>
 </div>
 
