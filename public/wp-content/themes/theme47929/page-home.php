@@ -5,6 +5,17 @@
 
 get_header(); ?>
 
+<script type="text/javascript">
+	function SubirNoticia() {
+		var objDiv = document.getElementById("divnoticiasroll");
+		objDiv.scrollTop = 0;
+	}
+	function DescerNoticia() {
+		var objDiv = document.getElementById("divnoticiasroll");
+		objDiv.scrollTop = objDiv.scrollHeight;
+	}
+</script>
+
 <style type="text/css">
 	.areaitem {
 		float: left;
@@ -172,9 +183,16 @@ get_header(); ?>
 							</div>
 						</div>
 
-						<div style="float: left; width: 33.333%; background-color: #222; padding-top: 10px;">
+						<div style="float: left; width: 23.333%; background-color: #222; padding-top: 10px;">
 							<div style="font-size: 16px !important; letter-spacing: 0px !important; text-transform: uppercase; padding: 20px 25px 20px; color: #101e2f !important; background-color: #f9ffff !important; width: 65px; margin-left: 0px;">
 									Notícias
+							</div>
+						</div>
+
+						<div style="float: left; width: 10%; background-color: #222; padding-top: 10px;">
+							<div style="font-size: 16px !important; letter-spacing: 0px !important; text-transform: uppercase; padding: 20px 25px 20px; color: #101e2f !important; width: 165px; margin-left: 0px;">
+									<a onclick="javascript: SubirNoticia();"><div style="display: inline-block; width: 30px; background: url(/wp-content/themes/CherryFramework/images/up-arrow.png) no-repeat center center; background-size: 15px;">&nbsp;</div></a>
+									<a onclick="javascript: DescerNoticia();"><div style="display: inline-block; width: 30px; background: url(/wp-content/themes/CherryFramework/images/up-arrow.png) no-repeat center center; background-size: 15px; -ms-transform: rotate(180deg); -webkit-transform: rotate(180deg); transform: rotate(180deg);">&nbsp;</div></a>
 							</div>
 						</div>
 
@@ -452,28 +470,32 @@ get_header(); ?>
 						<div style="float: right; width: 33.333%;">
 
 
-							<div style="float: left; width: 100%; overflow: scroll; height: 455px;">
+							<div id="divnoticiasroll" style="float: left; width: 100%; overflow: scroll; height: 455px;">
 								<a class="linkarea" href="/news/rota-construcoes-adota-9-regras-de-ouro-para-seguranca/"><div class="areaitemnoticia"  style="background-color: #F0F0F0;">
 									<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/header_news_rota-construcoes-adota-9-regras-de-ouro-para-seguranca.jpg'); background-size: cover;">&nbsp;</div>
 									<div class="areatexto">
 										<div class="areatextocontenttitle linkarea">Rota Construções adota 9 Regras de Ouro para segurança</div>
-										<div class="areatextocontentnoticia linkarea">O Grupo Rota do Brasil  buscando interagir com as exigencias internacionais de Segurança ...</div>
 									</div>
 								</div></a>
 
-								<a class="linkarea" href="#"><div class="areaitemnoticia">
+								<a class="linkarea" href="/news/rota-construction-usa-lancara-empreendimento-de-townhouses-em-orlando-na-florida/"><div class="areaitemnoticia">
 									<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/home-noticia2.jpg'); background-size: cover;">&nbsp;</div>
 									<div class="areatexto">
-										<div class="areatextocontenttitle linkarea">ROTA CONSTRUCTION USA LANÇARÁ EMPREENDIMENTO DE TOWNHOUSES EM ORLANDO/FLORIDA</div>
-										<div class="areatextocontentnoticia linkarea">A Rota Construction USA...</div>
+										<div class="areatextocontenttitle linkarea">Rota Construction USA Lançará empreendimento de Townhouses em Orlando/Flórida</div>
 									</div>
 								</div></a>
 
-								<a class="linkarea" href="#"><div class="areaitemnoticia"  style="background-color: #F0F0F0;">
+								<a class="linkarea" href="/news/rota-contabil-agiliza-a-abertura-de-sua-empresa/"><div class="areaitemnoticia"  style="background-color: #F0F0F0;">
 									<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/home-noticia1.jpg'); background-size: cover;">&nbsp;</div>
 									<div class="areatexto">
-										<div class="areatextocontenttitle linkarea">ROTA CONTABIL AGILIZA A ABERTURA DE SUA EMPRESA</div>
-										<div class="areatextocontentnoticia linkarea">Com a implantação de novos processos e sistemas a Rota Contabil otimiza os processos...</div>
+										<div class="areatextocontenttitle linkarea">Rota Contabil agiliza a abertura de sua empresa</div>
+									</div>
+								</div></a>
+
+								<a class="linkarea" href="/news/rota-construction-usa-lancara-empreendimento-de-townhouses-em-orlando-na-florida/"><div class="areaitemnoticia">
+									<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/home-noticia2.jpg'); background-size: cover;">&nbsp;</div>
+									<div class="areatexto">
+										<div class="areatextocontenttitle linkarea">Noticia Exemplo 4</div>
 									</div>
 								</div></a>
 							</div>
