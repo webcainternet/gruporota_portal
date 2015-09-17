@@ -319,7 +319,7 @@ display: inline;
 
 <div><h2 style="color: #14a750;">Serviços Empresariais</h2></div>
 
-<div style="text-align: justify;margin-right: 30px;">A Rota Construtora está focada em segmentos mistos voltado a obras civis, eletromecânica industriais, adequação ambiental e modernização fabril assim com obras comerciais. Trabalhamos com processos dinâmicos de modo a possibilitar trabalhos sem interrupção das atividades diárias de nossos clientes. Com experiência profissional em suas respectivas áreas de atuação, tendo como meta a satisfação dos seus clientes, seja no cumprimento dos prazos e especial observância dos padrões de qualidade, seja na observancia das normas técnicas dos serviços a que se propõem executar, assim foi constituída a Rota Construtora e posteriormente a Rota Engenharia, empresas que integram o Grupo Rota do Brasil desde 2004.</div>
+<div style="text-align: justify; margin-right: 30px; color: #333;">A Rota Construtora está focada em segmentos mistos voltado a obras civis, eletromecânica industriais, adequação ambiental e modernização fabril assim com obras comerciais. Trabalhamos com processos dinâmicos de modo a possibilitar trabalhos sem interrupção das atividades diárias de nossos clientes. Com experiência profissional em suas respectivas áreas de atuação, tendo como meta a satisfação dos seus clientes, seja no cumprimento dos prazos e especial observância dos padrões de qualidade, seja na observancia das normas técnicas dos serviços a que se propõem executar, assim foi constituída a Rota Construtora e posteriormente a Rota Engenharia, empresas que integram o Grupo Rota do Brasil desde 2004.</div>
 
 </div>
 
@@ -396,22 +396,22 @@ display: inline;
 <div style="font: normal 22px Open Sans;height: 41px;padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #14a750;color: #14a750;">2ª via de boleto bancário</div>
 <div style="padding: 25px; padding-bottom: 0px; width: 100%; margin-bottom: 15px;">
 <div style="float: left;"><input type="radio" checked name="optbolegto" value="1" onclick="javascript: document.getElementById('dvdadosboleto').style.display = 'block';document.getElementById('dvlinha').style.display = 'none';"></div>
-<div style="float: left; margin: 3px 15px 0px 5px">Dados do boleto</div>
+<div style="float: left; margin: 3px 15px 0px 5px; color: #333;">Dados do boleto</div>
 <div style="float: left;"><input type="radio" name="optbolegto" value="2" onclick="javascript: document.getElementById('dvdadosboleto').style.display = 'none';document.getElementById('dvlinha').style.display = 'block';"></div>
-<div style="float: left; margin: 3px 15px 0px 5px">Linha digitável</div>
+<div style="float: left; margin: 3px 15px 0px 5px; color: #333;">Linha digitável</div>
 </div>
-<div id="dvdadosboleto" style="display: block; padding: 25px;">
+<div id="dvdadosboleto" style="display: block; padding: 25px; color: #333;">
 Para retirar a 2ª via, digite as informações solicitadas, conforme demonstrado nas figuras abaixo. 
 Se o boleto estiver vencido, você o visualizará com a data e o valor atualizados, para pagamento em qualquer banco, até a data atual.<br>&nbsp;
 <div style="float: left; width: 530px; margin-right: 30px;"><img src="/wp-content/themes/theme47929/images/boleto_opcao_01.jpg" width="100%" style="margin-bottom: 15px; margin-top: 30px; width: 100%;"></div>
-<div style="float: left; width: 560px;">
+<div style="float: left; width: 560px; color: #333;">
 Cooperativa contratante / Código do Beneficiário:<br>
 <input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required widtclass" aria-required="true" aria-invalid="false" style="width: 500px;"><br>
 Nosso número:<br>
 <input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required widtclass" aria-required="true" aria-invalid="false" style="width: 500px;"><br>
 <input type="submit" value="Buscar Boleto" class="wpcf7-form-control wpcf7-submit">
 </div></div>
-<div id="dvlinha" style="display: none; padding: 25px;">
+<div id="dvlinha" style="display: none; padding: 25px; color: #333;">
 Caso não tenha o boleto em mãos, é necessário entrar em contato com o Beneficiário (estabelecimento) no qual você efetuou sua compra ou recebeu a prestação de um serviço e solicitar os dados necessários para a obtenção da 2ª via.
 <br>&nbsp;
 <div style="float: left; width: 530px; margin-right: 30px;"><img src="/wp-content/themes/theme47929/images/boleto_opcao_02.jpg" width="100%" style="margin-bottom: 15px; margin-top: 30px; width: 100%;"></div>
