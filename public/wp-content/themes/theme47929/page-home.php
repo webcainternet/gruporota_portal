@@ -113,8 +113,8 @@ get_header(); ?>
 			</div>
 		</div></a>
 
-		<a class="linkarea" href="/imobiliario"><div class="areaitem" style="background-color: #D4E9FF;">
-			<div class="areatitulo linkarea" style="background-color: #2c3e50; /* #2980b9;*/">Imobiliário</div>
+		<a class="linkarea" href="/imobiliaria"><div class="areaitem" style="background-color: #D4E9FF;">
+			<div class="areatitulo linkarea" style="background-color: #2c3e50; /* #2980b9;*/">Imobiliária</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_engenharia.jpg');">&nbsp;</div>
 			<div class="areatexto">
 				<div class="areatextocontent linkarea">Desenvolvimento e Planejamento para Realizar Sonhos e Integrar Facilidades</div>
@@ -481,7 +481,7 @@ get_header(); ?>
 								<a class="linkarea" href="/news/rota-construction-usa-lancara-empreendimento-de-townhouses-em-orlando-na-florida/"><div class="areaitemnoticia">
 									<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/home-noticia2.jpg'); background-size: cover;">&nbsp;</div>
 									<div class="areatexto">
-										<div class="areatextocontenttitle linkarea">Rota Construction USA Lançará empreendimento de Townhouses em Orlando/Flórida</div>
+										<div class="areatextocontenttitle linkarea">Rota Construction USA, lançará empreendimento de Townhouses em Orlando/Flórida</div>
 									</div>
 								</div></a>
 
