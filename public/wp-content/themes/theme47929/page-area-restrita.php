@@ -26,6 +26,16 @@ get_header(); ?>
 		LimpaLable();
 	    $('#lbwebmail').show();
 	}
+
+	function btLogin() {
+		$("#dvLogin").fadeOut(1000);
+	    $("#dvSenha").delay(1000).fadeIn(1000);
+	}
+
+	function btVoltar() {
+		$("#dvSenha").fadeOut(1000);
+	    $("#dvLogin").delay(1000).fadeIn(1000);
+	}
 </script>
 
 <style type="text/css">
@@ -157,12 +167,17 @@ get_header(); ?>
 								</div>
 							</div>
 
-							<div style="float: left; width: 285px; margin-left: 15px;">
+							<div id="dvLogin" style="float: left; width: 285px; margin-left: 15px;">
 								<h2 style="font-size: 16px; margin-bottom: 0px;">Login <span id="lbcliente" style="padding: 0px 5px; color: #FFFFFF; background-color: #333;">Cliente</span><span id="lbconselho" style="padding: 0px 5px; color: #FFFFFF; background-color: #2c3e50; display: none;">Conselho de Administração</span><span id="lbwebmail" style="padding: 0px 5px; color: #FFFFFF; background-color: #eea303; display: none;">Webmail</span></h2>
 								<div><input type="text" style="width: 315px; height: 50px;" placeholder="Digite seu login"></div>
-								<div style="text-align: right; width: 315px;"><input type="button" value="Entrar" style="height: 50px; width: 80px; color: #FFFFFF; background-color: #333333; border: 0px;"></div>
+								<div style="text-align: right; width: 315px;"><input onclick="javascript: btLogin();" type="button" value="Entrar" style="height: 50px; width: 80px; color: #FFFFFF; background-color: #333333; border: 0px;"></div>
 							</div>
 							
+							<div id="dvSenha" style="float: left; width: 285px; margin-left: 15px; display: none;">
+								<h2 style="font-size: 16px; margin-bottom: 0px;">Senha</h2>
+								<div><input type="password" style="width: 315px; height: 50px;" placeholder="Digite sua senha"></div>
+								<div style="text-align: right; width: 315px;"><input onclick="javascript: btVoltar();" type="button" value="Voltar" style="height: 50px; width: 80px; color: #FFFFFF; background-color: #333333; border: 0px; margin-right: 5px;"><input type="button" value="Entrar" style="height: 50px; width: 80px; color: #FFFFFF; background-color: #333333; border: 0px;"></div>
+							</div>
 						</div>
 
 						<div style="float: left; width: 50%; padding-left: 15px;">
