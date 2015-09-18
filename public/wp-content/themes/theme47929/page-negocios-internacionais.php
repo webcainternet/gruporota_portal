@@ -194,11 +194,10 @@ A Rota Construtora tem como meta a conquista de novos espaços no mercado de con
 <div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width:310px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #AB9632;color: #AB9632;margin-bottom: 15px;">Últimas Notícias</div>
 
 <div class="novoticket" style="float: left;  width: 100%;">
-<a class="noticiaslinks" href="">Pesquisa traça perfil de vítimas de violência doméstica (Diário de Pernambuco – 28/08/2015)</a>
-<a class="noticiaslinks" href="">Lei específica não será efetiva sem mudança na mentalidade social (Blasting News – 28/08/2015)</a>
-<a class="noticiaslinks" href="">Juíza defende a criação de banco de dados de homicídios de mulheres (Jornal do Brasil – 28/08/2015)</a>
-<a class="noticiaslinks" href="">Leis Maria da Penha e do Feminicídio em pauta em seminário nesta sexta (Diário de Pernambuco – 28/08/2015)</a>
-<a class="noticiaslinks" href="">Lei do Feminicídio encara a misoginia (Gazeta do Povo – 28/08/2015)</a>
+<a class="noticiaslinks" href="">Teste pesquisa traça perfil de vítimas de violência doméstica (Diário de Pernambuco – 28/08/2015)</a><br>&nbsp;<br>
+<a class="noticiaslinks" href="">Lei específica não será efetiva sem mudança na mentalidade social (Blasting News – 28/08/2015)</a><br>&nbsp;<br>
+<a class="noticiaslinks" href="">Juíza defende a criação de banco de dados de homicídios de mulheres (Jornal do Brasil – 28/08/2015)</a><br>&nbsp;<br>
+<a class="noticiaslinks" href="">Leis Maria da Penha e do Feminicídio em pauta em seminário nesta sexta (Diário de Pernambuco – 28/08/2015)</a><br>&nbsp;<br>
 </div>
 </div>
 </div>
@@ -239,11 +238,10 @@ A Rota Construtora tem como meta a conquista de novos espaços no mercado de con
 <div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width:310px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #AB9632;color: #AB9632;margin-bottom: 15px;">Últimas Notícias</div>
 
 <div class="novoticket" style="float: left;  width: 100%;">
-<a class="noticiaslinks" href="">Pesquisa traça perfil de vítimas de violência doméstica (Diário de Pernambuco – 28/08/2015)</a>
-<a class="noticiaslinks" href="">Lei específica não será efetiva sem mudança na mentalidade social (Blasting News – 28/08/2015)</a>
-<a class="noticiaslinks" href="">Juíza defende a criação de banco de dados de homicídios de mulheres (Jornal do Brasil – 28/08/2015)</a>
-<a class="noticiaslinks" href="">Leis Maria da Penha e do Feminicídio em pauta em seminário nesta sexta (Diário de Pernambuco – 28/08/2015)</a>
-<a class="noticiaslinks" href="">Lei do Feminicídio encara a misoginia (Gazeta do Povo – 28/08/2015)</a>
+<a class="noticiaslinks" href="">Lei específica não será efetiva sem mudança na mentalidade social (Blasting News – 28/08/2015)</a><br>&nbsp;<br>
+<a class="noticiaslinks" href="">Juíza defende a criação de banco de dados de homicídios de mulheres (Jornal do Brasil – 28/08/2015)</a><br>&nbsp;<br>
+<a class="noticiaslinks" href="">Leis Maria da Penha e do Feminicídio em pauta em seminário nesta sexta (Diário de Pernambuco – 28/08/2015)</a><br>&nbsp;<br>
+<a class="noticiaslinks" href="">Lei do Feminicídio encara a misoginia (Gazeta do Povo – 28/08/2015)</a><br>&nbsp;<br>
 </div>
 </div>
 </div>
@@ -282,11 +280,9 @@ A Rota Construtora tem como meta a conquista de novos espaços no mercado de con
 <div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width:310px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #AB9632;color: #AB9632;margin-bottom: 15px;">Últimas Notícias</div>
 
 <div class="novoticket" style="float: left;  width: 100%;">
-<a class="noticiaslinks" href="">Pesquisa traça perfil de vítimas de violência doméstica (Diário de Pernambuco – 28/08/2015)</a>
-<a class="noticiaslinks" href="">Lei específica não será efetiva sem mudança na mentalidade social (Blasting News – 28/08/2015)</a>
-<a class="noticiaslinks" href="">Juíza defende a criação de banco de dados de homicídios de mulheres (Jornal do Brasil – 28/08/2015)</a>
-<a class="noticiaslinks" href="">Leis Maria da Penha e do Feminicídio em pauta em seminário nesta sexta (Diário de Pernambuco – 28/08/2015)</a>
-<a class="noticiaslinks" href="">Lei do Feminicídio encara a misoginia (Gazeta do Povo – 28/08/2015)</a>
+<a class="noticiaslinks" href="">Pesquisa traça perfil de vítimas de violência doméstica (Diário de Pernambuco – 28/08/2015)</a><br>&nbsp;<br>
+<a class="noticiaslinks" href="">Leis Maria da Penha e do Feminicídio em pauta em seminário nesta sexta (Diário de Pernambuco – 28/08/2015)</a><br>&nbsp;<br>
+<a class="noticiaslinks" href="">Lei do Feminicídio encara a misoginia (Gazeta do Povo – 28/08/2015)</a><br>&nbsp;<br>
 </div>
 </div>
 </div>
@@ -325,11 +321,8 @@ A Rota Construtora tem como meta a conquista de novos espaços no mercado de con
 <div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width:310px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #AB9632;color: #AB9632;margin-bottom: 15px;">Últimas Notícias</div>
 
 <div class="novoticket" style="float: left;  width: 100%;">
-<a class="noticiaslinks" href="">Pesquisa traça perfil de vítimas de violência doméstica (Diário de Pernambuco – 28/08/2015)</a>
-<a class="noticiaslinks" href="">Lei específica não será efetiva sem mudança na mentalidade social (Blasting News – 28/08/2015)</a>
-<a class="noticiaslinks" href="">Juíza defende a criação de banco de dados de homicídios de mulheres (Jornal do Brasil – 28/08/2015)</a>
-<a class="noticiaslinks" href="">Leis Maria da Penha e do Feminicídio em pauta em seminário nesta sexta (Diário de Pernambuco – 28/08/2015)</a>
-<a class="noticiaslinks" href="">Lei do Feminicídio encara a misoginia (Gazeta do Povo – 28/08/2015)</a>
+<a class="noticiaslinks" href="">Pesquisa traça perfil de vítimas de violência doméstica (Diário de Pernambuco – 28/08/2015)</a><br>&nbsp;<br>
+<a class="noticiaslinks" href="">Lei do Feminicídio encara a misoginia (Gazeta do Povo – 28/08/2015)</a><br>&nbsp;<br>
 </div>
 </div>
 </div>
@@ -368,11 +361,10 @@ A Rota Construtora tem como meta a conquista de novos espaços no mercado de con
 <div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width:310px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #AB9632;color: #AB9632;margin-bottom: 15px;">Últimas Notícias</div>
 
 <div class="novoticket" style="float: left;  width: 100%;">
-<a class="noticiaslinks" href="">Pesquisa traça perfil de vítimas de violência doméstica (Diário de Pernambuco – 28/08/2015)</a>
-<a class="noticiaslinks" href="">Lei específica não será efetiva sem mudança na mentalidade social (Blasting News – 28/08/2015)</a>
-<a class="noticiaslinks" href="">Juíza defende a criação de banco de dados de homicídios de mulheres (Jornal do Brasil – 28/08/2015)</a>
-<a class="noticiaslinks" href="">Leis Maria da Penha e do Feminicídio em pauta em seminário nesta sexta (Diário de Pernambuco – 28/08/2015)</a>
-<a class="noticiaslinks" href="">Lei do Feminicídio encara a misoginia (Gazeta do Povo – 28/08/2015)</a>
+<a class="noticiaslinks" href="">Pesquisa traça perfil de vítimas de violência doméstica (Diário de Pernambuco – 28/08/2015)</a><br>&nbsp;<br>
+<a class="noticiaslinks" href="">Lei específica não será efetiva sem mudança na mentalidade social (Blasting News – 28/08/2015)</a><br>&nbsp;<br>
+<a class="noticiaslinks" href="">Juíza defende a criação de banco de dados de homicídios de mulheres (Jornal do Brasil – 28/08/2015)</a><br>&nbsp;<br>
+<a class="noticiaslinks" href="">Leis Maria da Penha e do Feminicídio em pauta em seminário nesta sexta (Diário de Pernambuco – 28/08/2015)</a><br>&nbsp;<br>
 </div>
 </div>
 </div>
@@ -411,11 +403,11 @@ A Rota Construtora tem como meta a conquista de novos espaços no mercado de con
 <div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width:310px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #AB9632;color: #AB9632;margin-bottom: 15px;">Últimas Notícias</div>
 
 <div class="novoticket" style="float: left;  width: 100%;">
-<a class="noticiaslinks" href="">Pesquisa traça perfil de vítimas de violência doméstica (Diário de Pernambuco – 28/08/2015)</a>
-<a class="noticiaslinks" href="">Lei específica não será efetiva sem mudança na mentalidade social (Blasting News – 28/08/2015)</a>
-<a class="noticiaslinks" href="">Juíza defende a criação de banco de dados de homicídios de mulheres (Jornal do Brasil – 28/08/2015)</a>
-<a class="noticiaslinks" href="">Leis Maria da Penha e do Feminicídio em pauta em seminário nesta sexta (Diário de Pernambuco – 28/08/2015)</a>
-<a class="noticiaslinks" href="">Lei do Feminicídio encara a misoginia (Gazeta do Povo – 28/08/2015)</a>
+<a class="noticiaslinks" href="">Pesquisa traça perfil de vítimas de violência doméstica (Diário de Pernambuco – 28/08/2015)</a><br>&nbsp;<br>
+<a class="noticiaslinks" href="">Lei específica não será efetiva sem mudança na mentalidade social (Blasting News – 28/08/2015)</a><br>&nbsp;<br>
+<a class="noticiaslinks" href="">Juíza defende a criação de banco de dados de homicídios de mulheres (Jornal do Brasil – 28/08/2015)</a><br>&nbsp;<br>
+<a class="noticiaslinks" href="">Leis Maria da Penha e do Feminicídio em pauta em seminário nesta sexta (Diário de Pernambuco – 28/08/2015)</a><br>&nbsp;<br>
+<a class="noticiaslinks" href="">Lei do Feminicídio encara a misoginia (Gazeta do Povo – 28/08/2015)</a><br>&nbsp;<br>
 </div>
 </div>
 </div>
@@ -455,11 +447,10 @@ A Rota Construtora tem como meta a conquista de novos espaços no mercado de con
 <div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width:310px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #AB9632;color: #AB9632;margin-bottom: 15px;">Últimas Notícias</div>
 
 <div class="novoticket" style="float: left;  width: 100%;">
-<a class="noticiaslinks" href="">Pesquisa traça perfil de vítimas de violência doméstica (Diário de Pernambuco – 28/08/2015)</a>
-<a class="noticiaslinks" href="">Lei específica não será efetiva sem mudança na mentalidade social (Blasting News – 28/08/2015)</a>
-<a class="noticiaslinks" href="">Juíza defende a criação de banco de dados de homicídios de mulheres (Jornal do Brasil – 28/08/2015)</a>
-<a class="noticiaslinks" href="">Leis Maria da Penha e do Feminicídio em pauta em seminário nesta sexta (Diário de Pernambuco – 28/08/2015)</a>
-<a class="noticiaslinks" href="">Lei do Feminicídio encara a misoginia (Gazeta do Povo – 28/08/2015)</a>
+<a class="noticiaslinks" href="">Lei do Feminicídio encara a misoginia (Gazeta do Povo – 28/08/2015)</a><br>&nbsp;<br>
+<a class="noticiaslinks" href="">Lei específica não será efetiva sem mudança na mentalidade social (Blasting News – 28/08/2015)</a><br>&nbsp;<br>
+<a class="noticiaslinks" href="">Juíza defende a criação de banco de dados de homicídios de mulheres (Jornal do Brasil – 28/08/2015)</a><br>&nbsp;<br>
+<a class="noticiaslinks" href="">Leis Maria da Penha e do Feminicídio em pauta em seminário nesta sexta (Diário de Pernambuco – 28/08/2015)</a><br>&nbsp;<br>
 </div>
 </div>
 </div>
