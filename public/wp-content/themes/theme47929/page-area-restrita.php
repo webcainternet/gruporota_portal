@@ -5,6 +5,29 @@
 
 get_header(); ?>
 
+<script type="text/javascript">
+	function LimpaLable() {
+		$('#lbcliente').hide();
+		$('#lbconselho').hide();
+		$('#lbwebmail').hide();
+	}
+
+	function btCliente() {
+		LimpaLable();
+	    $('#lbcliente').show();
+	}
+
+	function btConselho() {
+		LimpaLable();
+	    $('#lbconselho').show();
+	}
+
+	function btWebmail() {
+		LimpaLable();
+	    $('#lbwebmail').show();
+	}
+</script>
+
 <style type="text/css">
 .header {
   height: 370px;
@@ -120,7 +143,7 @@ get_header(); ?>
 								</div>
 							</div>
 							
-							<div class="BoxFaleConosco">
+							<div class="BoxFaleConosco" onclick="javascript: btCliente();">
 								<div class="hi-icon-wrap hi-icon-effect-5 hi-icon-effect-5a" style="padding: 0em 0 3em;">
 									<a href="#set-5" class="hi-icon hi-icon-user" style="color: #333333; box-shadow: 0 0 0 4px #333333;">Portal</a>
 									<div>Acesso Cliente</div>
@@ -135,8 +158,8 @@ get_header(); ?>
 							</div>
 
 							<div style="float: left; width: 285px; margin-left: 15px;">
-								<h2 style="font-size: 16px; margin-bottom: 0px;">Login <span id="lbconselho" style="padding: 0px 5px; color: #FFFFFF; background-color: #2c3e50; display: none;">Conselho de Administração</span><span id="lbwebmail" style="padding: 0px 5px; color: #FFFFFF; background-color: #eea303;">Webmail</span></h2>
-								<div><input type="text" style="width: 315px; height: 50px;"></div>
+								<h2 style="font-size: 16px; margin-bottom: 0px;">Login <span id="lbcliente" style="padding: 0px 5px; color: #FFFFFF; background-color: #333;">Cliente</span><span id="lbconselho" style="padding: 0px 5px; color: #FFFFFF; background-color: #2c3e50; display: none;">Conselho de Administração</span><span id="lbwebmail" style="padding: 0px 5px; color: #FFFFFF; background-color: #eea303; display: none;">Webmail</span></h2>
+								<div><input type="text" style="width: 315px; height: 50px;" placeholder="Digite seu login"></div>
 								<div style="text-align: right; width: 315px;"><input type="button" value="Entrar" style="height: 50px; width: 80px; color: #FFFFFF; background-color: #333333; border: 0px;"></div>
 							</div>
 							
@@ -145,7 +168,7 @@ get_header(); ?>
 						<div style="float: left; width: 50%; padding-left: 15px;">
 							<h2>&nbsp;</h2>
 							
-							<div class="BoxConselho">
+							<div class="BoxConselho" onclick="javascript: btConselho();">
 								<div class="hi-icon-wrap hi-icon-effect-5 hi-icon-effect-5a">
 									<a href="#set-5" class="hi-icon hi-icon-locked">Portal</a>
 									<div>Conselho de Administração</div>
@@ -159,7 +182,7 @@ get_header(); ?>
 								</div>
 							</div>
 
-							<div class="BoxEmail">
+							<div class="BoxEmail" onclick="javascript: btWebmail();">
 								<div class="hi-icon-wrap hi-icon-effect-5 hi-icon-effect-5a">
 									<a href="#set-5" class="hi-icon hi-icon-mail">Portal</a>
 									<div>Webmail</div>
