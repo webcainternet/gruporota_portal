@@ -12,6 +12,9 @@ get_header(); ?>
 .title-header {
 	display: none;
 }
+.novoticket {
+	height: 390px;
+}
 </style>
 
 <div class="motopress-wrapper content-holder clearfix">
