@@ -27,6 +27,7 @@ get_header(); ?>
 					<div class="<?php echo cherry_get_layout_class( 'full_width_content' ); ?>" data-motopress-type="loop" data-motopress-loop-file="loop/loop-page.php">
 						<script type="text/javascript">
 	function FechaNoticias() {
+		$('#destAN').hide();
 		$('#destAC').hide();
 		$('#destAS').hide();
 		$('#destEU').hide();
@@ -133,10 +134,14 @@ A Rota Construtora tem como meta a conquista de novos espaços no mercado de con
 <style type="text/css">
 	.abacontinente {
 		float: left; margin-left: 5px; margin-right: 5px; color: #AB9632; padding: 1px 10px; font-size: 16px;
+		cursor: pointer;
 	}
 	.abacontinente:hover {
 		color: #FFFFFF;
 		background-color: #AB9632;
+	}
+	.abacontinente:hover a {
+		color: #FFFFFF;
 	}
 .abacontinentesel {
 	float: left; background-color: #AB9632; color: #FFFFFF; padding: 1px 10px; font-size: 16px;
@@ -145,14 +150,21 @@ A Rota Construtora tem como meta a conquista de novos espaços no mercado de con
 .abalinksel {
 	color: #FFFFFF;
 }
+.abalinksel:hover {
+	color: #FFFFFF;
+}
 .abalink {
 	color: #333;
 }
 </style>
+
+<!-- América do Norte -->
+<div id="destAN" style="display: block;">
+
 <div style="float: left; font: normal 22px Open Sans; margin-top: 0px; width: 100%; padding: 10px 10px 0px;border-bottom: solid 2px #AB9632;color: #AB9632; max-width: 1150px; margin-bottom: 15px; margin-top: 30px;">
 
 
-<div class="abacontinentesel"><a class="abalinksel" onclick="javascript: FechaNoticias(); $('#destAC').show();">América do Norte</a></div>
+<div class="abacontinentesel"><a class="abalinksel" onclick="javascript: FechaNoticias(); $('#destAN').show();">América do Norte</a></div>
 <div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAC').show();">América Central</a></div>
 <div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAS').show();">América do Sul</a></div>
 <div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destEU').show();">Europa</a></div>
@@ -162,12 +174,56 @@ A Rota Construtora tem como meta a conquista de novos espaços no mercado de con
 
 </div> 
 
-
-<!-- América Central -->
-<div id="destAC" style="display: none;">
 <div style="float: left; width: 800px;margin-top: -25px;">
 
-<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width:770px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #AB9632;color: #AB9632;margin-bottom: 15px;">Destaques: América Central</div>
+<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width:770px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #AB9632;color: #AB9632;margin-bottom: 15px;">
+	Destaques: América do Norte
+</div>
+
+<div class="novoticket" style="float: left;  width: 100%;">
+<?php 
+    echo do_shortcode("[metaslider id=2601]"); 
+?>
+</div>
+</div>
+
+<div style="float: left; width: 340px; margin-left: 30px;margin-top: -25px;">
+<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width:310px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #AB9632;color: #AB9632;margin-bottom: 15px;">Últimas Notícias</div>
+
+<div class="novoticket" style="float: left;  width: 100%;">
+<a class="noticiaslinks" href="">Pesquisa traça perfil de vítimas de violência doméstica (Diário de Pernambuco – 28/08/2015)</a>
+<a class="noticiaslinks" href="">Lei específica não será efetiva sem mudança na mentalidade social (Blasting News – 28/08/2015)</a>
+<a class="noticiaslinks" href="">Juíza defende a criação de banco de dados de homicídios de mulheres (Jornal do Brasil – 28/08/2015)</a>
+<a class="noticiaslinks" href="">Leis Maria da Penha e do Feminicídio em pauta em seminário nesta sexta (Diário de Pernambuco – 28/08/2015)</a>
+<a class="noticiaslinks" href="">Lei do Feminicídio encara a misoginia (Gazeta do Povo – 28/08/2015)</a>
+</div>
+</div>
+</div>
+<!-- FIM - América do Norte -->
+
+
+
+<!-- América Central -->
+<div id="destAC" style="display: block;">
+
+<div style="float: left; font: normal 22px Open Sans; margin-top: 0px; width: 100%; padding: 10px 10px 0px;border-bottom: solid 2px #AB9632;color: #AB9632; max-width: 1150px; margin-bottom: 15px; margin-top: 30px;">
+
+
+<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAN').show();">América do Norte</a></div>
+<div class="abacontinentesel"><a class="abalinksel" onclick="javascript: FechaNoticias(); $('#destAC').show();">América Central</a></div>
+<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAS').show();">América do Sul</a></div>
+<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destEU').show();">Europa</a></div>
+<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAI').show();">Asia</a></div>
+<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAF').show();">Africa</a></div>
+<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destOC').show();">Oceania</a></div>
+
+</div> 
+
+<div style="float: left; width: 800px;margin-top: -25px;">
+
+<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width:770px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #AB9632;color: #AB9632;margin-bottom: 15px;">
+	Destaques: América Central
+</div>
 
 <div class="novoticket" style="float: left;  width: 100%;">
 <?php 
@@ -190,32 +246,6 @@ A Rota Construtora tem como meta a conquista de novos espaços no mercado de con
 </div>
 <!-- FIM - América Central -->
 
-
-
-<!-- América do Sul -->
-<div id="destAS" style="display: none;">
-<div style="float: left; width: 800px;margin-top: -25px;">
-
-<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width:770px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #AB9632;color: #AB9632;margin-bottom: 15px;">Destaques: América Central</div>
-
-<div class="novoticket" style="float: left;  width: 100%;">
-[metaslider id=2601]
-</div>
-</div>
-
-<div style="float: left; width: 340px; margin-left: 30px;margin-top: -25px;">
-<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width:310px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #AB9632;color: #AB9632;margin-bottom: 15px;">Últimas Notícias</div>
-
-<div class="novoticket" style="float: left;  width: 100%;">
-<a class="noticiaslinks" href="">Pesquisa traça perfil de vítimas de violência doméstica (Diário de Pernambuco – 28/08/2015)</a>
-<a class="noticiaslinks" href="">Lei específica não será efetiva sem mudança na mentalidade social (Blasting News – 28/08/2015)</a>
-<a class="noticiaslinks" href="">Juíza defende a criação de banco de dados de homicídios de mulheres (Jornal do Brasil – 28/08/2015)</a>
-<a class="noticiaslinks" href="">Leis Maria da Penha e do Feminicídio em pauta em seminário nesta sexta (Diário de Pernambuco – 28/08/2015)</a>
-<a class="noticiaslinks" href="">Lei do Feminicídio encara a misoginia (Gazeta do Povo – 28/08/2015)</a>
-</div>
-</div>
-</div>
-<!-- FIM - América do Sul -->
 
 
 
