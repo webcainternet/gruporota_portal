@@ -12,6 +12,19 @@ get_header(); ?>
 .title-header {
 	display: none;
 }
+.tituloicon {
+    color: #14a750;
+    position: relative;
+    font: normal 15px/20px Open Sans !important;
+    z-index: 10;
+    padding: 8px 30px 8px 0px;
+    text-transform: uppercase;
+    width: 195px;
+    text-align: left;
+}
+.subtituloicon {
+
+}
 </style>
 
 <script src="/wp-content/plugins/IconHoverEffects/js/modernizr.custom.js"></script>
@@ -375,15 +388,15 @@ display: inline;
 <div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width:310px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #14a750;color: #14a750;margin-bottom: 15px;">Últimas Notícias</div>
 
 <div class="novoticket" style="float: left;  width: 100%;">
-<a class="noticiaslinks" href="">Pesquisa traça perfil de vítimas de violência doméstica (Diário de Pernambuco – 28/08/2015)</a>
+<a class="noticiaslinks" href="">Pesquisa traça perfil de vítimas de violência doméstica (Diário de Pernambuco – 28/08/2015)</a><br>&nbsp;<br>
 
-<a class="noticiaslinks" href="">Lei específica não será efetiva sem mudança na mentalidade social (Blasting News – 28/08/2015)</a>
+<a class="noticiaslinks" href="">Lei específica não será efetiva sem mudança na mentalidade social (Blasting News – 28/08/2015)</a><br>&nbsp;<br>
 
-<a class="noticiaslinks" href="">Juíza defende a criação de banco de dados de homicídios de mulheres (Jornal do Brasil – 28/08/2015)</a>
+<a class="noticiaslinks" href="">Juíza defende a criação de banco de dados de homicídios de mulheres (Jornal do Brasil – 28/08/2015)</a><br>&nbsp;<br>
 
-<a class="noticiaslinks" href="">Leis Maria da Penha e do Feminicídio em pauta em seminário nesta sexta (Diário de Pernambuco – 28/08/2015)</a>
+<a class="noticiaslinks" href="">Leis Maria da Penha e do Feminicídio em pauta em seminário nesta sexta (Diário de Pernambuco – 28/08/2015)</a><br>&nbsp;<br>
 
-<a class="noticiaslinks" href="">Lei do Feminicídio encara a misoginia (Gazeta do Povo – 28/08/2015)</a>
+<a class="noticiaslinks" href="">Lei do Feminicídio encara a misoginia (Gazeta do Povo – 28/08/2015)</a><br>&nbsp;<br>
 </div>
 </div>
 
@@ -457,23 +470,31 @@ Linha digitável:<br>
 
 <table>
 	<tr>
-		<td>[imagem]</td>
-		<td>Jurisprudência<br>Consulte</td>
+		<td style="text-align: center; padding: 15px;"><a href="#"><img width="55" src="/wp-content/themes/theme47929/servicos-empresariais/ic5.png" border="0"></a></td>
+		<td><div class="tituloicon">Jurisprudência</div>
+			<div class="subtituloicon">Consulte</div>
+		</td>
 	</tr>
 
 	<tr>
-		<td>[imagem]</td>
-		<td>Tabelas Práticas<br>Pesquise com mais facilidade</td>
+		<td style="text-align: center; padding: 15px;"><a href="#"><img width="55" src="/wp-content/themes/theme47929/servicos-empresariais/ic2.png" border="0"></a></td>
+		<td><div class="tituloicon">Tabelas Práticas</div>
+			<div class="subtituloicon">Pesquise com mais facilidade</div>
+		</td>
 	</tr>
 
 	<tr>
-		<td>[imagem]</td>
-		<td>Índices Econômicos<br>Veja os índices econômicos</td>
+		<td style="text-align: center; padding: 15px;"><a href="#"><img width="55" src="/wp-content/themes/theme47929/servicos-empresariais/ic3.png" border="0"></a></td>
+		<td><div class="tituloicon">Índices Econômicos</div>
+			<div class="subtituloicon">Veja os índices econômicos</div>
+		</td>
 	</tr>
 
 	<tr>
-		<td>[imagem]</td>
-		<td>Certidões Negativas<br>Retire aqui suas certidões</td>
+		<td style="text-align: center; padding: 15px;"><a href="#"><img width="55" style="margin-right: 10px;" src="/wp-content/themes/theme47929/servicos-empresariais/ic4.png" border="0"></a></td>
+		<td><div class="tituloicon">Certidões Negativas</div>
+			<div class="subtituloicon">Retire aqui suas certidões</div>
+		</td>
 	</tr>
 </table>
 
