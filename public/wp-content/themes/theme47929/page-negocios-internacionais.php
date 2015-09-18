@@ -170,7 +170,9 @@ A Rota Construtora tem como meta a conquista de novos espaços no mercado de con
 <div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width:770px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #AB9632;color: #AB9632;margin-bottom: 15px;">Destaques: América Central</div>
 
 <div class="novoticket" style="float: left;  width: 100%;">
-[metaslider id=2601]
+<?php 
+    echo do_shortcode("[metaslider id=2601]"); 
+?>
 </div>
 </div>
 
@@ -341,7 +343,9 @@ Ainda não temos o conteúdo desta área. É um fato conhecido de todos que um l
 </h2>
 </div>
 <div style="padding-top: 50px;">
-[contact-form-7 id="2664" title="Contato Internacional"]
+<?php 
+    echo do_shortcode("[contact-form-7 id=\"2664\" title=\"Contato Internacional\"]"); 
+?>
 </div>
 </div>
 </td>
