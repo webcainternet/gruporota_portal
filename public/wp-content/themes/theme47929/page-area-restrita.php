@@ -15,16 +15,19 @@ get_header(); ?>
 	function btCliente() {
 		LimpaLable();
 	    $('#lbcliente').show();
+	    btVoltar()
 	}
 
 	function btConselho() {
 		LimpaLable();
 	    $('#lbconselho').show();
+	    btVoltar()
 	}
 
 	function btWebmail() {
 		LimpaLable();
 	    $('#lbwebmail').show();
+	    btVoltar()
 	}
 
 	function btLogin() {
@@ -118,6 +121,12 @@ get_header(); ?>
 	display: none;
 }
 
+.cor2c3e50:hover {
+	color: #2c3e50 !important;
+}
+.coreea303:hover {
+	color: #eea303 !important;
+}
 </style>
 
 <link rel="stylesheet" type="text/css" href="/wp-content/plugins/IconHoverEffects/css/default.css" />
@@ -185,7 +194,7 @@ get_header(); ?>
 							
 							<div class="BoxConselho" onclick="javascript: btConselho();">
 								<div class="hi-icon-wrap hi-icon-effect-5 hi-icon-effect-5a">
-									<a href="#set-5" class="hi-icon hi-icon-locked">Portal</a>
+									<a href="#set-5" class="hi-icon hi-icon-locked cor2c3e50">Portal</a>
 									<div>Conselho de Administração</div>
 								</div>
 							</div>
@@ -199,7 +208,7 @@ get_header(); ?>
 
 							<div class="BoxEmail" onclick="javascript: btWebmail();">
 								<div class="hi-icon-wrap hi-icon-effect-5 hi-icon-effect-5a">
-									<a href="#set-5" class="hi-icon hi-icon-mail">Portal</a>
+									<a href="#set-5" class="hi-icon hi-icon-mail coreea303">Portal</a>
 									<div>Webmail</div>
 								</div>
 							</div>
