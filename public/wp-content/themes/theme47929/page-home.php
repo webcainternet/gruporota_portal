@@ -491,13 +491,6 @@ get_header(); ?>
 										<div class="areatextocontenttitle linkarea">Rota Contabil agiliza a abertura de sua empresa</div>
 									</div>
 								</div></a>
-
-								<a class="linkarea" href="/news/rota-construction-usa-lancara-empreendimento-de-townhouses-em-orlando-na-florida/"><div class="areaitemnoticia">
-									<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/home-noticia2.jpg'); background-size: cover;">&nbsp;</div>
-									<div class="areatexto">
-										<div class="areatextocontenttitle linkarea">Noticia Exemplo 4</div>
-									</div>
-								</div></a>
 							</div>
 
 						</div>
