@@ -326,6 +326,9 @@ display: inline;
 .footer2li {
 display: inline;
 }
+select, textarea, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], .uneditable-input {
+    width: 554px !important;
+}
 </style>
 
 <div style="float: left; width: 830px;margin-top: -20px;">
@@ -604,7 +607,7 @@ Ainda não temos o conteúdo desta área. É um fato conhecido de todos que um l
 
 
 
-
+	
 
 
 
