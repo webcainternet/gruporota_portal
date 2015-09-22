@@ -332,6 +332,9 @@ select, input[type="text"], input[type="password"], input[type="datetime"], inpu
 textarea {
     width: 568px !important;
 }
+.wpcf7-captchar {
+	width: 80px !important;	
+}
 </style>
 
 <div style="float: left; width: 830px;margin-top: -20px;">
