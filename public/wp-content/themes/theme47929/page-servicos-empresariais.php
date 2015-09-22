@@ -569,6 +569,37 @@ Linha digitável:<br>
 </tr>
 </table>
 
+<table style="width: 100%">
+<tr>
+<td style="width: 50%; vertical-align: top;">
+
+<div style="float: left; font: normal 22px Open Sans; width: 100%; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #14a750;color: #14a750; max-width: 553px; margin-bottom: 5px; margin-top: 22px;">Titulo desta area</div>
+
+
+<div style="float: left; width: 100%; margin: 0px; padding: 0px; margin-top: 10px; text-align: justify; margin-bottom: 5px;">
+Ainda não temos o conteúdo desta área. É um fato conhecido de todos que um leitor se distrairá com o conteúdo de texto legível de uma página quando estiver examinando sua diagramação. A vantagem de usar Lorem Ipsum é que ele tem uma distribuição normal de letras, ao contrário de "Conteúdo aqui, conteúdo aqui", fazendo com que ele tenha uma aparência similar a de um texto legível. Muitos softwares de publicação e editores de páginas na internet agora usam Lorem Ipsum como texto-modelo padrão, e uma rápida busca por 'lorem ipsum' mostra vários websites ainda em sua fase de construção. Várias versões novas surgiram ao longo dos anos, eventualmente por acidente, e às vezes de propósito (injetando humor, e coisas do gênero).
+</div>
+
+</td>
+
+<td style="width: 50%; vertical-align: top;">
+<div style="padding-left: 15px;">
+<div>
+<h2 style="color: #14a750;">
+<div style="background-color: #14a750;position: absolute; font: normal 15px/20px Open Sans !important; z-index: 10; padding: 8px 15px 8px 15px; text-transform: uppercase; color: #FFFFFF;">Seja nosso cliente</div>
+</h2>
+</div>
+<div style="padding-top: 50px;">
+<?php 
+    echo do_shortcode("[contact-form-7 id=\"2921\" title=\"Contato Contábil\"]"); 
+?>
+</div>
+</div>
+</td>
+
+</tr>
+</table>
+
 </div>
 
 
