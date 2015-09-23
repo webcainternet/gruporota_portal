@@ -329,11 +329,8 @@ display: inline;
 select, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], .uneditable-input {
     width: 554px !important;
 }
-textarea {
+textarea, select {
     width: 568px !important;
-}
-.wpcf7-captchar {
-	width: 80px !important;	
 }
 </style>
 

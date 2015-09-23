@@ -40,9 +40,6 @@ get_header(); ?>
 	}
 </script>
 <style type="text/css">
-.wpcf7-form select, textarea, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], .uneditable-input {
-width: 97%;
-}
 .title-header {
 display: none;
 }
@@ -109,6 +106,12 @@ display: inline;
 }
 .footer2li {
 display: inline;
+}
+select, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], .uneditable-input {
+    width: 554px !important;
+}
+textarea, select {
+    width: 568px !important;
 }
 </style>
 
