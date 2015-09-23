@@ -335,34 +335,28 @@ textarea, select {
 </style>
 
 <div style="float: left; width: 830px;margin-top: -20px;">
-
-<div><h2 style="color: #14a750;">Serviços Empresariais</h2></div>
-
-<div style="text-align: justify; margin-right: 30px; color: #333;">A Rota Construtora está focada em segmentos mistos voltado a obras civis, eletromecânica industriais, adequação ambiental e modernização fabril assim com obras comerciais. Trabalhamos com processos dinâmicos de modo a possibilitar trabalhos sem interrupção das atividades diárias de nossos clientes. Com experiência profissional em suas respectivas áreas de atuação, tendo como meta a satisfação dos seus clientes, seja no cumprimento dos prazos e especial observância dos padrões de qualidade, seja na observancia das normas técnicas dos serviços a que se propõem executar, assim foi constituída a Rota Construtora e posteriormente a Rota Engenharia, empresas que integram o Grupo Rota do Brasil desde 2004.</div>
-
+	<div><h2 style="color: #14a750;">Serviços Empresariais</h2></div>
+	<div style="text-align: justify; margin-right: 30px; color: #333;">A Rota Construtora está focada em segmentos mistos voltado a obras civis, eletromecânica industriais, adequação ambiental e modernização fabril assim com obras comerciais. Trabalhamos com processos dinâmicos de modo a possibilitar trabalhos sem interrupção das atividades diárias de nossos clientes. Com experiência profissional em suas respectivas áreas de atuação, tendo como meta a satisfação dos seus clientes, seja no cumprimento dos prazos e especial observância dos padrões de qualidade, seja na observancia das normas técnicas dos serviços a que se propõem executar, assim foi constituída a Rota Construtora e posteriormente a Rota Engenharia, empresas que integram o Grupo Rota do Brasil desde 2004.</div>
 </div>
 
 <div style="float: left; width: 25%;">
+	<div style="margin-top: -50px;">
+	<h2 style="color: #2c3e50;">
+	<div style="background-color: #14a750;position: absolute; font: normal 15px/20px Open Sans !important; z-index: 10; padding: 8px 15px 8px 15px; text-transform: uppercase; color: #FFFFFF;">Já sou cliente</div>
+	</h2>
+	</div>
 
-<div style="margin-top: -50px;">
-<h2 style="color: #2c3e50;">
-<div style="background-color: #14a750;position: absolute; font: normal 15px/20px Open Sans !important; z-index: 10; padding: 8px 15px 8px 15px; text-transform: uppercase; color: #FFFFFF;">Já sou cliente</div>
-</h2>
-</div>
-
-<div style="margin-top: 80px;">
-<table style="width: 100%;">
-<tr>
-<td style="text-align: right;">
-	<a href="/area-restrita"><img border="0" src="/wp-content/themes/theme47929/images/icon-seguranca.png" style="width: 48px;" width="48"></a>
-</td>
-<td style="font-size: 16px;
-    padding-left: 10px;"><a href="/area-restrita" style="color: #222;">Ir para acesso restrito</a></td>
-</tr>
-</table>
-</div>
-
-
+	<div style="margin-top: 80px;">
+	<table style="width: 100%;">
+	<tr>
+	<td style="text-align: right;">
+		<a href="/area-restrita"><img border="0" src="/wp-content/themes/theme47929/images/icon-seguranca.png" style="width: 48px;" width="48"></a>
+	</td>
+	<td style="font-size: 16px;
+	    padding-left: 10px;"><a href="/area-restrita" style="color: #222;">Ir para acesso restrito</a></td>
+	</tr>
+	</table>
+	</div>
 </div>
 
 

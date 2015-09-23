@@ -118,23 +118,39 @@ textarea, select {
 
 
 
+<div style="height: 20px;"> </div>
 
 
-<div style="float: left; width: 395px; text-align: right;">
-<img src="/wp-content/uploads/logo-png/logo-grb-g.png" style="margin-right: 70px; width: 250px; margin-top: 10px;
-">
+
+<div style="float: left; width: 830px;margin-top: -20px;">
+	<div><h2 style="color: #AB9632;">Negócios Internacionais</h2></div>
+	<div style="text-align: justify; margin-right: 30px; color: #333;">
+		<div style="float: left; width: 195px; text-align: left;">
+			<img src="/wp-content/uploads/logo-png/logo-grb-g.png" style="margin-left: 10px; width: 150px; margin-top: 10px;">
+		</div>
+	Local onde fala dos 4 continentes de atuação de preve desceitivo. Segmentos mistos voltado a obras civis, eletromecânica industriais, adequação ambiental e modernização fabril assim com obras comerciais. A Rota Construtora tem como meta a conquista de novos espaços no mercado de construção nacional e internacional em suas áreas de atuação, visando assegurar através de suas competências, a confiança de seus clientes, o que é por nós considerado característica primordial para transformar um projeto em realidade sendo creditado aos nossos clientes internos e externos o sucesso por nós alcançados.</div>
 </div>
 
-<div style="float: left; width: 765px;">
+<div style="float: left; width: 25%;">
+	<div style="margin-top: -40px;">
+	<h2 style="color: #2c3e50;">
+	<div style="background-color: #AB9632;position: absolute; font: normal 15px/20px Open Sans !important; z-index: 10; padding: 8px 15px 8px 15px; text-transform: uppercase; color: #FFFFFF;">Já sou cliente</div>
+	</h2>
+	</div>
 
-<div><h2 style="color: #AB9632;">Negócios Internacionais</h2></div>
-
-<div style="text-align: justify;">Local onde fala dos 4 continentes de atuação de preve desceitivo. Segmentos mistos voltado a obras civis, eletromecânica industriais, adequação ambiental e modernização fabril assim com obras comerciais.
-
-A Rota Construtora tem como meta a conquista de novos espaços no mercado de construção nacional e internacional em suas áreas de atuação, visando assegurar através de suas competências, a confiança de seus clientes, o que é por nós considerado característica primordial para transformar um projeto em realidade sendo creditado aos nossos clientes internos e externos o sucesso por nós alcançados.</div>
-
-
+	<div style="margin-top: 80px;">
+	<table style="width: 100%;">
+	<tr>
+	<td style="text-align: right;">
+		<a href="/area-restrita"><img border="0" src="/wp-content/themes/theme47929/images/icon-seguranca.png" style="width: 48px;" width="48"></a>
+	</td>
+	<td style="font-size: 16px;
+	    padding-left: 10px;"><a href="/area-restrita" style="color: #222;">Ir para acesso restrito</a></td>
+	</tr>
+	</table>
+	</div>
 </div>
+
 
 
 <style type="text/css">
