@@ -164,17 +164,17 @@ get_header(); ?>
 								</div>
 							</div>
 
-							<div class="BoxTodos BoxInvestidor" onclick="javascript: MostraInvestidor();">
-								<div class="hi-icon-wrap hi-icon-effect-5 hi-icon-effect-5a">
-									<a href="#set-5" class="hi-icon hi-icon-archive cor2c3e50">Portal</a>
-									<div>Acesso Investidor</div>
-								</div>
-							</div>
-
 							<div class="BoxTodos BoxEmail" onclick="javascript: MostraWebmail();">
 								<div class="hi-icon-wrap hi-icon-effect-5 hi-icon-effect-5a">
 									<a href="#set-5" class="hi-icon hi-icon-mail coreea303">Portal</a>
 									<div>Webmail</div>
+								</div>
+							</div>
+
+							<div class="BoxTodos BoxInvestidor" onclick="javascript: MostraInvestidor();">
+								<div class="hi-icon-wrap hi-icon-effect-5 hi-icon-effect-5a">
+									<a href="#set-5" class="hi-icon hi-icon-archive cor2c3e50">Portal</a>
+									<div>Acesso Investidor</div>
 								</div>
 							</div>
 							
