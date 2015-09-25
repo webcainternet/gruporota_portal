@@ -660,14 +660,14 @@ Ainda não temos o conteúdo desta área. É um fato conhecido de todos que um l
 
 <!-- Rodape interno -->
 <a href="/fale-conosco/">
-<div style="background-image: url('/wp-content/themes/theme47929/images/header_bg_faleconosco_all.jpg');height: 200px;  background-position-y: -175px;float: left; margin-top: 40px;width: 1230px; ">
+<div style="margin-left: -30px; background-image: url('/wp-content/themes/theme47929/images/header_bg_faleconosco_all.jpg');height: 200px;  background-position-y: -175px;float: left; margin-top: 40px;width: 1230px; ">
   <div class="camera_caption fadeIn" style="position: relative; opacity: 0.8;"><div style="padding: 20px;margin: 20px;width: 115px;font-size: 16px;color: #FFFFFF;background-color: #AB9632;text-transform: uppercase;">
                 Fale conosco
     </div></div>
 </div>
 </a>
 
-<div style="background-color: #AB9632; float: left; width: 1170px; padding: 30px; text-align: center;">
+<div style="margin-left: -30px; background-color: #AB9632; float: left; width: 1170px; padding: 30px; text-align: center;">
 <ul class="footer2ul">
 <li class="footer2li"><a href="/engenharia-e-construcao">Engenharia e construção</a> | </li>
 <li class="footer2li"><a href="/servicos-empresariais">Serviços empresariais</a> | </li>
