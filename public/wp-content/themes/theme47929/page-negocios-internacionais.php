@@ -517,52 +517,86 @@ textarea, select {
 
 
 <div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
-<div style="float: left; width: 250px; margin-right: 10px; background-image: url('http://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2014/06/13/andressanchezgetty.jpg'); background-size: cover; height: 180px;"></div>
+<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/internacional-construcao.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
-<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Notícia lorem Ipsum é simplesmente uma simulação</div>
+<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Construção</div>
 <div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
 </div>
 </div>
 
 <div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
-<div style="float: left; width: 250px; margin-right: 10px; background-image: url('http://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2014/06/13/andressanchezgetty.jpg'); background-size: cover; height: 180px;"></div>
+<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/internacional-seguranca.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
-<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Notícia lorem Ipsum é simplesmente uma simulação</div>
+<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Segurança</div>
 <div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
 </div>
 </div>
 
 <div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
-<div style="float: left; width: 250px; margin-right: 10px; background-image: url('http://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2014/06/13/andressanchezgetty.jpg'); background-size: cover; height: 180px;"></div>
+<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/internacional-agronegocio.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
-<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Notícia lorem Ipsum é simplesmente uma simulação</div>
+<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Agronegócio</div>
 <div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
 </div>
 </div>
 
 <div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
-<div style="float: left; width: 250px; margin-right: 10px; background-image: url('http://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2014/06/13/andressanchezgetty.jpg'); background-size: cover; height: 180px;"></div>
+<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/internacional-ambiental.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
-<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Notícia lorem Ipsum é simplesmente uma simulação</div>
+<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Ambiental</div>
 <div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
 </div>
 </div>
 
 <div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
-<div style="float: left; width: 250px; margin-right: 10px; background-image: url('http://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2014/06/13/andressanchezgetty.jpg'); background-size: cover; height: 180px;"></div>
+<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/internacional-saude.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
-<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Notícia lorem Ipsum é simplesmente uma simulação</div>
+<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Saúde</div>
 <div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
 </div>
 </div>
 
 <div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
-<div style="float: left; width: 250px; margin-right: 10px; background-image: url('http://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2014/06/13/andressanchezgetty.jpg'); background-size: cover; height: 180px;"></div>
+<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/internacional-educacao.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
-<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Notícia lorem Ipsum é simplesmente uma simulação</div>
+<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Educação</div>
 <div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
 </div>
 </div>
+
+<div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
+<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/internacional-seguros.jpg'); background-size: cover; height: 180px;"></div>
+<div style="float: left; width: 290px;">
+<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Seguros</div>
+<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+</div>
+</div>
+
+<div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
+<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/internacional-tecnologia.jpg'); background-size: cover; height: 180px;"></div>
+<div style="float: left; width: 290px;">
+<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Tecnologia</div>
+<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+</div>
+</div>
+
+<div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
+<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/internacional-transporte.jpg'); background-size: cover; height: 180px;"></div>
+<div style="float: left; width: 290px;">
+<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Transporte e Logística</div>
+<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+</div>
+</div>
+
+<div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
+<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/internacional-social.jpg'); background-size: cover; height: 180px;"></div>
+<div style="float: left; width: 290px;">
+<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Desenvolvimento Social</div>
+<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+</div>
+</div>
+
+
 
 
 
