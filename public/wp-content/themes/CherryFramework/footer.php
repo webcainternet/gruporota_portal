@@ -89,9 +89,9 @@
 							<ul class="footerul">
 								<li class="footerli"><a href="https://www.facebook.com/pages/GRUPO-ROTA-DO-BRASIL/170855996342121?ref=ts&fref=ts" target="_blank"><img style="width: 25px; margin-top: -2px;" src="/wp-content/themes/theme47929/images/icons/custom/facebook.png">Facebook</a></li>
 								<li class="footerli"><a href="http://instagram.com/gruporotadobrasil" target="_blank"><img style="width: 25px; margin-top: -2px;" src="/wp-content/themes/theme47929/images/icons/custom/instagram.png">Instagram</a></li>
-								<li class="footerli"><a href="#" target="_blank"><img style="width: 25px; margin-top: -2px;" src="/wp-content/themes/theme47929/images/icons/custom/linkedin.png">Linkedin</a></li>
+								<li class="footerli"><a href="https://www.linkedin.com/company/grupo-rota-do-brasil" target="_blank"><img style="width: 25px; margin-top: -2px;" src="/wp-content/themes/theme47929/images/icons/custom/linkedin.png">Linkedin</a></li>
 								<li class="footerli"><a href="https://twitter.com/gruporota" target="_blank"><img style="width: 25px; margin-top: -2px;" src="/wp-content/themes/theme47929/images/icons/custom/twitter.png">Twitter</a></li>
-								<li class="footerli"><a href="#" target="_blank"><img style="width: 25px; margin-top: -2px;" src="/wp-content/themes/theme47929/images/icons/custom/youtube.png">Youtube</a></li>
+								<?php /* <li class="footerli"><a href="#" target="_blank"><img style="width: 25px; margin-top: -2px;" src="/wp-content/themes/theme47929/images/icons/custom/youtube.png">Youtube</a></li> */ ?>
 							</ul>
 						</div>
 
