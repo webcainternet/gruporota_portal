@@ -147,6 +147,8 @@ get_header(); ?>
 						</style>
 
 
+		<div style="height: 320px;">
+
 						<div id="area-home" style="float: left; width: 100%;">
 							<h2 style="margin-bottom: 45px;">Acesso Restrito</h2>
 
@@ -286,7 +288,7 @@ get_header(); ?>
 							</div>
 						</div>
 
-
+				</div>
 
 						<div style="float: left; margin-top: 40px; width: 100%; border-top: dashed 1px #2c3e50; margin-left: 5px; padding-top: 10px;">
 							<h2 style="font-size: 16px; margin-bottom: 0px;">Problemas com o login?</h2>
