@@ -36,9 +36,7 @@
 
 
 <table class="tabela1" width="100%;">
-	<tbody><tr>
-		<td colspan="4" class="titulos">INDICADORES</td>
-	</tr>
+	<tbody>
 	<tr class="titulos">
 		<td></td>
 		<td class="titulos">VALOR</td>
@@ -73,6 +71,36 @@
 		<td>SELIC</td>
 		<td>+14,25%</td>
 		<td>03.set.2015</td>
+	</tr>
+
+	<tr>
+		<td>INPC</td>
+		<td>0.00</td>
+		<td>Não coletado</td>
+	</tr>
+
+	<tr>
+		<td>IGP-M</td>
+		<td>0.00</td>
+		<td>Não coletado</td>
+	</tr>
+
+	<tr>
+		<td>IGP-DI</td>
+		<td>0.00</td>
+		<td>Não coletado</td>
+	</tr>
+
+	<tr>
+		<td>IPC-Br</td>
+		<td>0.00</td>
+		<td>Não coletado</td>
+	</tr>
+
+	<tr>
+		<td>INCC</td>
+		<td>0.00</td>
+		<td>Não coletado</td>
 	</tr>
 
 	<tr>

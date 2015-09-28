@@ -52,7 +52,6 @@ input[type="button"], input[type="reset"], input[type="button"]:focus, input[typ
 }
 #valorCalculado {
     font: normal 22px Open Sans;
-    padding: 10px 10px 3px;
     color: #AB9632;
 }
 	</style>
@@ -85,8 +84,8 @@ input[type="button"], input[type="reset"], input[type="button"]:focus, input[typ
 		var moedade = getSelectedText('convde');
 		var moedapara = getSelectedText('convpara');
 
-		document.getElementById('valorOriginal').innerHTML = valorOriginal+' ('+moedade+')';
-		document.getElementById('valorCalculado').innerHTML = '= '+total2+' ('+moedapara+')';
+		document.getElementById('valorOriginal').innerHTML = '<div style="text-align:center;">Em '+moedade+'<br><div class="textoresult1">'+valorOriginal+'</div></div>';
+		document.getElementById('valorCalculado').innerHTML = '<div style="text-align:center;">Em '+moedapara+'<br><div class="textoresult1">'+total2+'</div></div>';
 		
 	}
 
@@ -137,9 +136,11 @@ list($dolarComercialCompra, $dolarComercialVenda, $dolarComercialVariacao, $dola
 	</tr>
 	<tr>
 		<td class="titulos" colspan="2" style="text-align: left;">
+			<div style="border: dotted 2px #f2f2f2; padding: 15px;height: 172px;">
 			Resultado:<br>
 			<span id="valorOriginal"> </span><br>
 			<span id="valorCalculado"> </span>
+			</div>
 		</td>
 	</tr>
 </table>

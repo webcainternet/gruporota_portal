@@ -491,7 +491,7 @@ textarea, select {
 <td style="width: 33.33%;vertical-align: top; padding-left: 30px;">
 <div style="float: left; font: normal 22px Open Sans; margin-top: 0px; width: 100%; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #AB9632;color: #AB9632; max-width: 350px; margin-bottom: 15px;">Conversores</div>
 <div style="float: left; width: 385px;">
-<iframe src="http://gruporota2.homolog.lojavirtual.digital/wp-content/themes/theme47929/conversor.php" width="385" border="0" scrolling="no" noresize style="height: 310px; border: 0px;"></iframe>
+<iframe src="http://gruporota2.homolog.lojavirtual.digital/wp-content/themes/theme47929/conversor.php" width="385" border="0" scrolling="no" noresize style="height: 440px; border: 0px;"></iframe>
 </div>
 </td>
 
