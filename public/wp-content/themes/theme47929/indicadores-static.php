@@ -109,7 +109,10 @@
 		<td style="padding-bottom: 10px;">ago.15</td>
 	</tr>
 	<tr>
-		<td colspan="4" class="titulos2">Fonte: UOL / Thomson Reuters</td>
+		<td colspan="3" class="titulos2">Fonte: UOL / Thomson Reuters</td>
+	</tr>
+	<tr>
+		<td colspan="3"><img src="/wp-content/themes/theme47929/images/internacional-graficos.jpg" style="height: 215px;" height="215"></td>
 	</tr>
 </tbody></table>		
 
