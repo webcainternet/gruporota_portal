@@ -53,7 +53,6 @@ padding-bottom: 0px !important;
     background-image: url('/wp-content/themes/theme47929/images/header_emp_cemosa2.jpg');
     border-bottom: solid 5px #AB9632;
     background-position-y: -180px !important;
-    height: 300px;
 }
 /* empresas */
 .float-empresas {
