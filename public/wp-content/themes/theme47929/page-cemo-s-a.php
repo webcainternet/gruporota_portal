@@ -53,7 +53,7 @@ padding-bottom: 0px !important;
     background-image: url('/wp-content/themes/theme47929/images/header_emp_cemo1.jpg');
     border-bottom: solid 5px #AB9632;
     height: 375px;
-    background-position-y: 0px !important;
+    background-position-y: -385px !important;
 }
 /* empresas */
 .float-empresas {
