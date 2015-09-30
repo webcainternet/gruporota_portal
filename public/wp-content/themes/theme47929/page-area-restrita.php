@@ -190,7 +190,7 @@ get_header(); ?>
 
 						<div id="area-colaboradores" style="float: left; width: 100%;">
 							<h2 style="margin-bottom: 45px;">Acesso Colaboradores</h2>
-
+							<form action="/logininterno.php" method="post">
 							<div class="BoxTodosMaior BoxPortal" style="margin-left: 285px;">
 								<div class="hi-icon-wrap hi-icon-effect-5 hi-icon-effect-5a">
 									<a href="#set-5" class="hi-icon hi-icon-earth cor304C67">Portal</a>
@@ -200,12 +200,14 @@ get_header(); ?>
 
 							<div id="dvLogin" style="float: left; width: 285px; margin-left: 15px;">
 								<h2 style="font-size: 16px; margin-bottom: 0px;">Login</h2>
-								<div><input type="text" style="width: 315px; height: 50px;" placeholder="Digite seu login"></div>
+								<div><input type="text" name="postlogin" style="width: 315px; height: 50px;" placeholder="Digite seu login"></div>
 								
 								<h2 style="font-size: 16px; margin-bottom: 0px;">Senha</h2>
-								<div><input type="password" style="width: 315px; height: 50px;" placeholder="Digite sua senha"></div>
-								<div style="text-align: right; width: 315px;"><input onclick="javascript: btVoltar();" type="button" value="Voltar" style="height: 50px; width: 80px; color: #FFFFFF; background-color: #333333; border: 0px; margin-right: 5px;"><input type="button" value="Entrar" style="height: 50px; width: 80px; color: #FFFFFF; background-color: #333333; border: 0px;"></div>
+								<div><input type="password" name="postpassword" style="width: 315px; height: 50px;" placeholder="Digite sua senha"></div>
+								<div style="text-align: right; width: 315px;"><input onclick="javascript: btVoltar();" type="button" value="Voltar" style="height: 50px; width: 80px; color: #FFFFFF; background-color: #333333; border: 0px; margin-right: 5px;">
+								<input type="submit" value="Entrar" style="height: 50px !important; padding: 10px; width: 80px; color: #FFFFFF; background-color: #333333; border: 0px;"></div>
 							</div>
+							</form>
 						</div>
 
 						<div id="area-cliente" style="float: left; width: 100%;">
@@ -247,6 +249,7 @@ get_header(); ?>
 								<div style="text-align: right; width: 315px;"><input onclick="javascript: btVoltar();" type="button" value="Voltar" style="height: 50px; width: 80px; color: #FFFFFF; background-color: #333333; border: 0px; margin-right: 5px;">
 								<input type="submit" value="Entrar" style="height: 50px !important; padding: 10px; width: 80px; color: #FFFFFF; background-color: #333333; border: 0px;"></div>
 							</div>
+							</form>
 						</div>
 
 						<div id="area-conselho" style="float: left; width: 100%;">
