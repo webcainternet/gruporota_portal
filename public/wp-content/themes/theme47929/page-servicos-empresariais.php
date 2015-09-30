@@ -406,7 +406,7 @@ textarea, select {
 
 
 
-
+<?php /*
 <div class="areadupla" style="background-color: #AAE4C2; height: 375px; margin-top: 15px;">
 <div style="font: normal 22px Open Sans;height: 41px;padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #14a750;color: #14a750;">2ª via de boleto bancário</div>
 <div style="padding: 25px; padding-bottom: 0px; width: 100%; margin-bottom: 15px;">
@@ -437,9 +437,7 @@ Linha digitável:<br>
 </div></div>
 
 </div>
-
-
-
+*/ ?>
 
 
 
