@@ -517,7 +517,7 @@ Linha digitável:<br>
 <div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/empresarial_geral.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
 <div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Contabilidade Geral</div>
-<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+<div style="text-align: justify;">Orientações constantes para o gerencimento contábil das empresas para que se mantenham adequadamente dentro das exigencias legais de seus negócios.</div>
 </div>
 </div>
 
@@ -525,7 +525,7 @@ Linha digitável:<br>
 <div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/empresarial_fiscal.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
 <div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Planejamento Fiscal</div>
-<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+<div style="text-align: justify;">Com Know How de mais de 10 anos em diversos segmentos comerciais e de serviços, trazendo o melhor enquadramento tributário para sua empresa</div>
 </div>
 </div>
 
@@ -533,7 +533,7 @@ Linha digitável:<br>
 <div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/empresarial_custo.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
 <div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Assessoria de Custos</div>
-<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+<div style="text-align: justify;">Levantamento dos custos operacionais, administrativos, identificamos os custos diretos e indiretos para melhor aplicação de índices para composição do preço final de venda tendo maior controle e confiabilidade de seus produtos e serviços.</div>
 </div>
 </div>
 
@@ -541,7 +541,7 @@ Linha digitável:<br>
 <div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/empresarial_juridico.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
 <div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Assessoria de Jurídica</div>
-<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+<div style="text-align: justify;">Com profissionais especialistas em direito empresarial, tributário, trabalhista e civil, oferecemos a melhor estratégica para se evitar o contencioso jurídicial e atuando na defesa técnica nos tribunais.</div>
 </div>
 </div>
 
@@ -553,7 +553,7 @@ Linha digitável:<br>
 <div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/empresarial_registro.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
 <div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Registro de Empresas</div>
-<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+<div style="text-align: justify;">Análise detalhada do Objeto social das empresas para melhor adequação jurídica e opção tributária para seu negócio agilizando a abertura e futuras alterações contratuais</div>
 </div>
 </div>
 
@@ -561,7 +561,7 @@ Linha digitável:<br>
 <div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/empresarial_tributario.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
 <div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Planejamento Tributário</div>
-<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+<div style="text-align: justify;">Com a adoção de entendimento especializado e análises de operações específicas, determinamos o melhor enquadramento tributário para sua empresa.</div>
 </div>
 </div>
 
@@ -569,7 +569,7 @@ Linha digitável:<br>
 <div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/empresarial_financeira.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
 <div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Assessoria Financeira</div>
-<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+<div style="text-align: justify;">Analise da situação economica-financeira da empresa através de modernas ferramentas para demonstrar a estrutura de capital a empresa necessita, assim como a melhor alternativa para captação e/ou geração de recursos.</div>
 </div>
 </div>
 
@@ -577,7 +577,7 @@ Linha digitável:<br>
 <div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/empresarial_rh.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
 <div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Departamento Pessoal</div>
-<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+<div style="text-align: justify;">Gerenciamento e controle de seu departamento pessoal com total indepedencia usando sistemas de gestão e apuração de encargos sociais para que sua empresa se mantenha em dia com suas obrigações trabalhistas</div>
 </div>
 </div>
 
