@@ -617,7 +617,7 @@ textarea, select {
 <tr>
 <td style="width: 50%; vertical-align: top;">
 
-<div style="float: left; font: normal 22px Open Sans; width: 100%; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #AB9632;color: #AB9632; max-width: 553px; margin-bottom: 5px; margin-top: 22px;">Titulo desta area</div>
+<div style="float: left; font: normal 22px Open Sans; width: 100%; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #AB9632;color: #AB9632; max-width: 553px; margin-bottom: 5px; margin-top: 22px;">Promovam seus Negócios</div>
 
 
 <div style="float: left; width: 100%; margin: 0px; padding: 0px; margin-top: 10px; text-align: justify; margin-bottom: 5px;">
