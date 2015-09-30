@@ -128,7 +128,7 @@ textarea, select {
 		<div style="float: left; width: 195px; text-align: left;">
 			<img src="/wp-content/uploads/logo-png/logo-grb-g.png" style="margin-left: 10px; width: 150px; margin-top: 10px;">
 		</div>
-	Local onde fala dos 4 continentes de atuação de preve desceitivo. Segmentos mistos voltado a obras civis, eletromecânica industriais, adequação ambiental e modernização fabril assim com obras comerciais. A Rota Construtora tem como meta a conquista de novos espaços no mercado de construção nacional e internacional em suas áreas de atuação, visando assegurar através de suas competências, a confiança de seus clientes, o que é por nós considerado característica primordial para transformar um projeto em realidade sendo creditado aos nossos clientes internos e externos o sucesso por nós alcançados.</div>
+	Com o objetivo de integrar fornecedores a clientes em diversos continentes, a GRB Business Center trabalha com moderna plataforma de desenvolvimento de clientes para atender suas demandas nos 4(quatro) continentes nos quais atua promovendo a relação "B2B" de forma eficiente e eficaz trazendo grande redução de custos comerciais. Com atuações focadas em demandas públicas e privadas nos segmentos indústriais, comerciais e de serviços, a GRB Business Center encurta distâncias e se torna uma eficiente plataforma de negociação comercial intercontinental.</div>
 </div>
 
 <div style="float: left; width: 25%;">
@@ -621,7 +621,8 @@ textarea, select {
 
 
 <div style="float: left; width: 100%; margin: 0px; padding: 0px; margin-top: 10px; text-align: justify; margin-bottom: 5px;">
-Ainda não temos o conteúdo desta área. É um fato conhecido de todos que um leitor se distrairá com o conteúdo de texto legível de uma página quando estiver examinando sua diagramação. A vantagem de usar Lorem Ipsum é que ele tem uma distribuição normal de letras, ao contrário de "Conteúdo aqui, conteúdo aqui", fazendo com que ele tenha uma aparência similar a de um texto legível. Muitos softwares de publicação e editores de páginas na internet agora usam Lorem Ipsum como texto-modelo padrão, e uma rápida busca por 'lorem ipsum' mostra vários websites ainda em sua fase de construção. Várias versões novas surgiram ao longo dos anos, eventualmente por acidente, e às vezes de propósito (injetando humor, e coisas do gênero).
+O seu cliente está te esperando e a GRB Business Center é a melhor empresa para fazer chegar seus produtos ou serviços aos seus clientes e fornecedores espalhados pelos 4(quatro) continentes: Americano, Europeu, Asiático e Africano. Envie nos sua demanda e se surprenda com nossa agilidade em fazer chegar os clientes que planejam alcançar em um curto espaço de tempo de forma ética e transparente.
+Preencha o Formulário ao lado
 </div>
 
 </td>
