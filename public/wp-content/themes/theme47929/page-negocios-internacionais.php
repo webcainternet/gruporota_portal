@@ -128,7 +128,7 @@ textarea, select {
 		<div style="float: left; width: 195px; text-align: left;">
 			<img src="/wp-content/uploads/logo-png/logo-grb-g.png" style="margin-left: 10px; width: 150px; margin-top: 10px;">
 		</div>
-	Com o objetivo de integrar fornecedores a clientes em diversos continentes, a GRB Business Center trabalha com moderna plataforma de desenvolvimento de clientes para atender suas demandas nos 4(quatro) continentes nos quais atua promovendo a relação "B2B" de forma eficiente e eficaz trazendo grande redução de custos comerciais. Com atuações focadas em demandas públicas e privadas nos segmentos indústriais, comerciais e de serviços, a GRB Business Center encurta distâncias e se torna uma eficiente plataforma de negociação comercial intercontinental.</div>
+	Com o objetivo de integrar fornecedores a clientes em diversos continentes, a GRB Business Center trabalha com moderna plataforma de desenvolvimento de clientes para atender suas demandas nos 4(quatro) continentes nos quais atuamos promovendo a relação "B2B" de forma eficiente e eficaz trazendo grande redução de custos comerciais. Com atuações focadas em demandas públicas e privadas nos segmentos indústriais, comerciais e de serviços, a GRB Business Center encurta distâncias e se torna uma eficiente plataforma de negociação comercial intercontinental.</div>
 </div>
 
 <div style="float: left; width: 25%;">
