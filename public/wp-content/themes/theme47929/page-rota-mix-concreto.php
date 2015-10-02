@@ -122,13 +122,9 @@ display: inline;
 
 <div><h2 style="color: #EC1F27;">Rota Mix Concreto</h2></div>
 
-<div>A Rota Mix Concreto está focada em segmentos mistos voltado a obras civis, eletromecânica industriais, adequação ambiental e modernização fabril assim com obras comerciais.
+<div><p>A Rota Mix Concreto possui integração total com as demandas de mercado trazendo maior agilidade para projetos específicos em áreas carentes desta estrutura e com pouco acesso logístico para as obras.</p>
 
-Trabalhamos com processos dinâmicos de modo a possibilitar trabalhos sem interrupção das atividades diárias de nossos clientes.
-
-Com experiência profissional em suas respectivas áreas de atuação, tendo como meta a satisfação dos seus clientes, seja no cumprimento dos prazos e especial observância dos padrões de qualidade, seja na observancia das normas técnicas dos serviços a que se propõem executar, assim foi constituída a Rota Mix Concreto e posteriormente a Rota Engenharia, empresas que integram o Grupo Rota do Brasil desde 2004.
-
-A Rota Mix Concreto tem como meta a conquista de novos espaços no mercado de construção nacional e internacional em suas áreas de atuação, visando assegurar através de suas competências, a confiança de seus clientes, o que é por nós considerado característica primordial para transformar um projeto em realidade sendo creditado aos nossos clientes internos e externos o sucesso por nós alcançados.</div>
+<p>Devido às necessidades estruturais do Grupo Rota do Brasil, a Rota Mix Concreto procura estar operando com suas plataformas móveis nos projetos de complexidade logítica trazendo maior agilidade e praticidade aos clientes internos e externo.</p></div>
 
 
 </div>

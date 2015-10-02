@@ -124,13 +124,11 @@ display: inline;
 
 <div><h2 style="color: #AB9632;">CEMO S.A.</h2></div>
 
-<div>A CEMO S.A. está focada em segmentos mistos voltado a obras civis, eletromecânica industriais, adequação ambiental e modernização fabril assim com obras comerciais.
+<div>
+<p>A Construções e Estruturas de Moçambique - CEMO S.A, se converte do planejamento estratégico do Grupo Rota do Brasil em atuar em países africanos e iniciou este processo em Moçambique aonde desenvolve projetos particulares e públicos nos segmentos residenciais, comerciais e industriais.</p>
 
-Trabalhamos com processos dinâmicos de modo a possibilitar trabalhos sem interrupção das atividades diárias de nossos clientes.
-
-Com experiência profissional em suas respectivas áreas de atuação, tendo como meta a satisfação dos seus clientes, seja no cumprimento dos prazos e especial observância dos padrões de qualidade, seja na observancia das normas técnicas dos serviços a que se propõem executar, assim foi constituída a CEMO S.A. e posteriormente a Rota Engenharia, empresas que integram o Grupo Rota do Brasil desde 2004.
-
-A CEMO S.A. tem como meta a conquista de novos espaços no mercado de construção nacional e internacional em suas áreas de atuação, visando assegurar através de suas competências, a confiança de seus clientes, o que é por nós considerado característica primordial para transformar um projeto em realidade sendo creditado aos nossos clientes internos e externos o sucesso por nós alcançados.</div>
+<p>Com vasta demanda para métodos construtivos eficientes, moçambique receberá a mais nova fábrica de perfis LSF- Light Steel Frame e estruturas metálicas medias e pesadas para suprir os diversos projetos do Grupo Rota do Brasil e do mercado nacional, trazendo inovação e confiança para seus projetos.</p>
+</div>
 
 
 </div>

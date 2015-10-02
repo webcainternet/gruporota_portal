@@ -121,13 +121,15 @@ display: inline;
 
 <div><h2 style="color: #AB9632;">GRB Cotê D’Ivoire</h2></div>
 
-<div>A GRB Cotê D’Ivoire está focada em segmentos mistos voltado a obras civis, eletromecânica industriais, adequação ambiental e modernização fabril assim com obras comerciais.
+<div>
 
-Trabalhamos com processos dinâmicos de modo a possibilitar trabalhos sem interrupção das atividades diárias de nossos clientes.
+<p>Costa do Marfim recebe na provincia de Yamoussoukro a nova sede do Grupo Rota do Brasil que levará o know how internacional para uns dos mais importantes países da áfrica, realizando projetos em conjunto com Abidjan e integrando um seleto grupo corporativo.</p>
 
-Com experiência profissional em suas respectivas áreas de atuação, tendo como meta a satisfação dos seus clientes, seja no cumprimento dos prazos e especial observância dos padrões de qualidade, seja na observancia das normas técnicas dos serviços a que se propõem executar, assim foi constituída a GRB Cotê D’Ivoire e posteriormente a Rota Engenharia, empresas que integram o Grupo Rota do Brasil desde 2004.
+<p>Sua estrutura norteará principalmente as áreas de engenharia e construção, serviços de transportes e logística, saúde e educação alem das atividades sociais inerentes do Grupo Rota do Brasil.</p>
 
-A GRB Cotê D’Ivoire tem como meta a conquista de novos espaços no mercado de construção nacional e internacional em suas áreas de atuação, visando assegurar através de suas competências, a confiança de seus clientes, o que é por nós considerado característica primordial para transformar um projeto em realidade sendo creditado aos nossos clientes internos e externos o sucesso por nós alcançados.</div>
+<p>Assim a GRB Côte D'Ivoire integra mais um importante marco para a história do GRB que leva produtos e serviços que facilitarão o desenvolvimento da Costa do Marfim.</p>
+
+</div>
 
 
 </div>
