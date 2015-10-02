@@ -117,7 +117,7 @@ display: inline;
 <img src="/wp-content/uploads/logo-png/logo-grb-cote-g.png" style="margin-left: 30px;margin-top: 10px;width: 280px;" width="280">
 </div>
 
-<div style="float: left; width: 805px;">
+<div style="float: left; width: 805px; min-height: 280px;">
 
 <div><h2 style="color: #AB9632;">GRB Cotê D’Ivoire</h2></div>
 
@@ -137,7 +137,7 @@ display: inline;
 
 
 
-<div style="width: 100%; height: 1px;"></div>
+
 
 
 

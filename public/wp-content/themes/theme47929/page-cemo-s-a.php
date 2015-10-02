@@ -120,7 +120,7 @@ display: inline;
 <img src="/wp-content/uploads/logo-png/logo-cemo-g.png" style="margin-left: 30px;margin-top: 10px;width: 280px;" width="280">
 </div>
 
-<div style="float: left; width: 805px;">
+<div style="float: left; width: 805px; min-height: 280px;">
 
 <div><h2 style="color: #AB9632;">CEMO S.A.</h2></div>
 
@@ -134,11 +134,6 @@ display: inline;
 </div>
 
 
-
-
-
-
-<div style="width: 100%; height: 1px;"></div>
 
 
 
@@ -157,7 +152,6 @@ Planejar, Gerenciar e Executar projetos de Engenharia Civil com eficiencia e efi
 Valores:
 Trabalhar com ética,qualidade,Fidelidade com os objetivos da Empresa, Lealdade, ousadia, Responsabilidade nos compromissos assumidos e transparencia nas relações com nossos clientes internos e externos
 </div>
-
 
 
 

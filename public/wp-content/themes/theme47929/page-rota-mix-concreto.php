@@ -118,7 +118,7 @@ display: inline;
 <img src="/wp-content/uploads/logo-png/logo-rota-mix-g.png" style="margin-right: 50px; margin-top: 10px; width: 200px;" width="200">
 </div>
 
-<div style="float: left; width: 865px;">
+<div style="float: left; width: 865px; min-height: 200px;">
 
 <div><h2 style="color: #EC1F27;">Rota Mix Concreto</h2></div>
 
@@ -130,10 +130,6 @@ display: inline;
 </div>
 
 
-
-
-
-<div style="width: 100%; height: 1px;"></div>
 
 
 
@@ -152,7 +148,6 @@ Planejar, Gerenciar e Executar projetos de Engenharia Civil com eficiencia e efi
 Valores:
 Trabalhar com ética,qualidade,Fidelidade com os objetivos da Empresa, Lealdade, ousadia, Responsabilidade nos compromissos assumidos e transparencia nas relações com nossos clientes internos e externos
 </div>
-
 
 
 
