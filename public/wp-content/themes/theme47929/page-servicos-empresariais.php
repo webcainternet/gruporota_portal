@@ -336,7 +336,9 @@ textarea, select {
 
 <div style="float: left; width: 830px;margin-top: -20px;">
 	<div><h2 style="color: #14a750;">Serviços Empresariais</h2></div>
-	<div style="text-align: justify; margin-right: 30px; color: #333;">A Rota Construtora está focada em segmentos mistos voltado a obras civis, eletromecânica industriais, adequação ambiental e modernização fabril assim com obras comerciais. Trabalhamos com processos dinâmicos de modo a possibilitar trabalhos sem interrupção das atividades diárias de nossos clientes. Com experiência profissional em suas respectivas áreas de atuação, tendo como meta a satisfação dos seus clientes, seja no cumprimento dos prazos e especial observância dos padrões de qualidade, seja na observancia das normas técnicas dos serviços a que se propõem executar, assim foi constituída a Rota Construtora e posteriormente a Rota Engenharia, empresas que integram o Grupo Rota do Brasil desde 2004.</div>
+	<div style="text-align: justify; margin-right: 30px; color: #333;">
+		Trabalhamos com excelencia para atender os mais diversos segmentos empresariais, seja serviços, comercio ou industria no brasil e internacionalmente. A Rota Contabil ha mais de 10 anos no mercado atendendo a dezenas de clientes espalhandos pelo Brasil, vem aprimorando e usando ferramentas gerenciais para que seus clientes possam receber um atendimento rapido, agil e dinâmico, deixando os empresarios adequadamente em dias com suas obrigações e suas empresas perfeitamente operante e dentro das exigencias legais nas regiões em que operam.
+	</div>
 </div>
 
 <div style="float: left; width: 25%;">
@@ -588,11 +590,11 @@ Linha digitável:<br>
 <tr>
 <td style="width: 50%; vertical-align: top;">
 
-<div style="float: left; font: normal 22px Open Sans; width: 100%; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #14a750;color: #14a750; max-width: 553px; margin-bottom: 5px; margin-top: 22px;">Titulo desta area</div>
+<div style="float: left; font: normal 22px Open Sans; width: 100%; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #14a750;color: #14a750; max-width: 553px; margin-bottom: 5px; margin-top: 22px;">Venha para a Rota Contábil</div>
 
 
 <div style="float: left; width: 100%; margin: 0px; padding: 0px; margin-top: 10px; text-align: justify; margin-bottom: 5px;">
-Ainda não temos o conteúdo desta área. É um fato conhecido de todos que um leitor se distrairá com o conteúdo de texto legível de uma página quando estiver examinando sua diagramação. A vantagem de usar Lorem Ipsum é que ele tem uma distribuição normal de letras, ao contrário de "Conteúdo aqui, conteúdo aqui", fazendo com que ele tenha uma aparência similar a de um texto legível. Muitos softwares de publicação e editores de páginas na internet agora usam Lorem Ipsum como texto-modelo padrão, e uma rápida busca por 'lorem ipsum' mostra vários websites ainda em sua fase de construção. Várias versões novas surgiram ao longo dos anos, eventualmente por acidente, e às vezes de propósito (injetando humor, e coisas do gênero).
+A complexidade da legislação tributária, fiscal e trabalhista no Brasil faz com que as empresas e empresários busquem profissionais treinados e com know how em diversos segmentos de mercado para que suas atividades possam obter o mais adequado planejamento e corretas aplicações destas legislações que se alteram dia após dia, dificultando a vida das empresas. Diante disto a Rota Contabil traz para voce a melhor solução para assessoria e consultoria empresarial completa para que voce possa trabalhar com tranquilidade e confiança, voltando sua atenção para seu negócio e deixando as complicadas legislações nas mãos dos profissionais capacitados da Rota Contabil. Vem para cá e conte conosco.
 </div>
 
 </td>
