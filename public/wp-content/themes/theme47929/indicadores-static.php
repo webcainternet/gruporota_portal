@@ -75,30 +75,6 @@
 	</tr> 
 
 	<tr>
-		<td>Global</td>
-		<td>40	+112,32%</td>
-		<td>22.set.2015</td>
-	</tr>
-
-	<tr>
-		<td>TR</td>
-		<td>+0,16%</td>
-		<td>22.set.2015</td>
-	</tr>
-
-	<tr>
-		<td>CDI</td>
-		<td>+14,13%</td>
-		<td>22.set.2015</td>
-	</tr>
-
-	<tr>
-		<td>SELIC</td>
-		<td>+14,25%</td>
-		<td>03.set.2015</td>
-	</tr>
-
-	<tr>
 		<td>INPC</td>
 		<td>0.00</td>
 		<td>Não coletado</td>
