@@ -149,7 +149,7 @@ display: inline;
 
 
 <div style="float: right; text-align: right; margin-top: 30px; border-top: solid 2px #AB9632; padding-top: 10px;">
-<div style=" padding-right: 15px;"><img src="/wp-content/themes/theme47929/images/icon-googlemaps.png"><span style="color: #AB9632; font-size: 14px; text-transform: uppercase;">Onde estamos: </span><b>Rota Construtora</b> Av. Princesa Isabel, 240 - Parque Recreio - Contagem - MG - CEP 32110-000
+<div style=" padding-right: 15px;"><img src="/wp-content/themes/theme47929/images/icon-googlemaps.png"><span style="color: #AB9632; font-size: 14px; text-transform: uppercase;">Onde estamos: </span>Estados Unidos - 2053, Michael Tiago Circle - Maitland-Florida ZipCode: 32751
 </div>
 </div>
 
