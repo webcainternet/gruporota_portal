@@ -131,7 +131,7 @@ display: inline;
 <div style="float: left; width: 100%;">
 <div style="float: left; font: normal 22px Open Sans; margin-top: 50px; width: 1140px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #283985;color: #283985;margin-bottom: 15px;">Quem somos</div>
 
-<div style="width: 100%; float: left;">A Rota Engenharia Industrial foi criada com o objetivo de apresentar a máxima qualidade e confiabilidade em serviços de engenharia para o setor industrial. A empresa se converge da Rota Construtora que possui amplos projetos executados em diversos segmentos onde acumula mais de 7 anos de experiência em projetos multi setoriais.
+<div style="width: 100%; float: left; text-align: justify;">A Rota Engenharia Industrial foi criada com o objetivo de apresentar a máxima qualidade e confiabilidade em serviços de engenharia para o setor industrial. A empresa se converge da Rota Construtora que possui amplos projetos executados em diversos segmentos onde acumula mais de 7 anos de experiência em projetos multi setoriais.
 
 A Rota Engenharia Industrial foi criada com o objetivo de apresentar a máxima qualidade e confiabilidade em serviços de engenharia para o setor industrial. A empresa se converge da Rota Construtora que possui amplos projetos executados em diversos segmentos onde acumula mais de 7 anos de experiência em projetos multi setoriais.
 </div>

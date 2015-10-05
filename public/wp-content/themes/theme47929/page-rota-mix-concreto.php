@@ -73,7 +73,7 @@ padding: 15px;
 /* projetos */
 .float-projetos {
 float: left;
-width: 261px;
+width: 262.5px;
 text-align: center;
 margin-top: 0px;
 padding: 15px 15px 0 15px;
@@ -143,9 +143,9 @@ display: inline;
 
 
 
-<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 100%; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #EC1F27;color: #EC1F27;margin-bottom: 15px;">Visão, missão e valores</div>
+<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 1140px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #EC1F27;color: #EC1F27;margin-bottom: 15px;">Visão, missão e valores</div>
 
-<div>
+<div style="text-align: justify;">
 Visão:
 Ser uma empresa rentável e estratégica no mercado da Construção nacional e Internacional.
 
@@ -160,9 +160,9 @@ Trabalhar com ética,qualidade,Fidelidade com os objetivos da Empresa, Lealdade,
 
 
 
-<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 100%; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #EC1F27;color: #EC1F27;margin-bottom: 15px;">Serviços</div>
+<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 1140px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #EC1F27;color: #EC1F27;margin-bottom: 15px;">Serviços</div>
 
-<div>
+<div style="text-align: justify;">
 A Rota Mix Concreto, atua para executar e construir obras e serviços tais como:
 
 Construção e Modernização de fábricas, bases para máquinas industriais, Adequação ambiental, Pisos industriais Terraplenagem, Drenagem, Escavações, Estradas, Prédios comerciais e Galpões (pequenos, médios e grandes portes), Instalações de água e esgoto, Estrutura de concreto armado, Instalações hidrosanitárias e elétricas, Impermeabilizações, pinturas industriais e comerciais, Desmobilizações de prédios e estruturas e montagens industrial.
@@ -177,7 +177,7 @@ Construção e Modernização de fábricas, bases para máquinas industriais, Ad
 
 
 
-<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 100%; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #EC1F27;color: #EC1F27;">Galeria</div>
+<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 1140px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #EC1F27;color: #EC1F27;">Galeria</div>
 
 
 
@@ -238,7 +238,7 @@ Construção e Modernização de fábricas, bases para máquinas industriais, Ad
 
 
 
-<div style="float: right; text-align: right; margin-top: 30px; border-top: solid 2px #EC1F27; padding-top: 10px;">
+<div style="float: right; text-align: right; margin-top: 30px; margin-right: 5px; border-top: solid 2px #EC1F27; padding-top: 10px;">
 <div><img src="/wp-content/themes/theme47929/images/icon-googlemaps.png"><span style="color: #EC1F27; font-size: 14px; text-transform: uppercase;">Onde estamos: </span>Rua Seis Nº 68 - B. Napoli - Ribeirão das Neves - MG - CEP 33808-060
 </div>
 </div>
