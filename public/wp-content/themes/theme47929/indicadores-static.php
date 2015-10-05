@@ -43,11 +43,36 @@
 		<td class="titulos">ATUALIZAÇÃO</td>
 	</tr>
 
-	<tr>
-		<td style="padding-top: 10px;">Salário Mínimo</td>
-		<td style="padding-top: 10px;">R$ 788,00</td>
-		<td style="padding-top: 10px;">2015</td>
-	</tr>
+	<tr> 
+		<td style="padding-top: 10px;">Salário Mínimo</td> 
+		<td style="padding-top: 10px;">R$ 788,00</td> 
+		<td style="padding-top: 10px;">2015</td> 
+	</tr> 
+	<tr> 
+		<td>Global 40</td>
+		<td>+112,32%</td> 
+		<td> 05.Out.2015 </td> 
+	</tr> 
+	<tr> 
+		<td>TR</td> 
+		<td>+0,18%</td> 
+		<td> 05.Out.2015 </td> 
+	</tr> 
+	<tr> 
+		<td>CDI</td>
+		<td>+14,13%</td> 
+		<td> 05.Out.2015 </td> 
+	</tr> 
+	<tr> 
+		<td>SELIC</td> 
+		<td>+14,25%</td> 
+		<td>03.set.2015</td> 
+	</tr> 
+	<tr> 
+		<td>IPCA</td> 
+		<td> +0,22%</td> 
+		<td>ago.15</td> 
+	</tr> 
 
 	<tr>
 		<td>Global</td>
@@ -98,15 +123,9 @@
 	</tr>
 
 	<tr>
-		<td>INCC</td>
-		<td>0.00</td>
-		<td>Não coletado</td>
-	</tr>
-
-	<tr>
-		<td style="padding-bottom: 10px;">IPCA</td>
-		<td style="padding-bottom: 10px;">+0,22%</td>
-		<td style="padding-bottom: 10px;">ago.15</td>
+		<td style="padding-bottom: 10px;">INCC</td>
+		<td style="padding-bottom: 10px;">0,59</td>
+		<td style="padding-bottom: 10px;">Ago/2015</td>
 	</tr>
 	<tr>
 		<td colspan="3" class="titulos2">Fonte: UOL / Thomson Reuters</td>
