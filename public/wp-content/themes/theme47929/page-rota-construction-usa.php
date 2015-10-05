@@ -98,24 +98,26 @@ display: inline;
 </style>
 
 
-<div style="float: left; width: 100%;">
 
-<div style="float: left; width: 395px; text-align: right;">
-<img src="/wp-content/uploads/logo-png/logo-rota-construction-m.png" style="margin-right: 50px; margin-top: 10px;width: 295px;">
+<div style="width: 100%; float: left;"> 
+    <div style="float: left; margin-top: -20px;">
+        <div><h2 style="color: #AB9632;">Rota Construction USA</h2></div>
+        <div style="text-align: justify; color: #333;">
+            <div style="float: left; width: 195px; text-align: left;">
+                <img src="/wp-content/uploads/logo-png/logo-rota-construction-m.png" style="margin-left: 10px; width: 150px; margin-top: 10px;">
+            </div>
+
+            <div style="float: left; width: 970px; text-align: justify;">
+            <p>A Rota Construction USA, Corp. nasceu da identificação e planejamento estratégico do Grupo Rota do Brasil para se consolidar nos Estados Unidos como uma empresa que conhece as necessidades de clientes brasileiros. </p>
+
+			<p>Trabalhando com tecnologias modernas e altamente confiaveis como LSF-Light Steel Frame, WF-Wood Frame e estruturas tradicionais, a Rota Construction se alinha as normativas e exigencias legais dos Estados Unidos.</p>
+
+			<p>Operando desde 2012 com escritório de engenharia e negócios locais a Rota Construction USA, está apta a operar em diversos segmentos construtivos alinhando ao know how do Grupo Rota do Brasil nos mercados nacionais e internacionais.</p>
+            </div>
+        </div>
+    </div>
 </div>
 
-<div style="float: left; width: 773px;">
-
-<div><h2 style="color: #AB9632;">Rota Construction USA</h2></div>
-
-<div>A Rota Construction USA, Corp. nasceu da identificação e planejamento estratégico do Grupo Rota do Brasil para se consolidar nos Estados Unidos como uma empresa que conhece as necessidades de clientes brasileiros. 
-
-Trabalhando com tecnologias modernas e altamente confiaveis como LSF-Light Steel Frame, WF-Wood Frame e estruturas tradicionais, a Rota Construction se alinha as normativas e exigencias legais dos Estados Unidos.
-
-Operando desde 2012 com escritório de engenharia e negócios locais a Rota Construction USA, está apta a operar em diversos segmentos construtivos alinhando ao know how do Grupo Rota do Brasil nos mercados nacionais e internacionais.</div>
-</div>
-
-</div>
 
 
 
@@ -125,16 +127,6 @@ Operando desde 2012 com escritório de engenharia e negócios locais a Rota Cons
 
 
 
-
-<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 100%; height: 41px; padding: 10px 10px 3px; background-color: #f2f2f2; border-left: solid 10px #AB9632; color: #AB9632; margin-left: 0px; max-width: 1140px;">Quem somos</div>
-
-<div style="width: 100%; float: left; margin-top: 10px;">
-<div>Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker.</div>
-<br>
-<div>É um fato conhecido de todos que um leitor se distrairá com o conteúdo de texto legível de uma página quando estiver examinando sua diagramação. A vantagem de usar Lorem Ipsum é que ele tem uma distribuição normal de letras, ao contrário de "Conteúdo aqui, conteúdo aqui", fazendo com que ele tenha uma aparência similar a de um texto legível. Muitos softwares de publicação e editores de páginas na internet agora usam Lorem Ipsum como texto-modelo padrão, e uma rápida busca por 'lorem ipsum' mostra vários websites ainda em sua fase de construção. Várias versões novas surgiram ao longo dos anos, eventualmente por acidente, e às vezes de propósito (injetando humor, e coisas do gênero).</div>
-</div>
-
-</div>
 
 
 
@@ -156,28 +148,9 @@ Operando desde 2012 com escritório de engenharia e negócios locais a Rota Cons
 
 
 
-
-
-<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 100%; height: 41px; padding: 10px 10px 3px; background-color: #f2f2f2; border-left: solid 10px #AB9632; color: #AB9632; margin-left: 30px; max-width: 1140px;">Onde estamos</div>
-
-
-
-
-
-
-<div style="float: left; width: 270px; text-align: right; margin-top: 30px;">
-<div style=" padding-right: 15px;"><b>Rota Engenharia Industrial</b>
-Av. José Faria da Rocha No 1.028
-4° andar - Bairro Eldorado
-Contagem - MG
-32315-040
+<div style="float: right; text-align: right; margin-top: 30px; border-top: solid 2px #AB9632; padding-top: 10px;">
+<div style=" padding-right: 15px;"><img src="/wp-content/themes/theme47929/images/icon-googlemaps.png"><span style="color: #AB9632; font-size: 14px; text-transform: uppercase;">Onde estamos: </span><b>Rota Construtora</b> Av. Princesa Isabel, 240 - Parque Recreio - Contagem - MG - CEP 32110-000
 </div>
-</div>
-
-
-
-<div style="float: left; width: 899px; margin-top: 30px;">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3752.075095311047!2d-44.02189199999999!3d-19.879050700000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa693fdc9c7944b%3A0x679013ccfca127f6!2sRota+Construtora!5e0!3m2!1sen!2sbr!4v1438725482248" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
 

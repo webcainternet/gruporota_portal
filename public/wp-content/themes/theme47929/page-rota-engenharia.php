@@ -97,23 +97,26 @@ display: inline;
 }
 </style>
 
-<div style="float: left; width: 100%;">
-<div style="float: left; width: 395px; text-align: right;">
-<img src="/wp-content/uploads/logo-png/logo-rota-engenharia-p.png" style="margin-right: 50px; margin-top: 10px;
-">
-</div>
 
-<div style="float: left; width: 773px;">
 
-<div><h2 style="color: #283985;">Rota Engenharia Industrial</h2></div>
 
-<div>A Rota Engenharia atua de maneira eficaz no atendimento aos clientes, identificando suas reais necessidades e prioridades. 
+<div style="width: 100%; float: left;"> 
+    <div style="float: left; margin-top: -20px;">
+        <div><h2 style="color: #283985;">Rota Engenharia Industrial</h2></div>
+        <div style="text-align: justify; color: #333;">
+            <div style="float: left; width: 195px; text-align: left;">
+                <img src="/wp-content/uploads/logo-png/logo-rota-engenharia-p.png" style="margin-left: 10px; width: 150px; margin-top: 10px;">
+            </div>
 
-Desenvolvemos as análises industriais com precisão e rigor técnico, determinando com cuidado todos os fatores críticos do projeto que possam ter conseqüência no desempenho e na vida operacional do parque fabril ou edificação. 
+            <div style="float: left; width: 970px; text-align: justify;">
+            <p>A Rota Engenharia atua de maneira eficaz no atendimento aos clientes, identificando suas reais necessidades e prioridades. </p>
 
-Sempre com foco nos resultados, as soluções desenvolvidas pela Rota Engenharia Industrial implicam diretamente no aumento da segurança e confiabilidade operacionais em estudo, consequência de um projeto tecnicamente confiável e economicamente viável para sua execução.</div>
-</div>
+            <p>Desenvolvemos as análises industriais com precisão e rigor técnico, determinando com cuidado todos os fatores críticos do projeto que possam ter conseqüência no desempenho e na vida operacional do parque fabril ou edificação. </p>
 
+            <p>Sempre com foco nos resultados, as soluções desenvolvidas pela Rota Engenharia Industrial implicam diretamente no aumento da segurança e confiabilidade operacionais em estudo, consequência de um projeto tecnicamente confiável e economicamente viável para sua execução.</p>
+            </div>
+        </div>
+    </div>
 </div>
 
 
@@ -270,8 +273,8 @@ A Rota Engenharia Industrial foi criada com o objetivo de apresentar a máxima q
 
 
 
-<div style="float: right; text-align: right; margin-top: 30px; border-top: solid 2px #283985; padding-top: 10px;">
-<div style=" padding-right: 15px;"><img src="/wp-content/themes/theme47929/images/icon-googlemaps.png"><span style="color: #283985; font-size: 14px; text-transform: uppercase;">Onde estamos: </span><b>Rota Construtora</b> Av. Princesa Isabel, 240 - Parque Recreio - Contagem - MG - CEP 32110-000
+<div style="float: right; text-align: right; margin-top: 30px; border-top: solid 2px #15338a; padding-top: 10px;">
+<div style=" padding-right: 15px;"><img src="/wp-content/themes/theme47929/images/icon-googlemaps.png"><span style="color: #15338a; font-size: 14px; text-transform: uppercase;">Onde estamos: </span><b>Rota Construtora</b> Av. Princesa Isabel, 240 - Parque Recreio - Contagem - MG - CEP 32110-000
 </div>
 </div>
 

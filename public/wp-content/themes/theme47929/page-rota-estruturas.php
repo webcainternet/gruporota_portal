@@ -97,21 +97,26 @@ display: inline;
 }
 </style>
 
-<div style="float: left; width: 395px; text-align: right;">
-<img src="/wp-content/uploads/logo-png/logo-rota-estruturas-g.png" style="margin-right: 70px; margin-top: 10px; width: 250px;
-">
+
+
+
+<div style="width: 100%; float: left;"> 
+    <div style="float: left; margin-top: -20px;">
+        <div><h2 style="color: #15338a;">Rota Estruturas</h2></div>
+        <div style="text-align: justify; color: #333;">
+            <div style="float: left; width: 195px; text-align: left;">
+                <img src="/wp-content/uploads/logo-png/logo-rota-estruturas-g.png" style="margin-left: 10px; width: 150px; margin-top: 10px;">
+            </div>
+
+            <div style="float: left; width: 970px; text-align: justify;">
+            <p>Trabalhando com estruturas leves, médias e pesadas sob demanda, a Rota Estruturas integra o Grupo Rota do Brasil como suporte logístico para seus projetos em estruturas metálicas assim como para o mercado solicitante.</p>
+
+            <p>Pautada em atender as exigencias normativas de diversos clientes a Rota Estruturas possui conhecimento em normas brasileiras, americanas e européias trazendo mais confiabilidade para seus projetos específicos.</p>
+            </div>
+        </div>
+    </div>
 </div>
 
-<div style="float: left; width: 765px;">
-
-<div><h2 style="color: #15338a;">Rota Estruturas</h2></div>
-
-<div>Trabalhando com estruturas leves, médias e pesadas sob demanda, a Rota Estruturas integra o Grupo Rota do Brasil como suporte logístico para seus projetos em estruturas metálicas assim como para o mercado solicitante.
-
-Pautada em atender as exigencias normativas de diversos clientes a Rota Estruturas possui conhecimento em normas brasileiras, americanas e européias trazendo mais confiabilidade para seus projetos específicos.</div>
-
-
-</div>
 
 
 
@@ -125,17 +130,6 @@ Pautada em atender as exigencias normativas de diversos clientes a Rota Estrutur
 
 
 
-
-
-
-
-<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 100%; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #15338a;color: #15338a;margin-bottom: 15px;">Serviços</div>
-
-<div>
-A Rota Construtora, atua para executar e construir obras e serviços tais como:
-
-Construção e Modernização de fábricas, bases para máquinas industriais, Adequação ambiental, Pisos industriais Terraplenagem, Drenagem, Escavações, Estradas, Prédios comerciais e Galpões (pequenos, médios e grandes portes), Instalações de água e esgoto, Estrutura de concreto armado, Instalações hidrosanitárias e elétricas, Impermeabilizações, pinturas industriais e comerciais, Desmobilizações de prédios e estruturas e montagens industrial.
-</div>
 
 
 
@@ -208,31 +202,10 @@ Construção e Modernização de fábricas, bases para máquinas industriais, Ad
 
 
 
-
-<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 100%; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #15338a;color: #15338a;">Onde estamos</div>
-
-
-
-
-
-
-<div style="float: left; width: 270px; text-align: right; margin-top: 30px;">
-<div style=" padding-right: 15px;"><b>Rota Construtora</b>
-Av. Princesa Isabel, 240 - Parque Recreio
-Contagem - MG
-32110-000
+<div style="float: right; text-align: right; margin-top: 30px; border-top: solid 2px #15338a; padding-top: 10px;">
+<div style=" padding-right: 15px;"><img src="/wp-content/themes/theme47929/images/icon-googlemaps.png"><span style="color: #15338a; font-size: 14px; text-transform: uppercase;">Onde estamos: </span><b>Rota Construtora</b> Av. Princesa Isabel, 240 - Parque Recreio - Contagem - MG - CEP 32110-000
 </div>
 </div>
-
-
-
-<div style="float: left; width: 899px; margin-top: 30px;">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3752.075095311047!2d-44.02189199999999!3d-19.879050700000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa693fdc9c7944b%3A0x679013ccfca127f6!2sRota+Construtora!5e0!3m2!1sen!2sbr!4v1438725482248" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
-</div>
-
-
-
-
 
 
 
@@ -250,14 +223,14 @@ Contagem - MG
 
 <!-- Rodape interno -->
 <a href="/fale-conosco/">
-<div style="background-image: url('/wp-content/themes/theme47929/images/header_bg_faleconosco_all.jpg');height: 200px;  background-position-y: -175px;float: left; margin-top: 40px;width: 1230px; ">
+<div style="margin-left: -30px; background-image: url('/wp-content/themes/theme47929/images/header_bg_faleconosco_all.jpg');height: 200px;  background-position-y: -175px;float: left; margin-top: 40px;width: 1230px; ">
   <div class="camera_caption fadeIn" style="position: relative; opacity: 0.8;"><div style="padding: 20px;margin: 20px;width: 115px;font-size: 16px;color: #FFFFFF;background-color: #15338a;text-transform: uppercase;">
                 Fale conosco
     </div></div>
 </div>
 </a>
 
-<div style="background-color: #15338a; float: left; width: 1170px; padding: 30px; text-align: center;">
+<div style="margin-left: -30px; background-color: #15338a; float: left; width: 1170px; padding: 30px; text-align: center;">
 <ul class="footer2ul">
 <li class="footer2li"><u><b><a href="/engenharia-e-construcao">Engenharia e construção</a></b></u> | </li>
 <li class="footer2li"><a href="/servicos-empresariais">Serviços empresariais</a> | </li>
