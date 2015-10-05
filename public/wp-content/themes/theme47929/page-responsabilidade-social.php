@@ -101,6 +101,12 @@ display: inline;
 .footer2li {
 display: inline;
 }
+select, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], .uneditable-input {
+    width: 554px !important;
+}
+textarea, select {
+    width: 568px !important;
+}
 </style>
 
 
@@ -132,7 +138,7 @@ display: inline;
 
 <div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 100%; height: 41px; padding: 10px 10px 3px; background-color: #f2f2f2; border-left: solid 10px #FFAA23; color: #FFAA23; margin-left: 0px; max-width: 1140px;">Instituto Rota do Brasil</div>
 
-<div style="width: 100%; float: left;">
+<div style="width: 100%; float: left; text-align: justify;">
 <div>&nbsp;<br>
 Promoverá o acesso da sociedade a diversas atividades de caráter esportivo, social, profissionalizante e educacional.Essas tarefas demandam um conjunto de princípios éticos e gerenciais que orientam ações pessoais e coletivas na condução de projetos em realização tais como formação e profissionalização, a prática de esportes e integração de milhares de brasileiros nos mais diversos recantos do país. 
 
@@ -142,7 +148,7 @@ O Sucesso desta Instituição será completo quando seus objetivos atingirem o m
 </div>
 
 
-<div style="background-image: url('/wp-content/themes/theme47929/images/header_bg_social2.jpg'); background-position: cover;  width: 100%; height: 300px; float: left; border-radius: 10px; background-position-y: -250px;">&nbsp;
+<div style="background-image: url('/wp-content/themes/theme47929/images/header_bg_social2.jpg'); background-position: cover;  width: 100%; height: 300px; float: left; border-radius: 10px; background-position-y: -250px; margin-top: 15px;">&nbsp;
 </div>
 </div>
 
@@ -152,10 +158,10 @@ O Sucesso desta Instituição será completo quando seus objetivos atingirem o m
 
 
 
-<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 100%; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #FFAA23;color: #FFAA23; max-width: 1140px;">Projetos e Atividades</div>
+<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; margin-left: 30px; width: 100%; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #FFAA23;color: #FFAA23; max-width: 1140px;">Projetos e Atividades</div>
 
 
-<table style="width: 100%">
+<table style="width: 1170px;margin-left: 30px;">
 <tr>
 <td>
 
@@ -227,10 +233,10 @@ O Sucesso desta Instituição será completo quando seus objetivos atingirem o m
 
 
 
-<div style="float: left;margin-left: 30px; font: normal 22px Open Sans; margin-top: 30px; width: 100%; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #FFAA23;color: #FFAA23; max-width: 1140px;">Seja doador</div>
+<div style="float: left;margin-left: 0px; font: normal 22px Open Sans; margin-top: 30px; width: 100%; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #FFAA23;color: #FFAA23; max-width: 1140px;">Seja doador</div>
 
 
-<table style="width: 100%;margin-left: 30px;">
+<table style="width: 100%;margin-left: 0px;">
 <tr>
 <td style="width: 50%; vertical-align: top; text-align: justify; padding: 15px 15px 0px 0px;">
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur
@@ -243,7 +249,9 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 </h2>
 </div>
 <div style="margin-top: 50px;">
-[contact-form-7 id="2528" title="Seja doador"]
+<?php 
+    echo do_shortcode("[contact-form-7 id=\"2528\" title=\"Seja doador\"]"); 
+?>
 </div>
 </td>
 
@@ -258,9 +266,9 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
 
 
-<div style="float: left; margin-left: 30px; font: normal 12px Open Sans; margin-top: 30px; width: 500px; height: 100px; padding: 10px 10px 3px; background-color: #F9F9F9; color: #FFAA23; border-radius: 10px; max-width: 1140px;">Apoiadores:</div>
+<div style="float: left; font: normal 12px Open Sans; margin-top: 30px; width: 550px; height: 100px; padding: 10px 10px 3px; background-color: #F9F9F9; color: #FFAA23; border-radius: 10px; max-width: 1140px;">Apoiadores:</div>
 
-<div style="float: left; margin-left: 15px; font: normal 12px Open Sans; margin-top: 30px; width: 610px; height: 100px; padding: 10px 10px 3px; background-color: #F9F9F9; color: #FFAA23; border-radius: 10px; max-width: 1140px;">Parcerias:</div>
+<div style="float: left; margin-left: 15px; font: normal 12px Open Sans; margin-top: 30px; width: 550px; height: 100px; padding: 10px 10px 3px; background-color: #F9F9F9; color: #FFAA23; border-radius: 10px; max-width: 1140px;">Parcerias:</div>
 
 
 
@@ -269,14 +277,14 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
 <!-- Rodape interno -->
 <a href="/fale-conosco/">
-<div style="background-image: url('/wp-content/themes/theme47929/images/header_bg_faleconosco_all.jpg');height: 200px;  background-position-y: -175px;float: left; margin-top: 40px;width: 1230px; ">
+<div style="margin-left: -30px; background-image: url('/wp-content/themes/theme47929/images/header_bg_faleconosco_all.jpg');height: 200px;  background-position-y: -175px;float: left; margin-top: 40px;width: 1230px; ">
   <div class="camera_caption fadeIn" style="position: relative; opacity: 0.8;"><div style="padding: 20px;margin: 20px;width: 115px;font-size: 16px;color: #FFFFFF;background-color: #FFAA23;text-transform: uppercase;">
                 Fale conosco
     </div></div>
 </div>
 </a>
 
-<div style="background-color: #FFAA23; float: left; width: 1170px; padding: 30px; text-align: center;">
+<div style="margin-left: -30px; background-color: #FFAA23; float: left; width: 1170px; padding: 30px; text-align: center;">
 <ul class="footer2ul">
 <li class="footer2li"><a href="/engenharia-e-construcao">Engenharia e construção</a> | </li>
 <li class="footer2li"><a href="/servicos-empresariais">Serviços empresariais</a> | </li>

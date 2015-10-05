@@ -97,25 +97,29 @@ display: inline;
 }
 </style>
 
-<div style="float: left; width: 395px; text-align: right;">
-<img src="/wp-content/uploads/logo-png/logo-rota-construtora-p.png" style="margin-right: 50px; margin-top: 10px;
-">
+
+
+<div style="width: 100%; float: left;"> 
+    <div style="float: left; margin-top: -20px;">
+        <div><h2 style="color: #883F58;">Rota Construtora</h2></div>
+        <div style="text-align: justify; color: #333;">
+            <div style="float: left; width: 195px; text-align: left;">
+                <img src="/wp-content/uploads/logo-png/logo-rota-construtora-p.png" style="margin-left: 10px; width: 150px; margin-top: 10px;">
+            </div>
+
+            <div style="float: left; width: 970px; text-align: justify;">
+            A Rota Construtora está focada em segmentos mistos voltado para obras civis, eletromecânica, industriais, adequação ambiental, infraestrutura,modernização fabril assim com obras residenciais e comerciais.
+
+            Com experiência profissional em suas respectivas áreas de atuação, tendo como meta a satisfação dos seus clientes, seja no cumprimento dos prazos com especial observância aos padrões de qualidade, seja na observancia das normas técnicas dos serviços a que se propõem executar, assim durantes todos estes anos adquirimos know how para atuarmos em diversos segmentos no brasil e no mundo.
+
+            Trabalhamos com processos dinâmicos para que possibilite trabalhos sem interrupção das atividades diárias de nossos clientes com experiência profissional em suas respectivas áreas de atuação, tendo como meta a satisfação de nossos clientes, seja no cumprimento dos prazos e especial observância dos padrões de qualidade, seja na observancia das normas técnicas dos serviços a que se propõem executar, assim foi constituída a Rota Construtora e posteriormente a Rota Engenharia, empresas que integram o Grupo Rota do Brasil desde 2005.
+
+            A Rota Construtora tem como meta a conquista de novos espaços no mercado de construção nacional e internacional, visando assegurar através de suas competências, a confiança de seus clientes, o que é considerado por nós, característica primordial para transformar um projeto em realidade sendo creditado aos nossos clientes internos e externos o sucesso por nós alcançados através das diversas premiações nacionais e internacionais.
+            </div>
+        </div>
+    </div>
 </div>
 
-<div style="float: left; width: 765px;">
-
-<div><h2 style="color: #883F58;">Rota Construtora</h2></div>
-
-<div>A Rota Construtora está focada em segmentos mistos voltado para obras civis, eletromecânica, industriais, adequação ambiental, infraestrutura,modernização fabril assim com obras residenciais e comerciais.
-
-Com experiência profissional em suas respectivas áreas de atuação, tendo como meta a satisfação dos seus clientes, seja no cumprimento dos prazos com especial observância aos padrões de qualidade, seja na observancia das normas técnicas dos serviços a que se propõem executar, assim durantes todos estes anos adquirimos know how para atuarmos em diversos segmentos no brasil e no mundo.
-
-Trabalhamos com processos dinâmicos para que possibilite trabalhos sem interrupção das atividades diárias de nossos clientes com experiência profissional em suas respectivas áreas de atuação, tendo como meta a satisfação de nossos clientes, seja no cumprimento dos prazos e especial observância dos padrões de qualidade, seja na observancia das normas técnicas dos serviços a que se propõem executar, assim foi constituída a Rota Construtora e posteriormente a Rota Engenharia, empresas que integram o Grupo Rota do Brasil desde 2005.
-
-A Rota Construtora tem como meta a conquista de novos espaços no mercado de construção nacional e internacional, visando assegurar através de suas competências, a confiança de seus clientes, o que é considerado por nós, característica primordial para transformar um projeto em realidade sendo creditado aos nossos clientes internos e externos o sucesso por nós alcançados através das diversas premiações nacionais e internacionais.</div>
-
-
-</div>
 
 
 
@@ -123,22 +127,20 @@ A Rota Construtora tem como meta a conquista de novos espaços no mercado de con
 
 
 
+<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 1140px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #883F58;color: #883F58;margin-bottom: 15px;">Visão, missão e valores</div>
 
-
-
-
-
-<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 100%; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #883F58;color: #883F58;margin-bottom: 15px;">Visão, missão e valores</div>
-
-<div>
-Visão:
+<div style="width: 1170px; float: left; text-align: justify;">
+<p>Visão:
 Ser uma empresa rentável e estratégica no mercado da Construção nacional e Internacional.
+</p>
 
-Missão:
+<p>Missão:
 Planejar, Gerenciar e Executar projetos de Engenharia Civil com eficiencia e eficácia gerando confiança e respeito de nossos clientes, promover a satisfação de nossos colaboradores, foco na melhoria contínua e obter rentabilidade do capital investido.
+</p>
 
-Valores:
+<p>Valores:
 Trabalhar com ética,qualidade,Fidelidade com os objetivos da Empresa, Lealdade, ousadia, Responsabilidade nos compromissos assumidos e transparencia nas relações com nossos clientes internos e externos
+</p>
 </div>
 
 
@@ -146,12 +148,12 @@ Trabalhar com ética,qualidade,Fidelidade com os objetivos da Empresa, Lealdade,
 
 
 
-<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 100%; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #883F58;color: #883F58;margin-bottom: 15px;">Serviços</div>
+<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 1140px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #883F58;color: #883F58;margin-bottom: 15px;">Serviços</div>
 
-<div>
-A Rota Construtora, atua para executar e construir obras e serviços tais como:
+<div style="width: 1170px; float: left; text-align: justify;">
+<p>A Rota Construtora, atua para executar e construir obras e serviços tais como:</p>
 
-Construção e Modernização de fábricas, bases para máquinas industriais, Adequação ambiental, Pisos industriais Terraplenagem, Drenagem, Escavações, Estradas, Prédios comerciais e Galpões (pequenos, médios e grandes portes), Instalações de água e esgoto, Estrutura de concreto armado, Instalações hidrosanitárias e elétricas, Impermeabilizações, pinturas industriais e comerciais, Desmobilizações de prédios e estruturas e montagens industrial.
+<p>Construção e Modernização de fábricas, bases para máquinas industriais, Adequação ambiental, Pisos industriais Terraplenagem, Drenagem, Escavações, Estradas, Prédios comerciais e Galpões (pequenos, médios e grandes portes), Instalações de água e esgoto, Estrutura de concreto armado, Instalações hidrosanitárias e elétricas, Impermeabilizações, pinturas industriais e comerciais, Desmobilizações de prédios e estruturas e montagens industrial.</p>
 </div>
 
 
@@ -163,7 +165,7 @@ Construção e Modernização de fábricas, bases para máquinas industriais, Ad
 
 
 
-<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 100%; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #883F58;color: #883F58;">Galeria</div>
+<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 1140px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #883F58;color: #883F58;">Galeria</div>
 
 
 
@@ -226,28 +228,13 @@ Construção e Modernização de fábricas, bases para máquinas industriais, Ad
 
 
 
-<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 100%; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #883F58;color: #883F58;">Onde estamos</div>
 
 
 
-
-
-
-<div style="float: left; width: 270px; text-align: right; margin-top: 30px;">
-<div style=" padding-right: 15px;"><b>Rota Construtora</b>
-Av. Princesa Isabel, 240 - Parque Recreio
-Contagem - MG
-32110-000
+<div style="float: right; text-align: right; margin-top: 30px; border-top: solid 2px #883F58; padding-top: 10px;">
+<div style=" padding-right: 15px;"><img src="/wp-content/themes/theme47929/images/icon-googlemaps.png"><span style="color: #883F58; font-size: 14px; text-transform: uppercase;">Onde estamos: </span><b>Rota Construtora</b> Av. Princesa Isabel, 240 - Parque Recreio - Contagem - MG - CEP 32110-000
 </div>
 </div>
-
-
-
-<div style="float: left; width: 899px; margin-top: 30px;">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3752.075095311047!2d-44.02189199999999!3d-19.879050700000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa693fdc9c7944b%3A0x679013ccfca127f6!2sRota+Construtora!5e0!3m2!1sen!2sbr!4v1438725482248" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
-</div>
-
-
 
 
 
@@ -267,14 +254,14 @@ Contagem - MG
 
 <!-- Rodape interno -->
 <a href="/fale-conosco/">
-<div style="background-image: url('/wp-content/themes/theme47929/images/header_bg_faleconosco_all.jpg');height: 200px;  background-position-y: -175px;float: left; margin-top: 40px;width: 1230px; ">
+<div style="margin-left: -30px; background-image: url('/wp-content/themes/theme47929/images/header_bg_faleconosco_all.jpg');height: 200px;  background-position-y: -175px;float: left; margin-top: 40px;width: 1230px; ">
   <div class="camera_caption fadeIn" style="position: relative; opacity: 0.8;"><div style="padding: 20px;margin: 20px;width: 115px;font-size: 16px;color: #FFFFFF;background-color: #883F58;text-transform: uppercase;">
                 Fale conosco
     </div></div>
 </div>
 </a>
 
-<div style="background-color: #883F58; float: left; width: 1170px; padding: 30px; text-align: center;">
+<div style="margin-left: -30px; background-color: #883F58; float: left; width: 1170px; padding: 30px; text-align: center;">
 <ul class="footer2ul">
 <li class="footer2li"><u><b><a href="/engenharia-e-construcao">Engenharia e construção</a></b></u> | </li>
 <li class="footer2li"><a href="/servicos-empresariais">Serviços empresariais</a> | </li>

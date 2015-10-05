@@ -369,7 +369,7 @@ textarea, select {
 
 
 
-<div style="float: left; width: 800px;margin-top: -25px;">
+<div style="float: left; width: 800px;margin-top: -15px;">
 <div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width:770px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #14a750;color: #14a750;margin-bottom: 15px;">Destaques</div>
 
 <div class="novoticket" style="float: left;  width: 100%;">
@@ -386,7 +386,7 @@ textarea, select {
 
 
 
-<div style="float: left; width: 340px; margin-left: 30px;margin-top: -25px;">
+<div style="float: left; width: 340px; margin-left: 30px;margin-top: -15px;">
 <div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width:310px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #14a750;color: #14a750;margin-bottom: 15px;">Últimas Notícias</div>
 
 <div class="novoticket" style="float: left;  width: 100%;">

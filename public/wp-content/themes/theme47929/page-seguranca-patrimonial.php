@@ -102,38 +102,37 @@ textarea {
 </style>
 
 
-<div style="height: 20px; width: 100%;"> </div>
-
-<div style="float: left; width: 830px;margin-top: -20px;">
-	<div><h2 style="color: #333333;">Segurança Patrimonial</h2></div>
-	<div style="text-align: justify; margin-right: 30px; color: #333;">
-		<div style="float: left; width: 195px; text-align: left;">
-			<img src="/wp-content/themes/theme47929/images/logoseguranca.jpg" style="margin-left: 10px; width: 150px; margin-top: 10px;">
+<div style="width: 100%;"> 
+	<div style="float: left; width: 830px; margin-top: -20px;">
+		<div><h2 style="color: #333333;">Segurança Patrimonial</h2></div>
+		<div style="text-align: justify; margin-right: 30px; color: #333;">
+			<div style="float: left; width: 195px; text-align: left;">
+				<img src="/wp-content/themes/theme47929/images/logoseguranca.jpg" style="margin-left: 10px; width: 150px; margin-top: 10px;">
+			</div>
+			A Rota Segurança oferece projetos e soluções personalizadas para todos os mais diversos segmentos de mercado. Trabalhamos com alta qualificação profissional e no suporte operacional com estrutura dedicada às necessidades de cada setor no qual atuamos, trazendo mais agilidade e segurança nos processos e confiabilidade de nossos clientes.
 		</div>
-	A Rota Segurança oferece projetos e soluções personalizadas para todos os mais diversos segmentos de mercado. Trabalhamos com alta qualificação profissional e no suporte operacional com estrutura dedicada às necessidades de cada setor no qual atuamos, trazendo mais agilidade e segurança nos processos e confiabilidade de nossos clientes.</div>
-</div>
-
-<div style="float: left; width: 25%;">
-	<div style="margin-top: -40px;">
-	<h2 style="color: #2c3e50;">
-	<div style="background-color: #333333;position: absolute; font: normal 15px/20px Open Sans !important; z-index: 10; padding: 8px 15px 8px 15px; text-transform: uppercase; color: #FFFFFF;">Já sou cliente</div>
-	</h2>
 	</div>
 
-	<div style="margin-top: 80px;">
-	<table style="width: 100%;">
-	<tr>
-	<td style="text-align: right;">
-		<a href="/area-restrita"><img border="0" src="/wp-content/themes/theme47929/images/icon-seguranca.png" style="width: 48px;" width="48"></a>
-	</td>
-	<td style="font-size: 16px;
-	    padding-left: 10px;"><a href="/area-restrita" style="color: #222;">Ir para acesso restrito</a></td>
-	</tr>
-	</table>
+	<div style="float: left; width: 25%;">
+		<div style="margin-top: -40px;">
+		<h2 style="color: #2c3e50;">
+		<div style="background-color: #333333;position: absolute; font: normal 15px/20px Open Sans !important; z-index: 10; padding: 8px 15px 8px 15px; text-transform: uppercase; color: #FFFFFF;">Já sou cliente</div>
+		</h2>
+		</div>
+
+		<div style="margin-top: 80px;">
+		<table style="width: 100%;">
+		<tr>
+		<td style="text-align: right;">
+			<a href="/area-restrita"><img border="0" src="/wp-content/themes/theme47929/images/icon-seguranca.png" style="width: 48px;" width="48"></a>
+		</td>
+		<td style="font-size: 16px;
+		    padding-left: 10px;"><a href="/area-restrita" style="color: #222;">Ir para acesso restrito</a></td>
+		</tr>
+		</table>
+		</div>
 	</div>
 </div>
-
-
 
 
 <div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 100%; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #333333;color: #333333; max-width: 1140px;">Nossos serviços</div>
@@ -222,7 +221,9 @@ textarea {
 </h2>
 </div>
 <div style="padding-top: 50px;">
-[contact-form-7 id="2919" title="Contato Segurança"]
+<?php 
+    echo do_shortcode("[contact-form-7 id=\"2919\" title=\"Contato Segurança\"]"); 
+?>
 </div>
 </div>
 </td>

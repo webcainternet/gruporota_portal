@@ -268,9 +268,20 @@ A Rota Engenharia Industrial foi criada com o objetivo de apresentar a máxima q
 
 
 
+
+
+<div style="float: right; text-align: right; margin-top: 30px; border-top: solid 2px #283985; padding-top: 10px;">
+<div style=" padding-right: 15px;"><img src="/wp-content/themes/theme47929/images/icon-googlemaps.png"><span style="color: #283985; font-size: 14px; text-transform: uppercase;">Onde estamos: </span><b>Rota Construtora</b> Av. Princesa Isabel, 240 - Parque Recreio - Contagem - MG - CEP 32110-000
+</div>
+</div>
+
+
+
+
+
+
 </div></div>
 
-nossa
 
 
 <!-- Rodape interno -->

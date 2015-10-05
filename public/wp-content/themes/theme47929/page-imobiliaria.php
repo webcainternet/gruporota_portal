@@ -222,7 +222,9 @@ A Rota Imobiliária faz todo estes serviços para voce e apresenta as melhores o
 </h2>
 </div>
 <div style="padding-top: 50px;">
-[contact-form-7 id="2920" title="Contato Imobiliária"]
+<?php 
+    echo do_shortcode("[contact-form-7 id=\"2920\" title=\"Contato Imobiliária\"]"); 
+?>
 </div>
 </div>
 </td>

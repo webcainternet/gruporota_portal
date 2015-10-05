@@ -119,7 +119,7 @@ display: inline;
 
 <div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 100%; height: 41px; padding: 10px 10px 3px; background-color: #f2f2f2; border-left: solid 10px #1C82AF; color: #1C82AF; margin-left: 0px; max-width: 1140px;">Nosso trabalho</div>
 
-<div style="width: 100%; float: left;">
+<div style="width: 100%; float: left; text-align: justify;">
 <div>&nbsp;<br>
 Promoverá o acesso da sociedade a diversas atividades de caráter esportivo, social, profissionalizante e educacional.Essas tarefas demandam um conjunto de princípios éticos e gerenciais que orientam ações pessoais e coletivas na condução de projetos em realização tais como formação e profissionalização, a prática de esportes e integração de milhares de brasileiros nos mais diversos recantos do país. 
 
@@ -129,14 +129,16 @@ O Sucesso desta Instituição será completo quando seus objetivos atingirem o m
 </div>
 
 
-<div style="background-image: url('/wp-content/themes/theme47929/images/header_bg_ambiental3.jpg'); background-position: cover; max-width: 1140px; width: 100%; height: 300px; float: left; border-radius: 10px; background-position-y: -250px;">&nbsp;
+<div style="background-image: url('/wp-content/themes/theme47929/images/header_bg_ambiental3.jpg'); background-position: cover; max-width: 1170px; width: 100%; height: 300px; float: left; border-radius: 10px; background-position-y: -250px; margin-top: 15px;">&nbsp;
 </div>
 </div>
 
 
 
 
-<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 100%; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #1C82AF;color: #1C82AF; max-width: 1140px;">Projetos</div>
+<div style="margin-left: 30px; float: left; font: normal 22px Open Sans; margin-top: 30px; width: 100%; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #1C82AF;color: #1C82AF; max-width: 1140px;">Projetos</div>
+
+<div style="margin-left: 25px;">
 
 <div class="float-projetos">
         <div class="float-projetos-titulo">
@@ -211,7 +213,7 @@ O Sucesso desta Instituição será completo quando seus objetivos atingirem o m
         </div>
 </div>
 
-
+</div>
 
 
 

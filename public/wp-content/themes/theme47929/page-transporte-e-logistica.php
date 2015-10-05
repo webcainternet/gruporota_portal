@@ -211,7 +211,9 @@ Precisando de transportar seus produtos? A Rota Logistica e Transportes cuida da
 </h2>
 </div>
 <div style="padding-top: 50px;">
-[contact-form-7 id="2922" title="Contato Transporte e Logistica"]
+<?php 
+    echo do_shortcode("[contact-form-7 id=\"2922\" title=\"Contato Transporte e Logistica\"]"); 
+?>
 </div>
 </div>
 </td>
