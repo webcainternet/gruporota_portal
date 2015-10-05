@@ -651,6 +651,10 @@ Preencha o Formulário ao lado
 
 
 
+<div style="float: right; text-align: right; margin-top: 30px; border-top: solid 2px #AB9632; padding-top: 10px;">
+<div style=" padding-right: 15px;"><img src="/wp-content/themes/theme47929/images/icon-googlemaps.png"><span style="color: #AB9632; font-size: 14px; text-transform: uppercase;">Onde estamos: </span>203, Rue Pierre Gansen - L-4570 Niederkorn - Luxemburg
+</div>
+</div>
 
 
 
