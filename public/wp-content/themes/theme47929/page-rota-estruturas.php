@@ -56,7 +56,7 @@ padding: 15px;
 /* projetos */
 .float-projetos {
 float: left;
-width: 261px;
+width: 262.5px;
 text-align: center;
 margin-top: 0px;
 padding: 15px 15px 0 15px;
@@ -140,7 +140,7 @@ display: inline;
 
 
 
-<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 100%; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #15338a;color: #15338a;">Galeria</div>
+<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 1140px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #15338a;color: #15338a;">Galeria</div>
 
 
 
@@ -202,8 +202,8 @@ display: inline;
 
 
 
-<div style="float: right; text-align: right; margin-top: 30px; border-top: solid 2px #15338a; padding-top: 10px;">
-<div style=" padding-right: 15px;"><img src="/wp-content/themes/theme47929/images/icon-googlemaps.png"><span style="color: #15338a; font-size: 14px; text-transform: uppercase;">Onde estamos: </span>Rua Seis Nº 68 - B. Napoli - Ribeirão das Neves - MG - CEP 33808-060
+<div style="float: right; text-align: right; margin-top: 30px; margin-right: 5px; border-top: solid 2px #15338a; padding-top: 10px;">
+<div><img src="/wp-content/themes/theme47929/images/icon-googlemaps.png"><span style="color: #15338a; font-size: 14px; text-transform: uppercase;">Onde estamos: </span>Rua Seis Nº 68 - B. Napoli - Ribeirão das Neves - MG - CEP 33808-060
 </div>
 </div>
 

@@ -56,7 +56,7 @@ padding: 15px;
 /* projetos */
 .float-projetos {
 float: left;
-width: 261px;
+width: 262.5px;
 text-align: center;
 margin-top: 0px;
 padding: 15px 15px 0 15px;
@@ -231,8 +231,8 @@ Trabalhar com ética,qualidade,Fidelidade com os objetivos da Empresa, Lealdade,
 
 
 
-<div style="float: right; text-align: right; margin-top: 30px; border-top: solid 2px #883F58; padding-top: 10px;">
-<div style=" padding-right: 15px;"><img src="/wp-content/themes/theme47929/images/icon-googlemaps.png"><span style="color: #883F58; font-size: 14px; text-transform: uppercase;">Onde estamos: </span>Av José Faria da Rocha nº 1.028 - 4º andar B. Eldorado - Contagem - MG - CEP 32315-040
+<div style="float: right; margin-right: 5px; text-align: right; margin-top: 30px; border-top: solid 2px #883F58; padding-top: 10px;">
+<div><img src="/wp-content/themes/theme47929/images/icon-googlemaps.png"><span style="color: #883F58; font-size: 14px; text-transform: uppercase;">Onde estamos: </span>Av José Faria da Rocha nº 1.028 - 4º andar B. Eldorado - Contagem - MG - CEP 32315-040
 </div>
 </div>
 

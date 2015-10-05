@@ -72,7 +72,7 @@ padding: 15px;
 /* projetos */
 .float-projetos {
 float: left;
-width: 261px;
+width: 262.5px;
 text-align: center;
 margin-top: 0px;
 padding: 15px 15px 0 15px;
@@ -151,9 +151,9 @@ display: inline;
 
 
 
-<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 100%; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #AB9632;color: #AB9632;margin-bottom: 15px;">Visão, missão e valores</div>
+<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 1140px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #AB9632;color: #AB9632;margin-bottom: 15px;">Visão, missão e valores</div>
 
-<div>
+<div style="text-align: justify;">
 Visão:
 Ser uma empresa rentável e estratégica no mercado da Construção nacional e Internacional.
 
@@ -169,9 +169,9 @@ Trabalhar com ética,qualidade,Fidelidade com os objetivos da Empresa, Lealdade,
 
 
 
-<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 100%; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #AB9632;color: #AB9632;margin-bottom: 15px;">Serviços</div>
+<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 1140px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #AB9632;color: #AB9632;margin-bottom: 15px;">Serviços</div>
 
-<div>
+<div style="text-align: justify;">
 A GRB Cotê D’Ivoire, atua para executar e construir obras e serviços tais como:
 
 Construção e Modernização de fábricas, bases para máquinas industriais, Adequação ambiental, Pisos industriais Terraplenagem, Drenagem, Escavações, Estradas, Prédios comerciais e Galpões (pequenos, médios e grandes portes), Instalações de água e esgoto, Estrutura de concreto armado, Instalações hidrosanitárias e elétricas, Impermeabilizações, pinturas industriais e comerciais, Desmobilizações de prédios e estruturas e montagens industrial.
@@ -186,7 +186,7 @@ Construção e Modernização de fábricas, bases para máquinas industriais, Ad
 
 
 
-<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 100%; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #AB9632;color: #AB9632;">Galeria</div>
+<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 1140px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #AB9632;color: #AB9632;">Galeria</div>
 
 
 
@@ -249,8 +249,8 @@ Construção e Modernização de fábricas, bases para máquinas industriais, Ad
 
 
 
-<div style="float: right; text-align: right; margin-top: 30px; border-top: solid 2px #AB9632; padding-top: 10px;">
-<div style=" padding-right: 15px;"><img src="/wp-content/themes/theme47929/images/icon-googlemaps.png"><span style="color: #AB9632; font-size: 14px; text-transform: uppercase;">Onde estamos: </span>Av José Faria da Rocha nº 1.028 - 4º andar B. Eldorado - Contagem - MG - CEP 32315-040
+<div style="float: right; text-align: right; margin-top: 30px; margin-right: 5px; border-top: solid 2px #AB9632; padding-top: 10px;">
+<div><img src="/wp-content/themes/theme47929/images/icon-googlemaps.png"><span style="color: #AB9632; font-size: 14px; text-transform: uppercase;">Onde estamos: </span>Av José Faria da Rocha nº 1.028 - 4º andar B. Eldorado - Contagem - MG - CEP 32315-040
 </div>
 </div>
 
@@ -264,14 +264,14 @@ Construção e Modernização de fábricas, bases para máquinas industriais, Ad
 
 <!-- Rodape interno -->
 <a href="/fale-conosco/">
-<div style="background-image: url('/wp-content/themes/theme47929/images/header_bg_faleconosco_all.jpg');height: 200px;  background-position-y: -175px;float: left; margin-top: 40px;width: 1230px; ">
+<div style="margin-left: -30px; background-image: url('/wp-content/themes/theme47929/images/header_bg_faleconosco_all.jpg');height: 200px;  background-position-y: -175px;float: left; margin-top: 40px;width: 1230px; ">
   <div class="camera_caption fadeIn" style="position: relative; opacity: 0.8;"><div style="padding: 20px;margin: 20px;width: 115px;font-size: 16px;color: #FFFFFF;background-color: #AB9632;text-transform: uppercase;">
                 Fale conosco
     </div></div>
 </div>
 </a>
 
-<div style="background-color: #AB9632; float: left; width: 1170px; padding: 30px; text-align: center;">
+<div style="margin-left: -30px; background-color: #AB9632; float: left; width: 1170px; padding: 30px; text-align: center;">
 <ul class="footer2ul">
 <li class="footer2li"><u><b><a href="/engenharia-e-construcao">Engenharia e construção</a></b></u> | </li>
 <li class="footer2li"><a href="/servicos-empresariais">Serviços empresariais</a> | </li>

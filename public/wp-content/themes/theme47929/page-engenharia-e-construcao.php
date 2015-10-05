@@ -187,7 +187,9 @@ Com o know-how crescendo a cada ano o Grupo Rota do Brasil possui também estrat
 
 
 
-<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 100%; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #2c3e50;color: #2c3e50; max-width: 1140px;">Projetos</div>
+<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; margin-left: 30px; width: 100%; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #2c3e50;color: #2c3e50; max-width: 1140px;">Projetos</div>
+
+<div style="float: left; margin-left: 30px; width: 100%;">
 
 <div class="float-projetos">
         <div class="float-projetos-titulo">
@@ -263,19 +265,19 @@ Com o know-how crescendo a cada ano o Grupo Rota do Brasil possui também estrat
                 Cuidar e manter nossos recursos naturais é a certeza de que nossas futuras gerações terão melhores qualidade de vida e recursos disponíveis adequados.
         </div>
 </div>
-
+</div>
 
 
 <!-- Rodape interno -->
 <a href="/fale-conosco/">
-<div style="margin-left: -30px; background-image: url('/wp-content/themes/theme47929/images/header_bg_faleconosco_all.jpg');height: 200px;  background-position-y: -175px;float: left; margin-top: 40px;width: 1230px; ">
+<div style=" background-image: url('/wp-content/themes/theme47929/images/header_bg_faleconosco_all.jpg');height: 200px;  background-position-y: -175px;float: left; margin-top: 40px;width: 1230px; ">
   <div class="camera_caption fadeIn" style="position: relative; opacity: 0.8;"><div style="padding: 20px;margin: 20px;width: 115px;font-size: 16px;color: #FFFFFF;background-color: #2c3e50;text-transform: uppercase;">
                 Fale conosco
     </div></div>
 </div>
 </a>
 
-<div style="margin-left: -30px; background-color: #2c3e50; float: left; width: 1170px; padding: 30px; text-align: center;">
+<div style=" background-color: #2c3e50; float: left; width: 1170px; padding: 30px; text-align: center;">
 <ul class="footer2ul">
 <li class="footer2li"><u><b><a href="/engenharia-e-construcao">Engenharia e construção</a></b></u> | </li>
 <li class="footer2li"><a href="/servicos-empresariais">Serviços empresariais</a> | </li>

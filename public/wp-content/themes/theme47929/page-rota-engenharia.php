@@ -145,128 +145,102 @@ A Rota Engenharia Industrial foi criada com o objetivo de apresentar a máxima q
 
 
 
-<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 100%; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #2c3e50;color: #2c3e50; max-width: 1140px;">Serviços</div>
 
-<div class="float-projetos">
-        <div class="float-projetos-titulo">
-                Projetos Conceitual
-        </div>
-        
-        <div style="background-image: url('/wp-content/themes/theme47929/images/engenharia-obras-residenciais.jpg');" class="float-projetos-image">&nbsp;</div>
 
-        <div class="float-projetos-texto">
-                Muitos softwares de publicação e editores de páginas na internet agora usam Lorem Ipsum como texto-modelo padrão, e uma rápida busca por 'lorem ipsum' mostra.
-        </div>
+
+
+
+
+
+<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 100%; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #2c3e50;color: #2c3e50; max-width: 1140px; margin-bottom: 5px;">Serviços</div>
+
+
+
+
+<div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
+<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/engenharia-obras-residenciais.jpg'); background-size: cover; height: 180px;"></div>
+<div style="float: left; width: 290px;">
+<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Projetos Conceitual</div>
+<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+</div>
 </div>
 
-<div class="float-projetos">
-        <div class="float-projetos-titulo">
-               Básico e Detalhado 2D e 3D
-        </div>
-        
-        <div style="background-image: url('/wp-content/themes/theme47929/images/engenharia-obras-comerciais.jpg');" class="float-projetos-image">&nbsp;</div>
-
-        <div class="float-projetos-texto">
-                Muitos softwares de publicação e editores de páginas na internet agora usam Lorem Ipsum como texto-modelo padrão, e uma rápida busca por 'lorem ipsum' mostra.
-        </div>
+<div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
+<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/engenharia-obras-comerciais.jpg'); background-size: cover; height: 180px;"></div>
+<div style="float: left; width: 290px;">
+<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Básico e Detalhado 2D e 3D</div>
+<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+</div>
 </div>
 
-<div class="float-projetos">
-        <div class="float-projetos-titulo">
-                Arquitetonico
-        </div>
-        
-        <div style="background-image: url('/wp-content/themes/theme47929/images/engenharia-obras-industriais.jpg');" class="float-projetos-image">&nbsp;</div>
-
-        <div class="float-projetos-texto">
-                Muitos softwares de publicação e editores de páginas na internet agora usam Lorem Ipsum como texto-modelo padrão, e uma rápida busca por 'lorem ipsum' mostra.
-        </div>
+<div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
+<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/engenharia-obras-industriais.jpg'); background-size: cover; height: 180px;"></div>
+<div style="float: left; width: 290px;">
+<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Arquitetonico</div>
+<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+</div>
 </div>
 
-<div class="float-projetos">
-        <div class="float-projetos-titulo">
-                Civil
-        </div>
-        
-        <div style="background-image: url('/wp-content/themes/theme47929/images/engenharia-infraestrutura.jpg');" class="float-projetos-image">&nbsp;</div>
+<div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
+<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/engenharia-infraestrutura.jpg'); background-size: cover; height: 180px;"></div>
+<div style="float: left; width: 290px;">
+<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Civil</div>
+<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+</div>
+</div>
 
-        <div class="float-projetos-texto">
-                Muitos softwares de publicação e editores de páginas na internet agora usam Lorem Ipsum como texto-modelo padrão, e uma rápida busca por 'lorem ipsum' mostra.
-        </div>
+<div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
+<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/engenharia-agricolas.jpg'); background-size: cover; height: 180px;"></div>
+<div style="float: left; width: 290px;">
+<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Estrutural</div>
+<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+</div>
+</div>
+
+<div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
+<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/engenharia-ambiental.jpg'); background-size: cover; height: 180px;"></div>
+<div style="float: left; width: 290px;">
+<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Estrutura Metálica</div>
+<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+</div>
+</div>
+
+<div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
+<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/engenharia-ambiental.jpg'); background-size: cover; height: 180px;"></div>
+<div style="float: left; width: 290px;">
+<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Equipamentos Industriais</div>
+<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+</div>
+</div>
+
+<div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
+<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/engenharia-ambiental.jpg'); background-size: cover; height: 180px;"></div>
+<div style="float: left; width: 290px;">
+<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Infra e supra estruturas</div>
+<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+</div>
+</div>
+
+<div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
+<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/engenharia-ambiental.jpg'); background-size: cover; height: 180px;"></div>
+<div style="float: left; width: 290px;">
+<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Galpões metálicos, pré moldados e mistos.</div>
+<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+</div>
+</div>
+
+<div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
+<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/engenharia-ambiental.jpg'); background-size: cover; height: 180px;"></div>
+<div style="float: left; width: 290px;">
+<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Elétrico e Automação Industrial</div>
+<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+</div>
 </div>
 
 
-<div class="float-projetos">
-        <div class="float-projetos-titulo">
-                Estrutural
-        </div>
-        
-        <div style="background-image: url('/wp-content/themes/theme47929/images/engenharia-agricolas.jpg');" class="float-projetos-image">&nbsp;</div>
 
-        <div class="float-projetos-texto">
-                Muitos softwares de publicação e editores de páginas na internet agora usam Lorem Ipsum como texto-modelo padrão, e uma rápida busca por 'lorem ipsum' mostra.
-        </div>
-</div>
 
-<div class="float-projetos">
-        <div class="float-projetos-titulo">
-                Estrutura Metálica
-        </div>
-        
-        <div style="background-image: url('/wp-content/themes/theme47929/images/engenharia-ambiental.jpg');" class="float-projetos-image">&nbsp;</div>
 
-        <div class="float-projetos-texto">
-                Muitos softwares de publicação e editores de páginas na internet agora usam Lorem Ipsum como texto-modelo padrão, e uma rápida busca por 'lorem ipsum' mostra.
-        </div>
-</div>
-
-<div class="float-projetos">
-        <div class="float-projetos-titulo">
-                Equipamentos Industriais
-        </div>
-        
-        <div style="background-image: url('/wp-content/themes/theme47929/images/engenharia-ambiental.jpg');" class="float-projetos-image">&nbsp;</div>
-
-        <div class="float-projetos-texto">
-                Muitos softwares de publicação e editores de páginas na internet agora usam Lorem Ipsum como texto-modelo padrão, e uma rápida busca por 'lorem ipsum' mostra.
-        </div>
-</div>
-
-<div class="float-projetos">
-        <div class="float-projetos-titulo">
-                Infra e supra estruturas
-        </div>
-        
-        <div style="background-image: url('/wp-content/themes/theme47929/images/engenharia-ambiental.jpg');" class="float-projetos-image">&nbsp;</div>
-
-        <div class="float-projetos-texto">
-                Muitos softwares de publicação e editores de páginas na internet agora usam Lorem Ipsum como texto-modelo padrão, e uma rápida busca por 'lorem ipsum' mostra.
-        </div>
-</div>
-
-<div class="float-projetos">
-        <div class="float-projetos-titulo">
-                Galpões metálicos, pré moldados e mistos.
-        </div>
-        
-        <div style="background-image: url('/wp-content/themes/theme47929/images/engenharia-ambiental.jpg');" class="float-projetos-image">&nbsp;</div>
-
-        <div class="float-projetos-texto">
-                Muitos softwares de publicação e editores de páginas na internet agora usam Lorem Ipsum como texto-modelo padrão, e uma rápida busca por 'lorem ipsum' mostra.
-        </div>
-</div>
-
-<div class="float-projetos">
-        <div class="float-projetos-titulo">
-                Elétrico e Automação Industrial
-        </div>
-        
-        <div style="background-image: url('/wp-content/themes/theme47929/images/engenharia-ambiental.jpg');" class="float-projetos-image">&nbsp;</div>
-
-        <div class="float-projetos-texto">
-                Muitos softwares de publicação e editores de páginas na internet agora usam Lorem Ipsum como texto-modelo padrão, e uma rápida busca por 'lorem ipsum' mostra.
-        </div>
-</div>
 
 
 
@@ -274,7 +248,7 @@ A Rota Engenharia Industrial foi criada com o objetivo de apresentar a máxima q
 
 
 <div style="float: right; text-align: right; margin-top: 30px; border-top: solid 2px #15338a; padding-top: 10px;">
-<div style=" padding-right: 15px;"><img src="/wp-content/themes/theme47929/images/icon-googlemaps.png"><span style="color: #15338a; font-size: 14px; text-transform: uppercase;">Onde estamos: </span>Av José Faria da Rocha nº 1.028 - 4º andar B. Eldorado - Contagem - MG - CEP 32315-040
+<div><img src="/wp-content/themes/theme47929/images/icon-googlemaps.png"><span style="color: #15338a; font-size: 14px; text-transform: uppercase;">Onde estamos: </span>Av José Faria da Rocha nº 1.028 - 4º andar B. Eldorado - Contagem - MG - CEP 32315-040
 </div>
 </div>
 
@@ -289,14 +263,14 @@ A Rota Engenharia Industrial foi criada com o objetivo de apresentar a máxima q
 
 <!-- Rodape interno -->
 <a href="/fale-conosco/">
-<div style="background-image: url('/wp-content/themes/theme47929/images/header_bg_faleconosco_all.jpg');height: 200px;  background-position-y: -175px;float: left; margin-top: 40px;width: 1230px; ">
+<div style="margin-left: -30px; background-image: url('/wp-content/themes/theme47929/images/header_bg_faleconosco_all.jpg');height: 200px;  background-position-y: -175px;float: left; margin-top: 40px;width: 1230px; ">
   <div class="camera_caption fadeIn" style="position: relative; opacity: 0.8;"><div style="padding: 20px;margin: 20px;width: 115px;font-size: 16px;color: #FFFFFF;background-color: #283985;text-transform: uppercase;">
                 Fale conosco
     </div></div>
 </div>
 </a>
 
-<div style="background-color: #283985; float: left; width: 1170px; padding: 30px; text-align: center;">
+<div style="margin-left: -30px; background-color: #283985; float: left; width: 1170px; padding: 30px; text-align: center;">
 <ul class="footer2ul">
 <li class="footer2li"><u><b><a href="/engenharia-e-construcao">Engenharia e construção</a></b></u> | </li>
 <li class="footer2li"><a href="/servicos-empresariais">Serviços empresariais</a> | </li>
