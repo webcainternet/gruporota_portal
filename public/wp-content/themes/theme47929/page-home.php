@@ -121,7 +121,7 @@ get_header(); ?>
 			</div>
 		</div></a>
 
-		<a class="linkarea" href="/ambiental-e-saneamento"><div class="areaitem" style="background-color: #D4E9FF;">
+		<a class="linkarea" href="/saneamento-e-ambiental"><div class="areaitem" style="background-color: #D4E9FF;">
 			<div class="areatitulo linkarea" style="background-color: #2c3e50; /* #2c3e50;*/">Saneamento</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_saneamento.jpg');">&nbsp;</div>
 			<div class="areatexto">
@@ -153,7 +153,7 @@ get_header(); ?>
 			</div>
 		</div></a>
 
-		<a class="linkarea" href="/ambiental-e-saneamento"><div class="areaitem" style="background-color: #f0f0f0;">
+		<a class="linkarea" href="/saneamento-e-ambiental"><div class="areaitem" style="background-color: #f0f0f0;">
 			<div class="areatitulo linkarea" style="background-color: #2c3e50; /* #e74c3c;*/">Ambiental</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_ambiental.jpg'); background-size: auto 100%;">&nbsp;</div>
 			<div class="areatexto">

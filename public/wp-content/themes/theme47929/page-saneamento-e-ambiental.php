@@ -97,7 +97,7 @@ display: inline;
 
 
 
-<div><h2 style="color: #560606;">Ambiental e Saneamento</h2></div>
+<div><h2 style="color: #560606;">Saneamento e Ambiental</h2></div>
 
 <div style="text-align: justify;width: 100%;">
 As atividades de Saneamento das empresas de engenharia e construção do Grupo Rota do Brasil são monitoradas e administradas com tecnologias de ponta, trazendo agilidade e confiança para seus operadores. Para seu sucesso, o know how das construções realizadas pelo GRB passa necessáriamente por este área da engenharia na qual o brasil e outros países focam com o objetivo de reduzir outros custos como os de Saúde trazendo mais bem estar e qualidade de vida para todos os envolvidos.
