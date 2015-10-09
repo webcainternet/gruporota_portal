@@ -150,43 +150,45 @@ A frota será ampliada para melhor atender as necessidades de seus clientes, sat
 
 
 
-<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 100%; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #075d2c;color: #075d2c; max-width: 1140px;">Onde atuamos?</div>
-
+<div style="float: left; font: normal 22px Open Sans; margin-top: 0px; width: 100%; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #075d2c;color: #075d2c; max-width: 1140px;">Onde atuamos?</div>
 
 <table style="width: 100%">
 <tr>
 <td>
-<div style="float: left; width: 100%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
-<div style="float: left; width: 500px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/estrada.jpg'); background-size: cover; height: 350px;"></div>
-<div style="float: left; width: 640px;">
+
+<div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
+<div style="float: left; width: 260px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/estrada.jpg'); background-size: cover; height: 190px;"></div>
+<div style="float: left; width: 310px;">
 <div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Terrestre</div>
-<div style="text-align: justify;">Atuar em uma das maiores malhas viárias de mundo o brasil se destaca por suas empresas de transportes terrestres por onde circulam mais de 80% de suas cargas internas e com isto a Rota Logística e Transportes trabalha para melhor atende-los, trazendo soluções e pontualidade para suas encomendas.
+<div style="text-align: justify;">Atuar em uma das maiores malhas viárias de mundo o brasil se destaca por suas empresas de transportes terrestres por onde circulam mais de 80% de suas cargas internas e com isto a Rota Logística e Transportes trabalha para melhor atende-los, trazendo soluções e pontualidade para suas encomendas.</div>
 </div>
 </div>
-</div>
-</td>
-</tr>
-<tr>
-<td>
-<div style="float: left; width: 100%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
-<div style="float: left; width: 500px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/header_bg_transporte_1.jpg'); background-size: cover; height: 350px;"></div>
-<div style="float: left; width: 640px;">
+
+<div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #E6F1FD;margin-bottom: 5px;">
+<div style="float: left; width: 260px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/header_bg_transporte_1.jpg'); background-size: cover; height: 190px;"></div>
+<div style="float: left; width: 310px;">
 <div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Maritimo</div>
 <div style="text-align: justify;">Transporte de grande complexidade para cargas exigentes, o transporte maritimo liga um continente ao outro com um custo benefício estratégico trazendo maior confiança e segurança para atendimento de suas demandas e a RLT interliga estas demandas levando aos seus clientes as plataformas de transportes que melhor se adequam às suas necessidades.</div>
 </div>
 </div>
-</td>
-</tr>
-<tr>
-<td>
-<div style="float: left; width: 100%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
-<div style="float: left; width: 500px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/header_bg_transporte_2.jpg'); background-size: cover; height: 350px;"></div>
-<div style="float: left; width: 640px;">
+
+<div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
+<div style="float: left; width: 260px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/header_bg_transporte_2.jpg'); background-size: cover; height: 190px;"></div>
+<div style="float: left; width: 310px;">
 <div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Aereo</div>
 <div style="text-align: justify;">O transporte aéreo é o mais rapido e eficiente meio de transporte existente e que integra confiança e pontualidade para suas demandas e a RTL interliga estas demandas levando aos seus clientes os melhores trechos e rotas para perfeito atendimento e pontualidade de sua encomenda.</div>
 </div>
 </div>
+
+<div style="float: left; width: 50%; margin: 0px; padding: 0px; background-color: #E6F1FD;margin-bottom: 5px;">
+<div style="float: left; width: 260px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/transporte-ferroviario.jpg'); background-size: cover; height: 190px;"></div>
+<div style="float: left; width: 310px;">
+<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Transporte Ferroviário</div>
+<div style="text-align: justify;">O Transporte ferroviário no brasil é responsável por cruz o norte ao sul interligando portos secos e melhados trazendo uma alternativa para o transporte de suas mercadorias. Assim a RLT traz esta importa matriz de transporte do brasil para seus clientes.</div>
+</div>
+</div>
 </td>
+
 </tr>
 </table>
 

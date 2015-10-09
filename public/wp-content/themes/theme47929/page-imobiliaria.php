@@ -163,34 +163,34 @@ Assim, desenvolvemos uma integração on-line entre parceiros e internautas, via
 <tr>
 <td>
 
-<div style="float: left; width: 100%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
-<div style="float: left; width: 520px; margin-right: 10px; background-image: url('http://bko.com.br/wp-content/plugins/php-image-cache/image.php?path=/wp-content/uploads/2014/08/Art-Cube.jpg'); background-size: cover; height: 380px;"></div>
-<div style="float: left; width: 620px;">
-<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Empreendimento Nova Predio Teste Titulo</div>
+<div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
+<div style="float: left; width: 260px; margin-right: 10px; background-image: url('http://bko.com.br/wp-content/plugins/php-image-cache/image.php?path=/wp-content/uploads/2014/08/Art-Cube.jpg'); background-size: cover; height: 190px;"></div>
+<div style="float: left; width: 310px;">
+<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Empreendimento Teste Titulo</div>
 <div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
 </div>
 </div>
 
-<div style="float: left; width: 100%; margin: 0px; padding: 0px;background-color: #E6F1FD;margin-bottom: 5px;">
-<div style="float: left; width: 520px; margin-right: 10px; background-image: url('http://bko.com.br/wp-content/plugins/php-image-cache/image.php?path=/wp-content/uploads/2014/08/Iguatemi-SJRP.jpg'); background-size: cover; height: 380px;"></div>
-<div style="float: left; width: 620px;">
-<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Empreendimento Nova Predio Teste Titulo</div>
+<div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #E6F1FD;margin-bottom: 5px;">
+<div style="float: left; width: 260px; margin-right: 10px; background-image: url('http://bko.com.br/wp-content/plugins/php-image-cache/image.php?path=/wp-content/uploads/2014/08/Iguatemi-SJRP.jpg'); background-size: cover; height: 190px;"></div>
+<div style="float: left; width: 310px;">
+<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Empreendimento Teste Titulo</div>
 <div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
 </div>
 </div>
 
-<div style="float: left; width: 100%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
-<div style="float: left; width: 520px; margin-right: 10px; background-image: url('http://bko.com.br/wp-content/plugins/php-image-cache/image.php?path=/wp-content/uploads/2014/08/igloosantos.jpg'); background-size: cover; height: 380px;"></div>
-<div style="float: left; width: 620px;">
-<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Empreendimento Nova Predio Teste Titulo</div>
+<div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
+<div style="float: left; width: 260px; margin-right: 10px; background-image: url('http://bko.com.br/wp-content/plugins/php-image-cache/image.php?path=/wp-content/uploads/2014/08/igloosantos.jpg'); background-size: cover; height: 190px;"></div>
+<div style="float: left; width: 310px;">
+<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Empreendimento Teste Titulo</div>
 <div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
 </div>
 </div>
 
-<div style="float: left; width: 100%; margin: 0px; padding: 0px; background-color: #E6F1FD;margin-bottom: 5px;">
-<div style="float: left; width: 520px; margin-right: 10px; background-image: url('http://bko.com.br/wp-content/plugins/php-image-cache/image.php?path=/wp-content/uploads/2014/08/anaua.jpg'); background-size: cover; height: 380px;"></div>
-<div style="float: left; width: 620px;">
-<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Empreendimento Nova Predio Teste Titulo</div>
+<div style="float: left; width: 50%; margin: 0px; padding: 0px; background-color: #E6F1FD;margin-bottom: 5px;">
+<div style="float: left; width: 260px; margin-right: 10px; background-image: url('http://bko.com.br/wp-content/plugins/php-image-cache/image.php?path=/wp-content/uploads/2014/08/anaua.jpg'); background-size: cover; height: 190px;"></div>
+<div style="float: left; width: 310px;">
+<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Empreendimento Teste Titulo</div>
 <div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
 </div>
 </div>

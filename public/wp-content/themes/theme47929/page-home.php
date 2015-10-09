@@ -121,7 +121,7 @@ get_header(); ?>
 			</div>
 		</div></a>
 
-		<a class="linkarea" href="/saneamento"><div class="areaitem" style="background-color: #D4E9FF;">
+		<a class="linkarea" href="/ambiental-e-saneamento"><div class="areaitem" style="background-color: #D4E9FF;">
 			<div class="areatitulo linkarea" style="background-color: #2c3e50; /* #2c3e50;*/">Saneamento</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_saneamento.jpg');">&nbsp;</div>
 			<div class="areatexto">
@@ -153,7 +153,7 @@ get_header(); ?>
 			</div>
 		</div></a>
 
-		<a class="linkarea" href="/ambiental"><div class="areaitem" style="background-color: #f0f0f0;">
+		<a class="linkarea" href="/ambiental-e-saneamento"><div class="areaitem" style="background-color: #f0f0f0;">
 			<div class="areatitulo linkarea" style="background-color: #2c3e50; /* #e74c3c;*/">Ambiental</div>
 			<div class="areaimg" style="background-image: url('/wp-content/themes/theme47929/images/area_ambiental.jpg'); background-size: auto 100%;">&nbsp;</div>
 			<div class="areatexto">
@@ -236,229 +236,229 @@ get_header(); ?>
 									</style>
 
 									<!-- Canadá -->
-									<div class="pais-pointer" style="margin-top: <?php echo 230-148; ?>px; margin-left: <?php echo 298-72; ?>px;">
+									<a href="/fale-conosco"><div class="pais-pointer" style="margin-top: <?php echo 230-148; ?>px; margin-left: <?php echo 298-72; ?>px;">
 											<div class="pais-text">
 												<div style="background-image: url('/wp-content/themes/theme47929/images/logo.png'); background-size: 25px; background-repeat: no-repeat; padding-left: 30px;">Canadá</div>
 											</div>
 										&nbsp;
-									</div>
+									</div></a>
 
 									<!-- Estados Unidos -->
-									<div class="pais-pointer" style="margin-top: <?php echo 272-148; ?>px; margin-left: <?php echo 278-72; ?>px;">
+									<a href="/fale-conosco"><div class="pais-pointer" style="margin-top: <?php echo 272-148; ?>px; margin-left: <?php echo 278-72; ?>px;">
 										<div class="pais-text">
 											<div style="background-image: url('/wp-content/themes/theme47929/images/logo.png'); background-size: 25px; background-repeat: no-repeat; padding-left: 30px;">Estados Unidos</div>
 										</div>
 										&nbsp;
-									</div>
+									</div></a>
 
 									<!-- México -->
-									<div class="pais-pointer" style="margin-top: <?php echo 316-148; ?>px; margin-left: <?php echo 261-72; ?>px;">
+									<a href="/fale-conosco"><div class="pais-pointer" style="margin-top: <?php echo 316-148; ?>px; margin-left: <?php echo 261-72; ?>px;">
 										<div class="pais-text">
 											<div style="background-image: url('/wp-content/themes/theme47929/images/logo.png'); background-size: 25px; background-repeat: no-repeat; padding-left: 30px;">México</div>
 										</div>
 										&nbsp;
-									</div>
+									</div></a>
 
 									<!-- Honduras -->
-									<div class="pais-pointer" style="margin-top: <?php echo 333-148; ?>px; margin-left: <?php echo 291-72; ?>px;">
+									<a href="/fale-conosco"><div class="pais-pointer" style="margin-top: <?php echo 333-148; ?>px; margin-left: <?php echo 291-72; ?>px;">
 										<div class="pais-text">
 											<div style="background-image: url('/wp-content/themes/theme47929/images/logo.png'); background-size: 25px; background-repeat: no-repeat; padding-left: 30px;">Honduras</div>
 										</div>
 										&nbsp;
-									</div>
+									</div></a>
 
 									<!-- Costa Rica -->
-									<div class="pais-pointer" style="margin-top: <?php echo 353-148; ?>px; margin-left: <?php echo 288-72; ?>px;">
+									<a href="/fale-conosco"><div class="pais-pointer" style="margin-top: <?php echo 353-148; ?>px; margin-left: <?php echo 288-72; ?>px;">
 										<div class="pais-text">
 											<div style="background-image: url('/wp-content/themes/theme47929/images/logo.png'); background-size: 25px; background-repeat: no-repeat; padding-left: 30px;">Costa Rica</div>
 										</div>
 										&nbsp;
-									</div>
+									</div></a>
 
 									<!-- Panamá -->
-									<div class="pais-pointer" style="margin-top: <?php echo 348-148; ?>px; margin-left: <?php echo 302-72; ?>px;">
+									<a href="/fale-conosco"><div class="pais-pointer" style="margin-top: <?php echo 348-148; ?>px; margin-left: <?php echo 302-72; ?>px;">
 										<div class="pais-text">
 											<div style="background-image: url('/wp-content/themes/theme47929/images/logo.png'); background-size: 25px; background-repeat: no-repeat; padding-left: 30px;">Panamá</div>
 										</div>
 										&nbsp;
-									</div>
+									</div></a>
 
 									<!-- Colombia -->
-									<div class="pais-pointer" style="margin-top: <?php echo 363-148; ?>px; margin-left: <?php echo 315-72; ?>px;">
+									<a href="/fale-conosco"><div class="pais-pointer" style="margin-top: <?php echo 363-148; ?>px; margin-left: <?php echo 315-72; ?>px;">
 										<div class="pais-text">
 											<div style="background-image: url('/wp-content/themes/theme47929/images/logo.png'); background-size: 25px; background-repeat: no-repeat; padding-left: 30px;">Colombia</div>
 										</div>
 										&nbsp;
-									</div>
+									</div></a>
 
 									<!-- Venezuela -->
-									<div class="pais-pointer" style="margin-top: <?php echo 358-148; ?>px; margin-left: <?php echo 332-72; ?>px;">
+									<a href="/fale-conosco"><div class="pais-pointer" style="margin-top: <?php echo 358-148; ?>px; margin-left: <?php echo 332-72; ?>px;">
 										<div class="pais-text">
 											<div style="background-image: url('/wp-content/themes/theme47929/images/logo.png'); background-size: 25px; background-repeat: no-repeat; padding-left: 30px;">Venezuela</div>
 										</div>
 										&nbsp;
-									</div>
+									</div></a>
 
 									<!-- Peru -->
-									<div class="pais-pointer" style="margin-top: <?php echo 398-148; ?>px; margin-left: <?php echo 312-72; ?>px;">
+									<a href="/fale-conosco"><div class="pais-pointer" style="margin-top: <?php echo 398-148; ?>px; margin-left: <?php echo 312-72; ?>px;">
 										<div class="pais-text">
 											<div style="background-image: url('/wp-content/themes/theme47929/images/logo.png'); background-size: 25px; background-repeat: no-repeat; padding-left: 30px;">Peru</div>
 										</div>
 										&nbsp;
-									</div>
+									</div></a>
 
 									<!-- Brasil -->
-									<div class="pais-pointer" style="margin-top: <?php echo 402-148; ?>px; margin-left: <?php echo 368-72; ?>px;">
+									<a href="/fale-conosco"><div class="pais-pointer" style="margin-top: <?php echo 402-148; ?>px; margin-left: <?php echo 368-72; ?>px;">
 										<div class="pais-text">
 											<div style="background-image: url('/wp-content/themes/theme47929/images/logo.png'); background-size: 25px; background-repeat: no-repeat; padding-left: 30px;">Brasil</div>
 										</div>
 										&nbsp;
-									</div>
+									</div></a>
 
 									<!-- Uruguai -->
-									<div class="pais-pointer" style="margin-top: <?php echo 452-148; ?>px; margin-left: <?php echo 358-72; ?>px;">
+									<a href="/fale-conosco"><div class="pais-pointer" style="margin-top: <?php echo 452-148; ?>px; margin-left: <?php echo 358-72; ?>px;">
 										<div class="pais-text">
 											<div style="background-image: url('/wp-content/themes/theme47929/images/logo.png'); background-size: 25px; background-repeat: no-repeat; padding-left: 30px;">Uruguai</div>
 										</div>
 										&nbsp;
-									</div>
+									</div></a>
 
 									<!-- Chile -->
-									<div class="pais-pointer" style="margin-top: <?php echo 452-148; ?>px; margin-left: <?php echo 328-72; ?>px;">
+									<a href="/fale-conosco"><div class="pais-pointer" style="margin-top: <?php echo 452-148; ?>px; margin-left: <?php echo 328-72; ?>px;">
 										<div class="pais-text">
 											<div style="background-image: url('/wp-content/themes/theme47929/images/logo.png'); background-size: 25px; background-repeat: no-repeat; padding-left: 30px;">Chile</div>
 										</div>
 										&nbsp;
-									</div>
+									</div></a>
 
 
 									<!-- Portugal -->
-									<div class="pais-pointer" style="margin-top: <?php echo 285-148; ?>px; margin-left: <?php echo 453-72; ?>px;">
+									<a href="/fale-conosco"><div class="pais-pointer" style="margin-top: <?php echo 285-148; ?>px; margin-left: <?php echo 453-72; ?>px;">
 										<div class="pais-text">
 											<div style="background-image: url('/wp-content/themes/theme47929/images/logo.png'); background-size: 25px; background-repeat: no-repeat; padding-left: 30px;">Portugal</div>
 										</div>
 										&nbsp;
-									</div>
+									</div></a>
 
 									<!-- Espanha -->
-									<div class="pais-pointer" style="margin-top: <?php echo 279-148; ?>px; margin-left: <?php echo 463-72; ?>px;">
+									<a href="/fale-conosco"><div class="pais-pointer" style="margin-top: <?php echo 279-148; ?>px; margin-left: <?php echo 463-72; ?>px;">
 										<div class="pais-text">
 											<div style="background-image: url('/wp-content/themes/theme47929/images/logo.png'); background-size: 25px; background-repeat: no-repeat; padding-left: 30px;">Espanha</div>
 										</div>
 										&nbsp;
-									</div>
+									</div></a>
 
 									<!-- Argélia -->
-									<div class="pais-pointer" style="margin-top: <?php echo 310-148; ?>px; margin-left: <?php echo 473-72; ?>px;">
+									<a href="/fale-conosco"><div class="pais-pointer" style="margin-top: <?php echo 310-148; ?>px; margin-left: <?php echo 473-72; ?>px;">
 										<div class="pais-text">
 											<div style="background-image: url('/wp-content/themes/theme47929/images/logo.png'); background-size: 25px; background-repeat: no-repeat; padding-left: 30px;">Argélia</div>
 										</div>
 										&nbsp;
-									</div>
+									</div></a>
 
 									<!-- Costa do Marfim -->
-									<div class="pais-pointer" style="margin-top: <?php echo 356-148; ?>px; margin-left: <?php echo 457-72; ?>px;">
+									<a href="/fale-conosco"><div class="pais-pointer" style="margin-top: <?php echo 356-148; ?>px; margin-left: <?php echo 457-72; ?>px;">
 										<div class="pais-text">
 											<div style="background-image: url('/wp-content/themes/theme47929/images/logo.png'); background-size: 25px; background-repeat: no-repeat; padding-left: 30px;">Costa do Marfim</div>
 										</div>
 										&nbsp;
-									</div>
+									</div></a>
 
 									<!-- Ghana -->
-									<div class="pais-pointer" style="margin-top: <?php echo 352-148; ?>px; margin-left: <?php echo 467-72; ?>px;">
+									<a href="/fale-conosco"><div class="pais-pointer" style="margin-top: <?php echo 352-148; ?>px; margin-left: <?php echo 467-72; ?>px;">
 										<div class="pais-text">
 											<div style="background-image: url('/wp-content/themes/theme47929/images/logo.png'); background-size: 25px; background-repeat: no-repeat; padding-left: 30px;">Ghana</div>
 										</div>
 										&nbsp;
-									</div>
+									</div></a>
 
 									<!-- Nigéria -->
-									<div class="pais-pointer" style="margin-top: <?php echo 350-148; ?>px; margin-left: <?php echo 487-72; ?>px;">
+									<a href="/fale-conosco"><div class="pais-pointer" style="margin-top: <?php echo 350-148; ?>px; margin-left: <?php echo 487-72; ?>px;">
 										<div class="pais-text">
 											<div style="background-image: url('/wp-content/themes/theme47929/images/logo.png'); background-size: 25px; background-repeat: no-repeat; padding-left: 30px;">Nigéria</div>
 										</div>
 										&nbsp;
-									</div>
+									</div></a>
 
 									<!-- Angola -->
-									<div class="pais-pointer" style="margin-top: <?php echo 395-148; ?>px; margin-left: <?php echo 507-72; ?>px;">
+									<a href="/fale-conosco"><div class="pais-pointer" style="margin-top: <?php echo 395-148; ?>px; margin-left: <?php echo 507-72; ?>px;">
 										<div class="pais-text">
 											<div style="background-image: url('/wp-content/themes/theme47929/images/logo.png'); background-size: 25px; background-repeat: no-repeat; padding-left: 30px;">Angola</div>
 										</div>
 										&nbsp;
-									</div>
+									</div></a>
 
 									<!-- África do Sul -->
-									<div class="pais-pointer" style="margin-top: <?php echo 435-148; ?>px; margin-left: <?php echo 517-72; ?>px;">
+									<a href="/fale-conosco"><div class="pais-pointer" style="margin-top: <?php echo 435-148; ?>px; margin-left: <?php echo 517-72; ?>px;">
 										<div class="pais-text">
 											<div style="background-image: url('/wp-content/themes/theme47929/images/logo.png'); background-size: 25px; background-repeat: no-repeat; padding-left: 30px;">África do Sul</div>
 										</div>
 										&nbsp;
-									</div>
+									</div></a>
 
 									<!-- Moçambique -->
-									<div class="pais-pointer" style="margin-top: <?php echo 415-148; ?>px; margin-left: <?php echo 545-72; ?>px;">
+									<a href="/fale-conosco"><div class="pais-pointer" style="margin-top: <?php echo 415-148; ?>px; margin-left: <?php echo 545-72; ?>px;">
 										<div class="pais-text">
 											<div style="background-image: url('/wp-content/themes/theme47929/images/logo.png'); background-size: 25px; background-repeat: no-repeat; padding-left: 30px;">Moçambique</div>
 										</div>
 										&nbsp;
-									</div>
+									</div></a>
 
 									<!-- Arabia Saudita -->
-									<div class="pais-pointer" style="margin-top: <?php echo 315-148; ?>px; margin-left: <?php echo 555-72; ?>px;">
+									<a href="/fale-conosco"><div class="pais-pointer" style="margin-top: <?php echo 315-148; ?>px; margin-left: <?php echo 555-72; ?>px;">
 										<div class="pais-text">
 											<div style="background-image: url('/wp-content/themes/theme47929/images/logo.png'); background-size: 25px; background-repeat: no-repeat; padding-left: 30px;">Arabia Saudita</div>
 										</div>
 										&nbsp;
-									</div>
+									</div></a>
 
 									<!-- India -->
-									<div class="pais-pointer" style="margin-top: <?php echo 315-148; ?>px; margin-left: <?php echo 630-72; ?>px;">
+									<a href="/fale-conosco"><div class="pais-pointer" style="margin-top: <?php echo 315-148; ?>px; margin-left: <?php echo 630-72; ?>px;">
 										<div class="pais-text">
 											<div style="background-image: url('/wp-content/themes/theme47929/images/logo.png'); background-size: 25px; background-repeat: no-repeat; padding-left: 30px;">India</div>
 										</div>
 										&nbsp;
-									</div>
+									</div></a>
 
 									<!-- China -->
-									<div class="pais-pointer" style="margin-top: <?php echo 290-148; ?>px; margin-left: <?php echo 670-72; ?>px;">
+									<a href="/fale-conosco"><div class="pais-pointer" style="margin-top: <?php echo 290-148; ?>px; margin-left: <?php echo 670-72; ?>px;">
 										<div class="pais-text">
 											<div style="background-image: url('/wp-content/themes/theme47929/images/logo.png'); background-size: 25px; background-repeat: no-repeat; padding-left: 30px;">China</div>
 										</div>
 										&nbsp;
-									</div>
+									</div></a>
 
 									<!-- Australia -->
-									<div class="pais-pointer" style="margin-top: <?php echo 440-148; ?>px; margin-left: <?php echo 750-72; ?>px;">
+									<a href="/fale-conosco"><div class="pais-pointer" style="margin-top: <?php echo 440-148; ?>px; margin-left: <?php echo 750-72; ?>px;">
 										<div class="pais-text">
 											<div style="background-image: url('/wp-content/themes/theme47929/images/logo.png'); background-size: 25px; background-repeat: no-repeat; padding-left: 30px;">Australia</div>
 										</div>
 										&nbsp;
-									</div>
+									</div></a>
 
 									<!-- Bélgica -->
-									<div class="pais-pointer" style="margin-top: <?php echo 253-148; ?>px; margin-left: <?php echo 477-72; ?>px;">
+									<a href="/fale-conosco"><div class="pais-pointer" style="margin-top: <?php echo 253-148; ?>px; margin-left: <?php echo 477-72; ?>px;">
 										<div class="pais-text">
 											<div style="background-image: url('/wp-content/themes/theme47929/images/logo.png'); background-size: 25px; background-repeat: no-repeat; padding-left: 30px;">Bélgica</div>
 										</div>
 										&nbsp;
-									</div>
+									</div></a>
 
 									<!-- Alemanha -->
-									<div class="pais-pointer" style="margin-top: <?php echo 248-148; ?>px; margin-left: <?php echo 490-72; ?>px;">
+									<a href="/fale-conosco"><div class="pais-pointer" style="margin-top: <?php echo 248-148; ?>px; margin-left: <?php echo 490-72; ?>px;">
 										<div class="pais-text">
 											<div style="background-image: url('/wp-content/themes/theme47929/images/logo.png'); background-size: 25px; background-repeat: no-repeat; padding-left: 30px;">Alemanha</div>
 										</div>
 										&nbsp;
-									</div>
+									</div></a>
 
 									<!-- Luxemburgo -->
-									<div class="pais-pointer" style="margin-top: <?php echo 265-148; ?>px; margin-left: <?php echo 486-72; ?>px;">
+									<a href="/fale-conosco"><div class="pais-pointer" style="margin-top: <?php echo 265-148; ?>px; margin-left: <?php echo 486-72; ?>px;">
 										<div class="pais-text">
 											<div style="background-image: url('/wp-content/themes/theme47929/images/logo.png'); background-size: 25px; background-repeat: no-repeat; padding-left: 30px;">Luxemburgo</div>
 										</div>
 										&nbsp;
-									</div>
+									</div></a>
 
 								</div>
 

@@ -187,35 +187,35 @@ Trabalhar com ética,qualidade,Fidelidade com os objetivos da Empresa, Lealdade,
 </div>
 
 <div class="float-projetos">
-        <div style="background-image: url('/wp-content/uploads/2015/08/290720111395.jpg');" class="float-projetos-image">&nbsp;</div>
+        <div style="background-image: url('/wp-content/themes/theme47929/images/construtora-1a.jpg');" class="float-projetos-image">&nbsp;</div>
 </div>
 
 <div class="float-projetos">
-        <div style="background-image: url('/wp-content/uploads/2015/08/220720111379.jpg');" class="float-projetos-image">&nbsp;</div>
+        <div style="background-image: url('/wp-content/themes/theme47929/images/construtora-2a.jpg');" class="float-projetos-image">&nbsp;</div>
 </div>
 
 <div class="float-projetos">
-        <div style="background-image: url('/wp-content/uploads/2015/08/180620111263.jpg');" class="float-projetos-image">&nbsp;</div>
+        <div style="background-image: url('/wp-content/themes/theme47929/images/construtora-3a.jpg');" class="float-projetos-image">&nbsp;</div>
 </div>
 
 <div class="float-projetos">
-        <div style="background-image: url('/wp-content/uploads/2015/08/10122010946.jpg');" class="float-projetos-image">&nbsp;</div>
+        <div style="background-image: url('/wp-content/themes/theme47929/images/construtora-4a.jpg');" class="float-projetos-image">&nbsp;</div>
 </div>
 
 <div class="float-projetos">
-        <div style="background-image: url('/wp-content/uploads/2015/08/290720111395.jpg');" class="float-projetos-image">&nbsp;</div>
+        <div style="background-image: url('/wp-content/themes/theme47929/images/construtora-5a.jpg');" class="float-projetos-image">&nbsp;</div>
 </div>
 
 <div class="float-projetos">
-        <div style="background-image: url('/wp-content/uploads/2015/08/220720111379.jpg');" class="float-projetos-image">&nbsp;</div>
+        <div style="background-image: url('/wp-content/themes/theme47929/images/construtora-6.jpg');" class="float-projetos-image">&nbsp;</div>
 </div>
 
 <div class="float-projetos">
-        <div style="background-image: url('/wp-content/uploads/2015/08/180620111263.jpg');" class="float-projetos-image">&nbsp;</div>
+        <div style="background-image: url('/wp-content/themes/theme47929/images/construtora-7.jpg');" class="float-projetos-image">&nbsp;</div>
 </div>
 
 <div class="float-projetos">
-        <div style="background-image: url('/wp-content/uploads/2015/08/10122010946.jpg');" class="float-projetos-image">&nbsp;</div>
+        <div style="background-image: url('/wp-content/themes/theme47929/images/construtora-8.jpg');" class="float-projetos-image">&nbsp;</div>
 </div>
 
 

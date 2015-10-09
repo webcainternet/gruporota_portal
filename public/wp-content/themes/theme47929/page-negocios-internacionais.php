@@ -5,6 +5,35 @@
 
 get_header(); ?>
 
+<script type="text/javascript">
+	function AlteraIdiomabtnTrPortuguese() {
+		$("#btnTrPortuguese").click();
+	}
+	function AlteraIdiomabtnTrEnglish() {
+		$("#btnTrEnglish").click();
+	}
+	function AlteraIdiomabtnTrSpanish() {
+		$("#btnTrSpanish").click();
+	}
+	function AlteraIdiomabtnTrFrench() {
+		$("#btnTrFrench").click();
+	}
+</script>
+
+
+<div style="display: none;">
+	<div>
+		<div class="tool-items">
+			<a id="btnTrEnglish" title="English" class="notranslate flag en tool-item gradient">English</a>
+			<a id="btnTrFrench" title="French" class="notranslate flag fr tool-item gradient">French</a>
+			<a id="btnTrPortuguese" title="Portuguese" class="notranslate flag pt tool-item gradient">Portuguese</a>
+			<a id="btnTrSpanish" title="Spanish" class="notranslate flag es tool-item gradient">Spanish</a>
+		</div>
+		<div class="arrow" style="left: auto; right: 67.4062px;"></div>
+	</div>
+</div>
+
+
 <style type="text/css">
 .header {
   height: 370px;
@@ -186,25 +215,23 @@ textarea, select {
 <div style="float: left; font: normal 22px Open Sans; margin-top: 0px; width: 100%; padding: 10px 10px 0px;border-bottom: solid 2px #AB9632;color: #AB9632; max-width: 1150px; margin-bottom: 15px; margin-top: 30px;">
 
 
-<div class="abacontinentesel"><a class="abalinksel" onclick="javascript: FechaNoticias(); $('#destAN').show();">América do Norte</a></div>
-<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAC').show();">América Central</a></div>
-<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAS').show();">América do Sul</a></div>
+<div class="abacontinentesel"><a class="abalinksel" onclick="javascript: FechaNoticias(); $('#destAN').show();">Américas</a></div>
 <div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destEU').show();">Europa</a></div>
 <div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAI').show();">Asia</a></div>
 <div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAF').show();">Africa</a></div>
-<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destOC').show();">Oceania</a></div>
+<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destOC').show();">Oriente Médio</a></div>
 
 </div> 
 
 <div style="float: left; width: 800px;margin-top: -25px;">
 
 <div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width:770px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #AB9632;color: #AB9632;margin-bottom: 15px;">
-	Destaques: América do Norte
+	Destaques: Américas
 </div>
 
 <div class="novoticket" style="float: left;  width: 100%;">
 <?php 
-    echo do_shortcode("[metaslider id=2601]"); 
+    echo do_shortcode("[metaslider id=3015]"); 
 ?>
 </div>
 </div>
@@ -213,10 +240,20 @@ textarea, select {
 <div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width:310px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #AB9632;color: #AB9632;margin-bottom: 15px;">Últimas Notícias</div>
 
 <div class="novoticket" style="float: left;  width: 100%;">
-<a class="noticiaslinks" href="">Teste pesquisa traça perfil de vítimas de violência doméstica (Diário de Pernambuco – 28/08/2015)</a><br>&nbsp;<br>
-<a class="noticiaslinks" href="">Lei específica não será efetiva sem mudança na mentalidade social (Blasting News – 28/08/2015)</a><br>&nbsp;<br>
-<a class="noticiaslinks" href="">Juíza defende a criação de banco de dados de homicídios de mulheres (Jornal do Brasil – 28/08/2015)</a><br>&nbsp;<br>
-<a class="noticiaslinks" href="">Leis Maria da Penha e do Feminicídio em pauta em seminário nesta sexta (Diário de Pernambuco – 28/08/2015)</a><br>&nbsp;<br>
+<?php
+$url = "http://rss.cnn.com/rss/edition_americas.rss"; // url to parse
+$rss = simplexml_load_file($url); // XML parser
+?>
+<?php
+$i = 0; // counter
+foreach($rss->channel->item as $item) {
+if ($i < 10) { // parse only 10 items
+    print '<a class="noticiaslinks" href="'.$item->link.'">'.$item->title.'</a><br>&nbsp;<br>';
+}
+
+$i++;
+}
+?>
 </div>
 </div>
 </div>
@@ -230,13 +267,11 @@ textarea, select {
 <div style="float: left; font: normal 22px Open Sans; margin-top: 0px; width: 100%; padding: 10px 10px 0px;border-bottom: solid 2px #AB9632;color: #AB9632; max-width: 1150px; margin-bottom: 15px; margin-top: 30px;">
 
 
-<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAN').show();">América do Norte</a></div>
-<div class="abacontinentesel"><a class="abalinksel" onclick="javascript: FechaNoticias(); $('#destAC').show();">América Central</a></div>
-<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAS').show();">América do Sul</a></div>
+<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAN').show();">Américas</a></div>
 <div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destEU').show();">Europa</a></div>
 <div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAI').show();">Asia</a></div>
 <div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAF').show();">Africa</a></div>
-<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destOC').show();">Oceania</a></div>
+<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destOC').show();">Oriente Médio</a></div>
 
 </div> 
 
@@ -257,10 +292,16 @@ textarea, select {
 <div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width:310px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #AB9632;color: #AB9632;margin-bottom: 15px;">Últimas Notícias</div>
 
 <div class="novoticket" style="float: left;  width: 100%;">
-<a class="noticiaslinks" href="">Lei específica não será efetiva sem mudança na mentalidade social (Blasting News – 28/08/2015)</a><br>&nbsp;<br>
-<a class="noticiaslinks" href="">Juíza defende a criação de banco de dados de homicídios de mulheres (Jornal do Brasil – 28/08/2015)</a><br>&nbsp;<br>
-<a class="noticiaslinks" href="">Leis Maria da Penha e do Feminicídio em pauta em seminário nesta sexta (Diário de Pernambuco – 28/08/2015)</a><br>&nbsp;<br>
-<a class="noticiaslinks" href="">Lei do Feminicídio encara a misoginia (Gazeta do Povo – 28/08/2015)</a><br>&nbsp;<br>
+<?php
+$i = 0; // counter
+foreach($rss->channel->item as $item) {
+if ($i < 10) { // parse only 10 items
+    print '<a class="noticiaslinks" href="'.$item->link.'">'.$item->title.'</a><br>&nbsp;<br>';
+}
+
+$i++;
+}
+?>
 </div>
 </div>
 </div>
@@ -272,13 +313,11 @@ textarea, select {
 <div style="float: left; font: normal 22px Open Sans; margin-top: 0px; width: 100%; padding: 10px 10px 0px;border-bottom: solid 2px #AB9632;color: #AB9632; max-width: 1150px; margin-bottom: 15px; margin-top: 30px;">
 
 
-<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAN').show();">América do Norte</a></div>
-<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAC').show();">América Central</a></div>
-<div class="abacontinentesel"><a class="abalinksel" onclick="javascript: FechaNoticias(); $('#destAS').show();">América do Sul</a></div>
+<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAN').show();">Américas</a></div>
 <div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destEU').show();">Europa</a></div>
 <div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAI').show();">Asia</a></div>
 <div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAF').show();">Africa</a></div>
-<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destOC').show();">Oceania</a></div>
+<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destOC').show();">Oriente Médio</a></div>
 
 </div> 
 
@@ -299,9 +338,16 @@ textarea, select {
 <div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width:310px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #AB9632;color: #AB9632;margin-bottom: 15px;">Últimas Notícias</div>
 
 <div class="novoticket" style="float: left;  width: 100%;">
-<a class="noticiaslinks" href="">Pesquisa traça perfil de vítimas de violência doméstica (Diário de Pernambuco – 28/08/2015)</a><br>&nbsp;<br>
-<a class="noticiaslinks" href="">Leis Maria da Penha e do Feminicídio em pauta em seminário nesta sexta (Diário de Pernambuco – 28/08/2015)</a><br>&nbsp;<br>
-<a class="noticiaslinks" href="">Lei do Feminicídio encara a misoginia (Gazeta do Povo – 28/08/2015)</a><br>&nbsp;<br>
+<?php
+$i = 0; // counter
+foreach($rss->channel->item as $item) {
+if ($i < 10) { // parse only 10 items
+    print '<a class="noticiaslinks" href="'.$item->link.'">'.$item->title.'</a><br>&nbsp;<br>';
+}
+
+$i++;
+}
+?>
 </div>
 </div>
 </div>
@@ -313,13 +359,11 @@ textarea, select {
 <div style="float: left; font: normal 22px Open Sans; margin-top: 0px; width: 100%; padding: 10px 10px 0px;border-bottom: solid 2px #AB9632;color: #AB9632; max-width: 1150px; margin-bottom: 15px; margin-top: 30px;">
 
 
-<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAN').show();">América do Norte</a></div>
-<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAC').show();">América do Sul</a></div>
-<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAS').show();">América do Sul</a></div>
+<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAN').show();">Américas</a></div>
 <div class="abacontinentesel"><a class="abalinksel" onclick="javascript: FechaNoticias(); $('#destEU').show();">Europa</a></div>
 <div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAI').show();">Asia</a></div>
 <div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAF').show();">Africa</a></div>
-<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destOC').show();">Oceania</a></div>
+<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destOC').show();">Oriente Médio</a></div>
 
 </div> 
 
@@ -331,7 +375,7 @@ textarea, select {
 
 <div class="novoticket" style="float: left;  width: 100%;">
 <?php 
-    echo do_shortcode("[metaslider id=2601]"); 
+    echo do_shortcode("[metaslider id=3017]"); 
 ?>
 </div>
 </div>
@@ -340,8 +384,20 @@ textarea, select {
 <div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width:310px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #AB9632;color: #AB9632;margin-bottom: 15px;">Últimas Notícias</div>
 
 <div class="novoticket" style="float: left;  width: 100%;">
-<a class="noticiaslinks" href="">Pesquisa traça perfil de vítimas de violência doméstica (Diário de Pernambuco – 28/08/2015)</a><br>&nbsp;<br>
-<a class="noticiaslinks" href="">Lei do Feminicídio encara a misoginia (Gazeta do Povo – 28/08/2015)</a><br>&nbsp;<br>
+<?php
+$url = "http://rss.cnn.com/rss/edition_europe.rss"; // url to parse
+$rss = simplexml_load_file($url); // XML parser
+?>
+<?php
+$i = 0; // counter
+foreach($rss->channel->item as $item) {
+if ($i < 10) { // parse only 10 items
+    print '<a class="noticiaslinks" href="'.$item->link.'">'.$item->title.'</a><br>&nbsp;<br>';
+}
+
+$i++;
+}
+?>
 </div>
 </div>
 </div>
@@ -353,13 +409,11 @@ textarea, select {
 <div style="float: left; font: normal 22px Open Sans; margin-top: 0px; width: 100%; padding: 10px 10px 0px;border-bottom: solid 2px #AB9632;color: #AB9632; max-width: 1150px; margin-bottom: 15px; margin-top: 30px;">
 
 
-<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAN').show();">América do Norte</a></div>
-<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAC').show();">América do Sul</a></div>
-<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAS').show();">América do Sul</a></div>
+<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAN').show();">Américas</a></div>
 <div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destEU').show();">Europa</a></div>
 <div class="abacontinentesel"><a class="abalinksel" onclick="javascript: FechaNoticias(); $('#destAI').show();">Asia</a></div>
 <div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAF').show();">Africa</a></div>
-<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destOC').show();">Oceania</a></div>
+<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destOC').show();">Oriente Médio</a></div>
 
 </div> 
 
@@ -371,7 +425,7 @@ textarea, select {
 
 <div class="novoticket" style="float: left;  width: 100%;">
 <?php 
-    echo do_shortcode("[metaslider id=2601]"); 
+    echo do_shortcode("[metaslider id=3020]"); 
 ?>
 </div>
 </div>
@@ -380,10 +434,20 @@ textarea, select {
 <div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width:310px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #AB9632;color: #AB9632;margin-bottom: 15px;">Últimas Notícias</div>
 
 <div class="novoticket" style="float: left;  width: 100%;">
-<a class="noticiaslinks" href="">Pesquisa traça perfil de vítimas de violência doméstica (Diário de Pernambuco – 28/08/2015)</a><br>&nbsp;<br>
-<a class="noticiaslinks" href="">Lei específica não será efetiva sem mudança na mentalidade social (Blasting News – 28/08/2015)</a><br>&nbsp;<br>
-<a class="noticiaslinks" href="">Juíza defende a criação de banco de dados de homicídios de mulheres (Jornal do Brasil – 28/08/2015)</a><br>&nbsp;<br>
-<a class="noticiaslinks" href="">Leis Maria da Penha e do Feminicídio em pauta em seminário nesta sexta (Diário de Pernambuco – 28/08/2015)</a><br>&nbsp;<br>
+<?php
+$url = "http://rss.cnn.com/rss/edition_asia.rss"; // url to parse
+$rss = simplexml_load_file($url); // XML parser
+?>
+<?php
+$i = 0; // counter
+foreach($rss->channel->item as $item) {
+if ($i < 10) { // parse only 10 items
+    print '<a class="noticiaslinks" href="'.$item->link.'">'.$item->title.'</a><br>&nbsp;<br>';
+}
+
+$i++;
+}
+?>
 </div>
 </div>
 </div>
@@ -395,13 +459,11 @@ textarea, select {
 <div style="float: left; font: normal 22px Open Sans; margin-top: 0px; width: 100%; padding: 10px 10px 0px;border-bottom: solid 2px #AB9632;color: #AB9632; max-width: 1150px; margin-bottom: 15px; margin-top: 30px;">
 
 
-<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAN').show();">América do Norte</a></div>
-<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAC').show();">América do Sul</a></div>
-<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAS').show();">América do Sul</a></div>
+<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAN').show();">Américas</a></div>
 <div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destEU').show();">Europa</a></div>
 <div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAI').show();">Asia</a></div>
 <div class="abacontinentesel"><a class="abalinksel" onclick="javascript: FechaNoticias(); $('#destAF').show();">Africa</a></div>
-<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destOC').show();">Oceania</a></div>
+<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destOC').show();">Oriente Médio</a></div>
 
 </div> 
 
@@ -413,7 +475,7 @@ textarea, select {
 
 <div class="novoticket" style="float: left;  width: 100%;">
 <?php 
-    echo do_shortcode("[metaslider id=2601]"); 
+    echo do_shortcode("[metaslider id=3023]"); 
 ?>
 </div>
 </div>
@@ -422,11 +484,20 @@ textarea, select {
 <div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width:310px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #AB9632;color: #AB9632;margin-bottom: 15px;">Últimas Notícias</div>
 
 <div class="novoticket" style="float: left;  width: 100%;">
-<a class="noticiaslinks" href="">Pesquisa traça perfil de vítimas de violência doméstica (Diário de Pernambuco – 28/08/2015)</a><br>&nbsp;<br>
-<a class="noticiaslinks" href="">Lei específica não será efetiva sem mudança na mentalidade social (Blasting News – 28/08/2015)</a><br>&nbsp;<br>
-<a class="noticiaslinks" href="">Juíza defende a criação de banco de dados de homicídios de mulheres (Jornal do Brasil – 28/08/2015)</a><br>&nbsp;<br>
-<a class="noticiaslinks" href="">Leis Maria da Penha e do Feminicídio em pauta em seminário nesta sexta (Diário de Pernambuco – 28/08/2015)</a><br>&nbsp;<br>
-<a class="noticiaslinks" href="">Lei do Feminicídio encara a misoginia (Gazeta do Povo – 28/08/2015)</a><br>&nbsp;<br>
+<?php
+$url = "http://rss.cnn.com/rss/edition_africa.rss"; // url to parse
+$rss = simplexml_load_file($url); // XML parser
+?>
+<?php
+$i = 0; // counter
+foreach($rss->channel->item as $item) {
+if ($i < 10) { // parse only 10 items
+    print '<a class="noticiaslinks" href="'.$item->link.'">'.$item->title.'</a><br>&nbsp;<br>';
+}
+
+$i++;
+}
+?>
 </div>
 </div>
 </div>
@@ -439,25 +510,23 @@ textarea, select {
 <div style="float: left; font: normal 22px Open Sans; margin-top: 0px; width: 100%; padding: 10px 10px 0px;border-bottom: solid 2px #AB9632;color: #AB9632; max-width: 1150px; margin-bottom: 15px; margin-top: 30px;">
 
 
-<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAN').show();">América do Norte</a></div>
-<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAC').show();">América do Sul</a></div>
-<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAS').show();">América do Sul</a></div>
+<div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAN').show();">Américas</a></div>
 <div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destEU').show();">Europa</a></div>
 <div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAI').show();">Asia</a></div>
 <div class="abacontinente"><a class="abalink" onclick="javascript: FechaNoticias(); $('#destAF').show();">Africa</a></div>
-<div class="abacontinentesel"><a class="abalinksel" onclick="javascript: FechaNoticias(); $('#destOC').show();">Oceania</a></div>
+<div class="abacontinentesel"><a class="abalinksel" onclick="javascript: FechaNoticias(); $('#destOC').show();">Oriente Médio</a></div>
 
 </div> 
 
 <div style="float: left; width: 800px;margin-top: -25px;">
 
 <div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width:770px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #AB9632;color: #AB9632;margin-bottom: 15px;">
-	Destaques: Oceania
+	Destaques: Oriente Médio
 </div>
 
 <div class="novoticket" style="float: left;  width: 100%;">
 <?php 
-    echo do_shortcode("[metaslider id=2601]"); 
+    echo do_shortcode("[metaslider id=3026]"); 
 ?>
 </div>
 </div>
@@ -466,10 +535,20 @@ textarea, select {
 <div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width:310px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #AB9632;color: #AB9632;margin-bottom: 15px;">Últimas Notícias</div>
 
 <div class="novoticket" style="float: left;  width: 100%;">
-<a class="noticiaslinks" href="">Lei do Feminicídio encara a misoginia (Gazeta do Povo – 28/08/2015)</a><br>&nbsp;<br>
-<a class="noticiaslinks" href="">Lei específica não será efetiva sem mudança na mentalidade social (Blasting News – 28/08/2015)</a><br>&nbsp;<br>
-<a class="noticiaslinks" href="">Juíza defende a criação de banco de dados de homicídios de mulheres (Jornal do Brasil – 28/08/2015)</a><br>&nbsp;<br>
-<a class="noticiaslinks" href="">Leis Maria da Penha e do Feminicídio em pauta em seminário nesta sexta (Diário de Pernambuco – 28/08/2015)</a><br>&nbsp;<br>
+<?php
+$url = "http://rss.cnn.com/rss/edition_meast.rss"; // url to parse
+$rss = simplexml_load_file($url); // XML parser
+?>
+<?php
+$i = 0; // counter
+foreach($rss->channel->item as $item) {
+if ($i < 10) { // parse only 10 items
+    print '<a class="noticiaslinks" href="'.$item->link.'">'.$item->title.'</a><br>&nbsp;<br>';
+}
+
+$i++;
+}
+?>
 </div>
 </div>
 </div>
@@ -520,7 +599,7 @@ textarea, select {
 <div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/internacional-construcao.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
 <div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Construção</div>
-<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+<div style="text-align: justify;overflow: scroll;height: 129px;">Levar know how e empreendedorismo reconhecidos nos países onde atua pelo uso de tecnologias modernas, métodos inovadores e excelência em logística. Oferecer mão de obra qualificada, soluções eficientes e comprometimento com prazos acordados e a ética nas relações comerciais, além de um Sistema de Gestão Integrada (SGI) implantado em 100% das obras e determinante para os resultados propostos em seus diversos empreendimentos, ligando os 4(quatro) continentes às suas demandas.</div>
 </div>
 </div>
 
@@ -528,7 +607,7 @@ textarea, select {
 <div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/internacional-seguranca.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
 <div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Segurança</div>
-<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+<div style="text-align: justify;overflow: scroll;height: 129px;">Oferece projetos e soluções personalizadas para todos os mais diversos segmentos de mercado trabalhando com alta qualificação profissional e no suporte operacional com estrutura dedicada às necessidades de cada setor no qual atuamos, trazendo mais agilidade e segurança nos processos e confiabilidade de nossos clientes espelhados pelos 4(quatro) continentes.</div>
 </div>
 </div>
 
@@ -536,7 +615,7 @@ textarea, select {
 <div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/internacional-agronegocio.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
 <div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Agronegócio</div>
-<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+<div style="text-align: justify;overflow: scroll;height: 129px;">Oferecer produtos, processos e tecnologias agrícolas e pecuárias para as demandas públicas e privadas de forma eficiente e com excelencia normativa e respeito a procedencias originárias para que seus clientes possam contar com a confiabilidade e rastreamente de todo processo produtivo e tecnológico, trazendo mais segurança e confiança normativas em mercados exigentes.</div>
 </div>
 </div>
 
@@ -544,7 +623,7 @@ textarea, select {
 <div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/internacional-ambiental.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
 <div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Ambiental</div>
-<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+<div style="text-align: justify;overflow: scroll;height: 129px;">Levar projetos sustentáveis alinhando tecnologia e respeito ao meio ambiente de forma descentralizada, interligando processos e métodos que possam suprir demandas específicas aliadas com profissionais com alta capacitação. Respeito e atenção ao meio ambiente de forma a consciliar o moderno com o meio de maneira harmônica.</div>
 </div>
 </div>
 
@@ -552,7 +631,7 @@ textarea, select {
 <div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/internacional-saude.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
 <div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Saúde</div>
-<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+<div style="text-align: justify;overflow: scroll;height: 129px;">Levar produtos, matérias prima e tecnologia para atender demandas públicas e privadas tornando a vida de seus usuários mais prática e consciente. Aliando o melhor dos mercados líderes e desenvolvidos, levamos soluções para sua demanda de forma eficiente e com segurança atendendo as normativas internacionais.</div>
 </div>
 </div>
 
@@ -560,7 +639,7 @@ textarea, select {
 <div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/internacional-educacao.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
 <div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Educação</div>
-<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+<div style="text-align: justify;overflow: scroll;height: 129px;">Promover o intercâmbio de informações e conhecimento à população em desenvolvimento, trazendo know how de professores e instituições para compôr tradição e tecnologia para interligar a transmissão do ensino para chegar ao setor público ou privado o que tem de melhor no mercado internacional através de parcerias institucionais corporativas e publicas.</div>
 </div>
 </div>
 
@@ -568,7 +647,7 @@ textarea, select {
 <div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/internacional-seguros.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
 <div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Seguros</div>
-<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+<div style="text-align: justify;overflow: scroll;height: 129px;">Levar estrutura jurídica para oferecer produtos financeiros para sua empresa ou instituição através de companias locais e internacionais, proporcionando melhor resultado de custo x benefícios aos seus segurados. Através de uma plataforma de parcerias internacionais e empresas do GRB, levamos confiança e tradição para segurar de bem, minimizando burocracias e oferencendo facilidades adequadas a cada perfil.</div>
 </div>
 </div>
 
@@ -576,30 +655,9 @@ textarea, select {
 <div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/internacional-tecnologia.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
 <div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Tecnologia</div>
-<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+<div style="text-align: justify;overflow: scroll;height: 129px;">Com o complexo mapa de desenvolvido internacional o conhecimento tecnologico e seu uso faz se necessária em todas as áreas de atuação publica e privada. Trazemos tecnologia voltada para demandas específicas com logísitca instalada nos 4(quatro) continentes de forma eficientes e com plataformas que liga um hemisfério ao outro com rapidez e segurança.</div>
 </div>
 </div>
-
-<div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
-<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/internacional-transporte.jpg'); background-size: cover; height: 180px;"></div>
-<div style="float: left; width: 290px;">
-<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Transporte e Logística</div>
-<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
-</div>
-</div>
-
-<div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
-<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/internacional-social.jpg'); background-size: cover; height: 180px;"></div>
-<div style="float: left; width: 290px;">
-<div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Desenvolvimento Social</div>
-<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
-</div>
-</div>
-
-
-
-
-
 
 
 
@@ -652,7 +710,7 @@ Preencha o Formulário ao lado
 
 
 <div style="float: right; text-align: right; margin-top: 30px; border-top: solid 2px #AB9632; padding-top: 10px;">
-<div><img src="/wp-content/themes/theme47929/images/icon-googlemaps.png"><span style="color: #AB9632; font-size: 14px; text-transform: uppercase;">Onde estamos: </span>203, Rue Pierre Gansen - L-4570 Niederkorn - Luxemburg
+<div><img src="/wp-content/themes/theme47929/images/icon-googlemaps.png"><span style="color: #AB9632; font-size: 14px; text-transform: uppercase;">Onde estamos: </span>203, Rue Pierre Gansen - L-4570 Niederkorn - Luxembourg
 </div>
 </div>
 

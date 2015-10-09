@@ -158,7 +158,7 @@ A Rota Engenharia Industrial foi criada com o objetivo de apresentar a máxima q
 
 
 <div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
-<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/engenharia-obras-residenciais.jpg'); background-size: cover; height: 180px;"></div>
+<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/engenharia-conceituais.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
 <div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Projetos Conceitual</div>
 <div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
@@ -166,7 +166,7 @@ A Rota Engenharia Industrial foi criada com o objetivo de apresentar a máxima q
 </div>
 
 <div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
-<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/engenharia-obras-comerciais.jpg'); background-size: cover; height: 180px;"></div>
+<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/engenharia-detalhamento3d.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
 <div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Básico e Detalhado 2D e 3D</div>
 <div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
@@ -174,7 +174,7 @@ A Rota Engenharia Industrial foi criada com o objetivo de apresentar a máxima q
 </div>
 
 <div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
-<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/engenharia-obras-industriais.jpg'); background-size: cover; height: 180px;"></div>
+<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/engenharia-arquitetonico.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
 <div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Arquitetonico</div>
 <div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
@@ -190,7 +190,7 @@ A Rota Engenharia Industrial foi criada com o objetivo de apresentar a máxima q
 </div>
 
 <div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
-<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/engenharia-agricolas.jpg'); background-size: cover; height: 180px;"></div>
+<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/engenharia-99.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
 <div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Estrutural</div>
 <div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
@@ -198,7 +198,7 @@ A Rota Engenharia Industrial foi criada com o objetivo de apresentar a máxima q
 </div>
 
 <div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
-<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/engenharia-ambiental.jpg'); background-size: cover; height: 180px;"></div>
+<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/estruturas-8.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
 <div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Estrutura Metálica</div>
 <div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
@@ -206,7 +206,7 @@ A Rota Engenharia Industrial foi criada com o objetivo de apresentar a máxima q
 </div>
 
 <div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
-<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/engenharia-ambiental.jpg'); background-size: cover; height: 180px;"></div>
+<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/engenharia-eqpindustriais.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
 <div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Equipamentos Industriais</div>
 <div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
@@ -214,7 +214,7 @@ A Rota Engenharia Industrial foi criada com o objetivo de apresentar a máxima q
 </div>
 
 <div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
-<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/engenharia-ambiental.jpg'); background-size: cover; height: 180px;"></div>
+<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/engenharia-infraestrutura2.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
 <div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Infra e supra estruturas</div>
 <div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
@@ -222,7 +222,7 @@ A Rota Engenharia Industrial foi criada com o objetivo de apresentar a máxima q
 </div>
 
 <div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
-<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/engenharia-ambiental.jpg'); background-size: cover; height: 180px;"></div>
+<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/engenharia-galpao.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
 <div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Galpões metálicos, pré moldados e mistos.</div>
 <div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
@@ -230,7 +230,7 @@ A Rota Engenharia Industrial foi criada com o objetivo de apresentar a máxima q
 </div>
 
 <div style="float: left; width: 50%; margin: 0px; padding: 0px;background-color: #f1f1f1;margin-bottom: 5px;">
-<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/engenharia-ambiental.jpg'); background-size: cover; height: 180px;"></div>
+<div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/engenharia-automacao.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
 <div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Elétrico e Automação Industrial</div>
 <div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>

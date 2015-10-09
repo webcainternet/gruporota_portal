@@ -55,11 +55,10 @@ padding: 15px;
 }
 /* projetos */
 .float-projetos {
-float: left;
-width: 360px;
-text-align: center;
-margin-top: 15px;
-padding: 15px;
+    float: left;
+    width: 370px;
+    text-align: center;
+    padding: 5px 10px;
 }
 .float-projetos-image {
 background-size: cover;
@@ -129,88 +128,69 @@ O Sucesso desta Instituição será completo quando seus objetivos atingirem o m
 </div>
 
 
-<div style="background-image: url('/wp-content/themes/theme47929/images/header_bg_ambiental3.jpg'); background-position: cover; max-width: 1170px; width: 100%; height: 300px; float: left; border-radius: 10px; background-position-y: -250px; margin-top: 15px;">&nbsp;
-</div>
 </div>
 
 
 
 
-<div style="margin-left: 30px; float: left; font: normal 22px Open Sans; margin-top: 30px; width: 100%; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #1C82AF;color: #1C82AF; max-width: 1140px;">Projetos</div>
 
-<div style="margin-left: 25px;">
+
+
+
+
+<div style="float: left; margin-left: 30px; width: 1170px;">
+
+<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width: 1140px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #1C82AF;color: #1C82AF;">Projetos</div>
+
+
+
 
 <div class="float-projetos">
-        <div class="float-projetos-titulo">
-                Titulo muitos softwares de publicação e editores
-        </div>
-        
         <div style="background-image: url('/wp-content/uploads/2015/08/290720111395.jpg');" class="float-projetos-image">&nbsp;</div>
-
-        <div class="float-projetos-texto">
-                Muitos softwares de publicação e editores de páginas na internet agora usam Lorem Ipsum como texto-modelo padrão, e uma rápida busca por 'lorem ipsum' mostra.
-        </div>
 </div>
 
 <div class="float-projetos">
-        <div class="float-projetos-titulo">
-                Titulo muitos softwares de publicação e editores
-        </div>
-        
         <div style="background-image: url('/wp-content/uploads/2015/08/220720111379.jpg');" class="float-projetos-image">&nbsp;</div>
-
-        <div class="float-projetos-texto">
-                Muitos softwares de publicação e editores de páginas na internet agora usam Lorem Ipsum como texto-modelo padrão, e uma rápida busca por 'lorem ipsum' mostra.
-        </div>
 </div>
 
 <div class="float-projetos">
-        <div class="float-projetos-titulo">
-                Titulo muitos softwares de publicação e editores
-        </div>
-        
         <div style="background-image: url('/wp-content/uploads/2015/08/180620111263.jpg');" class="float-projetos-image">&nbsp;</div>
-
-        <div class="float-projetos-texto">
-                Muitos softwares de publicação e editores de páginas na internet agora usam Lorem Ipsum como texto-modelo padrão, e uma rápida busca por 'lorem ipsum' mostra.
-        </div>
 </div>
 
 <div class="float-projetos">
-        <div class="float-projetos-titulo">
-                Titulo muitos softwares de publicação e editores
-        </div>
-        
         <div style="background-image: url('/wp-content/uploads/2015/08/10122010946.jpg');" class="float-projetos-image">&nbsp;</div>
-
-        <div class="float-projetos-texto">
-                Muitos softwares de publicação e editores de páginas na internet agora usam Lorem Ipsum como texto-modelo padrão, e uma rápida busca por 'lorem ipsum' mostra.
-        </div>
 </div>
 
-
 <div class="float-projetos">
-        <div class="float-projetos-titulo">
-                Titulo muitos softwares de publicação e editores
-        </div>
-        
         <div style="background-image: url('/wp-content/uploads/2015/08/290720111395.jpg');" class="float-projetos-image">&nbsp;</div>
-
-        <div class="float-projetos-texto">
-                Muitos softwares de publicação e editores de páginas na internet agora usam Lorem Ipsum como texto-modelo padrão, e uma rápida busca por 'lorem ipsum' mostra.
-        </div>
 </div>
 
 <div class="float-projetos">
-        <div class="float-projetos-titulo">
-                Titulo muitos softwares de publicação e editores
-        </div>
-        
         <div style="background-image: url('/wp-content/uploads/2015/08/220720111379.jpg');" class="float-projetos-image">&nbsp;</div>
+</div>
 
-        <div class="float-projetos-texto">
-                Muitos softwares de publicação e editores de páginas na internet agora usam Lorem Ipsum como texto-modelo padrão, e uma rápida busca por 'lorem ipsum' mostra.
-        </div>
+<div class="float-projetos">
+        <div style="background-image: url('/wp-content/uploads/2015/08/180620111263.jpg');" class="float-projetos-image">&nbsp;</div>
+</div>
+
+<div class="float-projetos">
+        <div style="background-image: url('/wp-content/uploads/2015/08/10122010946.jpg');" class="float-projetos-image">&nbsp;</div>
+</div>
+
+<div class="float-projetos">
+        <div style="background-image: url('/wp-content/uploads/2015/08/290720111395.jpg');" class="float-projetos-image">&nbsp;</div>
+</div>
+
+<div class="float-projetos">
+        <div style="background-image: url('/wp-content/uploads/2015/08/220720111379.jpg');" class="float-projetos-image">&nbsp;</div>
+</div>
+
+<div class="float-projetos">
+        <div style="background-image: url('/wp-content/uploads/2015/08/180620111263.jpg');" class="float-projetos-image">&nbsp;</div>
+</div>
+
+<div class="float-projetos">
+        <div style="background-image: url('/wp-content/uploads/2015/08/10122010946.jpg');" class="float-projetos-image">&nbsp;</div>
 </div>
 
 </div>

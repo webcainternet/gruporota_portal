@@ -334,32 +334,44 @@ textarea, select {
 }
 </style>
 
-<div style="float: left; width: 830px;margin-top: -20px;">
-	<div><h2 style="color: #14a750;">Serviços Empresariais</h2></div>
-	<div style="text-align: justify; margin-right: 30px; color: #333;">
-		Trabalhamos com excelencia para atender os mais diversos segmentos empresariais, seja serviços, comercio ou industria no brasil e internacionalmente. A Rota Contabil ha mais de 10 anos no mercado atendendo a dezenas de clientes espalhandos pelo Brasil, vem aprimorando e usando ferramentas gerenciais para que seus clientes possam receber um atendimento rapido, agil e dinâmico, deixando os empresarios adequadamente em dias com suas obrigações e suas empresas perfeitamente operante e dentro das exigencias legais nas regiões em que operam.
+
+
+<div style="width: 100%; float: left;"> 
+    <div style="float: left; margin-top: -20px;">
+        <div><h2 style="color: #14a750;">Serviços Empresariais</h2></div>
+        <div style="text-align: justify; color: #333;">
+            <div style="float: left; width: 195px; text-align: left;">
+                <img src="/wp-content/uploads/logo-png/logo-rota-contabil-m.png" style="margin-left: 10px; width: 150px;">
+            </div>
+
+            <div style="float: left; width: 605px; text-align: justify; padding-right: 30px;">
+            Trabalhamos com excelencia para atender os mais diversos segmentos empresariais, seja serviços, comercio ou industria no brasil e internacionalmente. A Rota Contabil ha mais de 10 anos no mercado atendendo a dezenas de clientes espalhandos pelo Brasil, vem aprimorando e usando ferramentas gerenciais para que seus clientes possam receber um atendimento rapido, agil e dinâmico, deixando os empresarios adequadamente em dias com suas obrigações e suas empresas perfeitamente operante e dentro das exigencias legais nas regiões em que operam.
+            </div>
+        </div>
+    </div>
+
+
+	<div style="float: left; width: 25%; margin-top: 10px;">
+		<div style="margin-top: -50px;">
+		<h2 style="color: #2c3e50;">
+		<div style="background-color: #14a750;position: absolute; font: normal 15px/20px Open Sans !important; z-index: 10; padding: 8px 15px 8px 15px; text-transform: uppercase; color: #FFFFFF;">Já sou cliente</div>
+		</h2>
+		</div>
+
+		<div style="margin-top: 80px;">
+		<table style="width: 100%;">
+		<tr>
+		<td style="text-align: right;">
+			<a href="/area-restrita"><img border="0" src="/wp-content/themes/theme47929/images/icon-seguranca.png" style="width: 48px;" width="48"></a>
+		</td>
+		<td style="font-size: 16px;
+		    padding-left: 10px;"><a href="/area-restrita" style="color: #222;">Ir para acesso restrito</a></td>
+		</tr>
+		</table>
+		</div>
 	</div>
 </div>
 
-<div style="float: left; width: 25%;">
-	<div style="margin-top: -50px;">
-	<h2 style="color: #2c3e50;">
-	<div style="background-color: #14a750;position: absolute; font: normal 15px/20px Open Sans !important; z-index: 10; padding: 8px 15px 8px 15px; text-transform: uppercase; color: #FFFFFF;">Já sou cliente</div>
-	</h2>
-	</div>
-
-	<div style="margin-top: 80px;">
-	<table style="width: 100%;">
-	<tr>
-	<td style="text-align: right;">
-		<a href="/area-restrita"><img border="0" src="/wp-content/themes/theme47929/images/icon-seguranca.png" style="width: 48px;" width="48"></a>
-	</td>
-	<td style="font-size: 16px;
-	    padding-left: 10px;"><a href="/area-restrita" style="color: #222;">Ir para acesso restrito</a></td>
-	</tr>
-	</table>
-	</div>
-</div>
 
 
 
@@ -368,39 +380,6 @@ textarea, select {
 
 
 
-
-<div style="float: left; width: 800px;margin-top: -15px;">
-<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width:770px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #14a750;color: #14a750;margin-bottom: 15px;">Destaques</div>
-
-<div class="novoticket" style="float: left;  width: 100%;">
-<?php 
-    echo do_shortcode("[metaslider id=2601]"); 
-?>
-</div>
-</div>
-
-
-
-
-
-
-
-
-<div style="float: left; width: 340px; margin-left: 30px;margin-top: -15px;">
-<div style="float: left; font: normal 22px Open Sans; margin-top: 30px; width:310px; height: 41px; padding: 10px 10px 3px;background-color: #f2f2f2;border-left: solid 10px #14a750;color: #14a750;margin-bottom: 15px;">Últimas Notícias</div>
-
-<div class="novoticket" style="float: left;  width: 100%;">
-<a class="noticiaslinks" href="">Pesquisa traça perfil de vítimas de violência doméstica (Diário de Pernambuco – 28/08/2015)</a><br>&nbsp;<br>
-
-<a class="noticiaslinks" href="">Lei específica não será efetiva sem mudança na mentalidade social (Blasting News – 28/08/2015)</a><br>&nbsp;<br>
-
-<a class="noticiaslinks" href="">Juíza defende a criação de banco de dados de homicídios de mulheres (Jornal do Brasil – 28/08/2015)</a><br>&nbsp;<br>
-
-<a class="noticiaslinks" href="">Leis Maria da Penha e do Feminicídio em pauta em seminário nesta sexta (Diário de Pernambuco – 28/08/2015)</a><br>&nbsp;<br>
-
-<a class="noticiaslinks" href="">Lei do Feminicídio encara a misoginia (Gazeta do Povo – 28/08/2015)</a><br>&nbsp;<br>
-</div>
-</div>
 
 
 
@@ -467,8 +446,13 @@ Linha digitável:<br>
 <div style="float: left; width: 100%;">
 <div class="novoticket" style="float: left;  width: 100%;">
 
+<div style="margin-top: -100px;">
+<h2 style="color: #2c3e50;">
+<div style="background-color: #14a750;position: absolute; font: normal 15px/20px Open Sans !important; z-index: 10; padding: 8px 15px 8px 15px; text-transform: uppercase; color: #FFFFFF;">Veja também</div>
+</h2>
+</div>
 
-<table>
+<table style="margin-top: 80px;">
 	<tr>
 		<td style="text-align: center; padding: 15px;"><a href="#"><img width="55" src="/wp-content/themes/theme47929/servicos-empresariais/ic5.png" border="0"></a></td>
 		<td><div class="tituloicon">Jurisprudência</div>

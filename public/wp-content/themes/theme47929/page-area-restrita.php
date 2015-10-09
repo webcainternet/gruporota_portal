@@ -190,7 +190,7 @@ get_header(); ?>
 
 						<div id="area-colaboradores" style="float: left; width: 100%;">
 							<h2 style="margin-bottom: 45px;">Acesso Colaboradores</h2>
-							<form action="/logininterno.php" method="post">
+							<form action="/logininterno.php" target="_blank" method="post">
 							<div class="BoxTodosMaior BoxPortal" style="margin-left: 285px;">
 								<div class="hi-icon-wrap hi-icon-effect-5 hi-icon-effect-5a">
 									<a href="#set-5" class="hi-icon hi-icon-earth cor304C67">Portal</a>
@@ -232,7 +232,7 @@ get_header(); ?>
 
 						<div id="area-webmail" style="float: left; width: 100%;">
 							<h2 style="margin-bottom: 45px;">Webmail</h2>
-							<form novalidate="" id="login_form" action="http://www.gruporotadobrasil.com.br:2095/login/" method="post">
+							<form novalidate="" id="login_form" target="_blank" action="http://www.gruporotadobrasil.com.br:2095/login/" method="post">
 							<div class="BoxTodosMaior BoxEmail" onclick="javascript: btWebmail();" style="margin-left: 285px;">
 								<div class="hi-icon-wrap hi-icon-effect-5 hi-icon-effect-5a">
 									<a href="#set-5" class="hi-icon hi-icon-mail coreea303">Portal</a>

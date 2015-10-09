@@ -110,6 +110,35 @@ textarea, select {
 </style>
 
 
+
+
+
+
+<div style="width: 100%; float: left;"> 
+    <div style="float: left; margin-top: -20px;">
+        <div><h2 style="color: #FFAA23; text-align: left;">Responsabilidade Social</h2></div>
+        <div style="text-align: justify; color: #333;">
+            <div style="float: left; width: 195px; text-align: left;">
+                <img src="/wp-content/uploads/logo-png/logo-instituto-rota-g.png" style="margin-left: 10px; width: 130px; margin-top: 10px;">
+            </div>
+
+            <div style="float: left; width: 745px; text-align: justify;">
+	            O Instituto Rota do Brasil é uma instituição que se destina à realização de atividades de caráter social, cultural e esportivo, bem como atividades educacionais, técnico-profissionais visando o interesse coletivo e o bem-estar de seus beneficiários, sociedade, empresas e instituições envolvidas.
+            </div>
+
+			<div style="float: left; width: 225px; text-align: right;">
+				<img src="/wp-content/themes/theme47929/images/responsabilidadeworld.jpg" style="margin-right: 50px; margin-top: -10px;width: 135px;">
+			</div>
+
+        </div>
+    </div>
+</div>
+
+
+
+
+<?php /*
+
 <div style="float: left; width: 945px;">
 
 
@@ -128,6 +157,7 @@ textarea, select {
 <img src="/wp-content/themes/theme47929/images/responsabilidadeworld.jpg" style="margin-right: 50px; margin-top: -10px;width: 135px;">
 </div>
 
+*/ ?>
 
 
 
@@ -140,7 +170,7 @@ textarea, select {
 
 <div style="width: 100%; float: left; text-align: justify;">
 <div>&nbsp;<br>
-Promoverá o acesso da sociedade a diversas atividades de caráter esportivo, social, profissionalizante e educacional.Essas tarefas demandam um conjunto de princípios éticos e gerenciais que orientam ações pessoais e coletivas na condução de projetos em realização tais como formação e profissionalização, a prática de esportes e integração de milhares de brasileiros nos mais diversos recantos do país. 
+Promover o acesso da sociedade a diversas atividades de caráter esportivo, social, profissionalizante e educacional.Essas tarefas demandam um conjunto de princípios éticos e gerenciais que orientam ações pessoais e coletivas na condução de projetos em realização tais como formação e profissionalização, a prática de esportes e integração de milhares de brasileiros nos mais diversos recantos do país. 
 
 Instituto Rota do Brasil estará presente em locais onde carece de instrumentos de inserção social promovendo e integrando os cidadãos aos objetivos destes projetos ou programas em parcerias que impactam na vida familiar, social e profissional dos beneficiários. 
 
@@ -169,7 +199,7 @@ O Sucesso desta Instituição será completo quando seus objetivos atingirem o m
 <div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/instituto-profissionalizante.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
 <div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Desenvolvimento profissionalizante</div>
-<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+<div style="text-align: justify; overflow: scroll; height: 142px;">Através de cursos técnicos e profissionalizantes, o IRB cuida de promover maior capacitação da população aonde atua de moda a preparar os envolvidos para o mercado de trabalho local trazendo mais respeito e esperança aos beneficiados. Tais cursos locais deixam as famílias de seus envolvidos engajados no progresso e com melhor capacidade para se desenvolverem garantindo mais qualidade de vida familiar.</div>
 </div>
 </div>
 
@@ -177,7 +207,7 @@ O Sucesso desta Instituição será completo quando seus objetivos atingirem o m
 <div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/instituto-educacional.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
 <div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Desenvolvimento educacional</div>
-<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+<div style="text-align: justify; overflow: scroll; height: 142px;">Através de parcerias públicas e privadas locais, o IRB trabalha com princípios balizadores da educação pois acredita que o conhecimento permite que as pessoas possam se desenvolver mais facilmente entrando com mais segurança e respeito no mercado de trabalho e trazendo maior qualidade de vida e respeito pessoal e familiar.</div>
 </div>
 </div>
 
@@ -185,7 +215,7 @@ O Sucesso desta Instituição será completo quando seus objetivos atingirem o m
 <div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/instituto-social.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
 <div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Desenvolvimento social</div>
-<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+<div style="text-align: justify; overflow: scroll; height: 142px;">A pratica de esportes incentiva crianças, jovens e adultos a se desenvolverem de forma a ter maior reconhecimento pessoal, familiar e do mercado, Através de parques construídos para incentivar diversos esportes, o IRB leva para as comunidades em parceria com o setor público e privado, uma estrutura esportiva que permitem familias praticarem esportes como meio de se capacitarem socialmente alem de promover o bem estar físico e mental de cada um.</div>
 </div>
 </div>
 
@@ -197,7 +227,7 @@ O Sucesso desta Instituição será completo quando seus objetivos atingirem o m
 <div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/instituto-alimentar.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
 <div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Desenvolvimento alimentar</div>
-<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+<div style="text-align: justify; overflow: scroll; height: 142px;">Através de hortas comunitárias o IRB cuida de treinar os envolvidos no cultivo de alimentos para sua familia e comunidade realizando parceriais públicas e privadas para promover o acesso básico a alimentação tirando dezenas de milhares de pessoas da linha da pobreza e fome que assola muitas regiões e que precisam ser conduzidas para programas e projetos que facilitem este acesso, melhorando este distanciamento.</div>
 </div>
 </div>
 
@@ -205,7 +235,7 @@ O Sucesso desta Instituição será completo quando seus objetivos atingirem o m
 <div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/instituto-habitacional.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
 <div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Desenvolvimento habitacional</div>
-<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+<div style="text-align: justify; overflow: scroll; height: 142px;">Através de acordos e parcerias institucionais, o IRB promove o acesso a habitação local com menos burocracia e com baixos custos pois incentiva às comunidades envolvidas a atuarem na construção de imóveis socias que garantem as suas familias uma melhor qualidade de vida e segurança física e social. Assim realiza projetos eficientes e com tecnologias que garantem melhor custo e rapidez na sua execução.</div>
 </div>
 </div>
 
@@ -213,7 +243,7 @@ O Sucesso desta Instituição será completo quando seus objetivos atingirem o m
 <div style="float: left; width: 250px; margin-right: 10px; background-image: url('/wp-content/themes/theme47929/images/instituto-ambiental.jpg'); background-size: cover; height: 180px;"></div>
 <div style="float: left; width: 290px;">
 <div style="font-size: 18px; margin-top: 10px; margin-bottom: 10px; color: #2c3e50;">Desenvolvimento ambiental</div>
-<div style="text-align: justify;">Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum</div>
+<div style="text-align: justify; overflow: scroll; height: 142px;">Através do incentivo à preservação ao meio ambiente, o IRB promove cursos, workshops, seminários com comunidades e instituições levando conhecimento e boas praticas para que cuidem melhor do nosso meio ambiente. Esta estrutura conta com plantio de árvores, cuidados com nascentes, armazenamento adequado de lixos e todos os componentes ambientais para garantir que nossas futuras gerações possam estar em um mundo mais limpo e com os recursos naturais garantidos.</div>
 </div>
 </div>
 </td>
@@ -239,7 +269,7 @@ O Sucesso desta Instituição será completo quando seus objetivos atingirem o m
 <table style="width: 100%;margin-left: 0px;">
 <tr>
 <td style="width: 50%; vertical-align: top; text-align: justify; padding: 15px 15px 0px 0px;">
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur
+A responsabilidade social nasce de todos nós cidadãos, políticos e empresários. Os governos não têm um processo de inclusão usando ferramentas direcionadas e eficientes se tornando engessados nestes processos. Com os Institutos, podemos encurtar estes processos e através de parcerias com cidadãos do bem, empresários e setor público, podemos levar melhor qualidade de vida e promover a responsabilidade social da qual todos nós temos a responsabilidade para que assim tenhamos um mundo mais justo e perfeito. Preencha o formulário ao lado e venho fazer parte deste circulo do bem.
 </td>
 
 <td style="width: 50%; vertical-align: top; text-align: justify; padding: 15px 15px 0px 0px;">

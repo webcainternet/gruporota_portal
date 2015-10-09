@@ -146,51 +146,51 @@ display: inline;
 
 
 <div class="float-projetos">
-        <div style="background-image: url('/wp-content/uploads/2015/08/290720111395.jpg');" class="float-projetos-image">&nbsp;</div>
+        <div style="background-image: url('/wp-content/themes/theme47929/images/estruturas-1.jpg');" class="float-projetos-image">&nbsp;</div>
 </div>
 
 <div class="float-projetos">
-        <div style="background-image: url('/wp-content/uploads/2015/08/220720111379.jpg');" class="float-projetos-image">&nbsp;</div>
+        <div style="background-image: url('/wp-content/themes/theme47929/images/estruturas-2.jpg');" class="float-projetos-image">&nbsp;</div>
 </div>
 
 <div class="float-projetos">
-        <div style="background-image: url('/wp-content/uploads/2015/08/180620111263.jpg');" class="float-projetos-image">&nbsp;</div>
+        <div style="background-image: url('/wp-content/themes/theme47929/images/estruturas-3.jpg');" class="float-projetos-image">&nbsp;</div>
 </div>
 
 <div class="float-projetos">
-        <div style="background-image: url('/wp-content/uploads/2015/08/10122010946.jpg');" class="float-projetos-image">&nbsp;</div>
+        <div style="background-image: url('/wp-content/themes/theme47929/images/estruturas-4.jpg');" class="float-projetos-image">&nbsp;</div>
 </div>
 
 <div class="float-projetos">
-        <div style="background-image: url('/wp-content/uploads/2015/08/290720111395.jpg');" class="float-projetos-image">&nbsp;</div>
+        <div style="background-image: url('/wp-content/themes/theme47929/images/estruturas-5.jpg');" class="float-projetos-image">&nbsp;</div>
 </div>
 
 <div class="float-projetos">
-        <div style="background-image: url('/wp-content/uploads/2015/08/220720111379.jpg');" class="float-projetos-image">&nbsp;</div>
+        <div style="background-image: url('/wp-content/themes/theme47929/images/estruturas-6.jpg');" class="float-projetos-image">&nbsp;</div>
 </div>
 
 <div class="float-projetos">
-        <div style="background-image: url('/wp-content/uploads/2015/08/180620111263.jpg');" class="float-projetos-image">&nbsp;</div>
+        <div style="background-image: url('/wp-content/themes/theme47929/images/estruturas-7.jpg');" class="float-projetos-image">&nbsp;</div>
 </div>
 
 <div class="float-projetos">
-        <div style="background-image: url('/wp-content/uploads/2015/08/10122010946.jpg');" class="float-projetos-image">&nbsp;</div>
+        <div style="background-image: url('/wp-content/themes/theme47929/images/estruturas-8.jpg');" class="float-projetos-image">&nbsp;</div>
 </div>
 
 <div class="float-projetos">
-        <div style="background-image: url('/wp-content/uploads/2015/08/290720111395.jpg');" class="float-projetos-image">&nbsp;</div>
+        <div style="background-image: url('/wp-content/themes/theme47929/images/estruturas-9.jpg');" class="float-projetos-image">&nbsp;</div>
 </div>
 
 <div class="float-projetos">
-        <div style="background-image: url('/wp-content/uploads/2015/08/220720111379.jpg');" class="float-projetos-image">&nbsp;</div>
+        <div style="background-image: url('/wp-content/themes/theme47929/images/estruturas-10.jpg');" class="float-projetos-image">&nbsp;</div>
 </div>
 
 <div class="float-projetos">
-        <div style="background-image: url('/wp-content/uploads/2015/08/180620111263.jpg');" class="float-projetos-image">&nbsp;</div>
+        <div style="background-image: url('/wp-content/themes/theme47929/images/estruturas-11.jpg');" class="float-projetos-image">&nbsp;</div>
 </div>
 
 <div class="float-projetos">
-        <div style="background-image: url('/wp-content/uploads/2015/08/10122010946.jpg');" class="float-projetos-image">&nbsp;</div>
+        <div style="background-image: url('/wp-content/themes/theme47929/images/estruturas-12.jpg');" class="float-projetos-image">&nbsp;</div>
 </div>
 
 
@@ -198,6 +198,7 @@ display: inline;
 
 
 
+<div style="width: 100%; float: left;">&nbsp;</div>
 
 
 
